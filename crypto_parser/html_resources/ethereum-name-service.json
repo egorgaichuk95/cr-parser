@@ -1,0 +1,606 @@
+{
+  "source": "https://intel.arkm.com/explorer/token/ethereum-name-service",
+  "collected_at": "2026-02-10T15:29:08.791Z",
+  "rows": [
+    {
+      "name": "Ethereum Name Service\n: \nToken Time Lock (0xd7A)",
+      "balance_raw": "47,059,604.41",
+      "percent_raw": "47.06%",
+      "usd_raw": "$267.3M"
+    },
+    {
+      "name": "Upbit\n: \nCold Wallet (0x245)",
+      "balance_raw": "12,084,257.56",
+      "percent_raw": "12.08%",
+      "usd_raw": "$68.64M"
+    },
+    {
+      "name": "Ethereum Name Service\n: \nDAO Timelock (0xFe8)",
+      "balance_raw": "9,701,035.6",
+      "percent_raw": "9.7%",
+      "usd_raw": "$55.1M"
+    },
+    {
+      "name": "Ethereum Name Service\n: \nGnosis Safe Proxy (0x690)",
+      "balance_raw": "5,035,675.2",
+      "percent_raw": "5.04%",
+      "usd_raw": "$28.6M"
+    },
+    {
+      "name": "0x2Cd5BB500066B913d320Fc9AC52a72422915c422",
+      "balance_raw": "3,289,837.75",
+      "percent_raw": "3.29%",
+      "usd_raw": "$18.69M"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0xF97)",
+      "balance_raw": "3,100,000",
+      "percent_raw": "3.1%",
+      "usd_raw": "$17.61M"
+    },
+    {
+      "name": "Bithumb\n: \nHot Wallet (0x498)",
+      "balance_raw": "2,440,093.53",
+      "percent_raw": "2.44%",
+      "usd_raw": "$13.86M"
+    },
+    {
+      "name": "0xa0B49eE43B256eE817D0e466fB88A3a25BF76277",
+      "balance_raw": "739,784.2",
+      "percent_raw": "0.74%",
+      "usd_raw": "$4.2M"
+    },
+    {
+      "name": "OKX\n: \nCold Wallet (0x073)",
+      "balance_raw": "644,598.38",
+      "percent_raw": "0.64%",
+      "usd_raw": "$3.66M"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0x187)",
+      "balance_raw": "498,363.79",
+      "percent_raw": "0.5%",
+      "usd_raw": "$2.83M"
+    },
+    {
+      "name": "0x6A496c6076A1F3ca554b6F4eEf81e4885A433cFE",
+      "balance_raw": "410,342.46",
+      "percent_raw": "0.41%",
+      "usd_raw": "$2.33M"
+    },
+    {
+      "name": "0x801960b082d48F822395B03dF7B1908899ab03Aa",
+      "balance_raw": "304,539.56",
+      "percent_raw": "0.3%",
+      "usd_raw": "$1.73M"
+    },
+    {
+      "name": "Coinbase\n: \nHot Wallet (0xA9D)",
+      "balance_raw": "240,420.39",
+      "percent_raw": "0.24%",
+      "usd_raw": "$1.37M"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x4e5)",
+      "balance_raw": "232,224.16",
+      "percent_raw": "0.23%",
+      "usd_raw": "$1.32M"
+    },
+    {
+      "name": "BtcTurk\n: \nHot Wallet (0x76e)",
+      "balance_raw": "191,620.51",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.09M"
+    },
+    {
+      "name": "0x2f8ee284219E6B9d2dC080de75831fC60ff7d201",
+      "balance_raw": "188,905.51",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.07M"
+    },
+    {
+      "name": "0xED0062AB7E2699D89959b0a55efAfEb6202C8e77",
+      "balance_raw": "188,905.51",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.07M"
+    },
+    {
+      "name": "0xb63c0858AA983562F064D7678bd30415669dBBE4",
+      "balance_raw": "188,905.51",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.07M"
+    },
+    {
+      "name": "0xFb3ef12f7792600a20a93A633D87448a87C4C14e",
+      "balance_raw": "188,905.51",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.07M"
+    },
+    {
+      "name": "0xfF79bBf6EC5729dFc095664a00c5c0f8E4613E0d",
+      "balance_raw": "188,905.51",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.07M"
+    },
+    {
+      "name": "0xf2Bc77093395e2Ff844A218773d4a35b5178a8DF",
+      "balance_raw": "188,905.51",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.07M"
+    },
+    {
+      "name": "0x06D6f3f9db90c77b53481246768B9Faf986FCa4B",
+      "balance_raw": "188,905.51",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.07M"
+    },
+    {
+      "name": "0x27Cb73Fed870CDdfd782dF16518466316782268b",
+      "balance_raw": "188,732.18",
+      "percent_raw": "0.19%",
+      "usd_raw": "$1.07M"
+    },
+    {
+      "name": "OKX\n: \nHot Wallet (0x91D)",
+      "balance_raw": "181,914.51",
+      "percent_raw": "0.18%",
+      "usd_raw": "$1.03M"
+    },
+    {
+      "name": "0x7EE6b3f61503409527485dD5F4dAC730f9C1ADb1",
+      "balance_raw": "181,000.07",
+      "percent_raw": "0.18%",
+      "usd_raw": "$1.03M"
+    },
+    {
+      "name": "0x7Df0Ff2E8D2d8bF6e4AE42bcAF05b62f85142131",
+      "balance_raw": "175,903.05",
+      "percent_raw": "0.18%",
+      "usd_raw": "$999.13K"
+    },
+    {
+      "name": "Bitget\n: \nCold Wallet (0xffa)",
+      "balance_raw": "174,824.61",
+      "percent_raw": "0.17%",
+      "usd_raw": "$993K"
+    },
+    {
+      "name": "Binance\n: \nHot Wallet (0x28C)",
+      "balance_raw": "160,312.43",
+      "percent_raw": "0.16%",
+      "usd_raw": "$910.57K"
+    },
+    {
+      "name": "Binance\n \n(0x98A)",
+      "balance_raw": "149,174.25",
+      "percent_raw": "0.15%",
+      "usd_raw": "$847.31K"
+    },
+    {
+      "name": "Paribu\n: \nCold Wallet (0xc36)",
+      "balance_raw": "135,894.82",
+      "percent_raw": "0.14%",
+      "usd_raw": "$771.88K"
+    },
+    {
+      "name": "Coinone\n: \nHot Wallet (0x167)",
+      "balance_raw": "133,813.99",
+      "percent_raw": "0.13%",
+      "usd_raw": "$760.06K"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0x436)",
+      "balance_raw": "131,095.54",
+      "percent_raw": "0.13%",
+      "usd_raw": "$744.62K"
+    },
+    {
+      "name": "ricmoo.eth (0x555)",
+      "balance_raw": "129,996.48",
+      "percent_raw": "0.13%",
+      "usd_raw": "$738.38K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (0xCFF)",
+      "balance_raw": "109,686.67",
+      "percent_raw": "0.11%",
+      "usd_raw": "$623.02K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0xd50)",
+      "balance_raw": "103,897.29",
+      "percent_raw": "0.1%",
+      "usd_raw": "$590.14K"
+    },
+    {
+      "name": "Uniswap\n: \nENS 5 (0x925)",
+      "balance_raw": "100,296.58",
+      "percent_raw": "0.1%",
+      "usd_raw": "$569.68K"
+    },
+    {
+      "name": "ensangel.eth (0x910)",
+      "balance_raw": "100,000",
+      "percent_raw": "0.1%",
+      "usd_raw": "$568K"
+    },
+    {
+      "name": "0x3990FB520836C283151Ecf50D333084C8D9977Be",
+      "balance_raw": "100,000",
+      "percent_raw": "0.1%",
+      "usd_raw": "$568K"
+    },
+    {
+      "name": "Galaxy Digital?\n0x8Fa4EE1776032B612206E754eC2382b534D4ac6F",
+      "balance_raw": "99,999.7",
+      "percent_raw": "0.1%",
+      "usd_raw": "$568K"
+    },
+    {
+      "name": "0xa83458D32342Fd8B69B8BCD56d9f029a1E666D9e",
+      "balance_raw": "88,841.13",
+      "percent_raw": "0.089%",
+      "usd_raw": "$504.62K"
+    },
+    {
+      "name": "0xFADEDa5bC4664f1442E4d1c832bB835E840FA386",
+      "balance_raw": "88,525.27",
+      "percent_raw": "0.089%",
+      "usd_raw": "$502.82K"
+    },
+    {
+      "name": "Coinbase\n: \nCoinbase Prime Custody (0x9C8)",
+      "balance_raw": "88,018.42",
+      "percent_raw": "0.088%",
+      "usd_raw": "$499.94K"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (0xd2D)",
+      "balance_raw": "86,802.79",
+      "percent_raw": "0.087%",
+      "usd_raw": "$493.04K"
+    },
+    {
+      "name": "Kraken\n: \nHot Wallet (0xB64)",
+      "balance_raw": "82,961.21",
+      "percent_raw": "0.083%",
+      "usd_raw": "$471.22K"
+    },
+    {
+      "name": "Gate\n: \nHot Wallet (0x0D0)",
+      "balance_raw": "82,767.7",
+      "percent_raw": "0.083%",
+      "usd_raw": "$470.12K"
+    },
+    {
+      "name": "Ethereum Name Service\n: \nMetaGov MultiSig (0x91c)",
+      "balance_raw": "82,274.04",
+      "percent_raw": "0.082%",
+      "usd_raw": "$467.32K"
+    },
+    {
+      "name": "0xbd1C78C1E09aB436de4336c7Cc403E90514E7cF6",
+      "balance_raw": "82,000",
+      "percent_raw": "0.082%",
+      "usd_raw": "$465.76K"
+    },
+    {
+      "name": "0xd53C7655B7c017Cc0a7fD7363Dd005d7529cbB35",
+      "balance_raw": "80,000",
+      "percent_raw": "0.08%",
+      "usd_raw": "$454.4K"
+    },
+    {
+      "name": "0xd4Dd6De7FbFdf0d46cEbB0A26Af56C35E85ec65A",
+      "balance_raw": "80,000",
+      "percent_raw": "0.08%",
+      "usd_raw": "$454.4K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (0xA02)",
+      "balance_raw": "79,364.13",
+      "percent_raw": "0.079%",
+      "usd_raw": "$450.79K"
+    },
+    {
+      "name": "Gate\n: \nCold Wallet (0xC88)",
+      "balance_raw": "77,052.79",
+      "percent_raw": "0.077%",
+      "usd_raw": "$437.66K"
+    },
+    {
+      "name": "0xf22BA5A58D360Def807cE3F8cF6B731C90bF55DD",
+      "balance_raw": "76,675.84",
+      "percent_raw": "0.077%",
+      "usd_raw": "$435.52K"
+    },
+    {
+      "name": "eToro?\n0x77FB357f55BEf5a70d30663955F8C9f35794DF0E",
+      "balance_raw": "76,044.12",
+      "percent_raw": "0.076%",
+      "usd_raw": "$431.93K"
+    },
+    {
+      "name": "0x0A27EC76365F0cB061FD6da38AFF724a7357E9B6",
+      "balance_raw": "74,066",
+      "percent_raw": "0.074%",
+      "usd_raw": "$420.69K"
+    },
+    {
+      "name": "0x688e83760cf1da9315bFb42aCE7F7Dbe03F92B8A",
+      "balance_raw": "71,406",
+      "percent_raw": "0.071%",
+      "usd_raw": "$405.59K"
+    },
+    {
+      "name": "0x51156Fac373f1CbCf74B0293e7BCF9266931Ef9D",
+      "balance_raw": "69,892.1",
+      "percent_raw": "0.07%",
+      "usd_raw": "$396.99K"
+    },
+    {
+      "name": "OKX\n: \nHot Wallet (0x4A4)",
+      "balance_raw": "67,211.05",
+      "percent_raw": "0.067%",
+      "usd_raw": "$381.76K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x482)",
+      "balance_raw": "66,622.04",
+      "percent_raw": "0.067%",
+      "usd_raw": "$378.41K"
+    },
+    {
+      "name": "0x8CAdd95c0f968Ca6d01B03dC8137D59a932d23B6",
+      "balance_raw": "65,000",
+      "percent_raw": "0.065%",
+      "usd_raw": "$369.2K"
+    },
+    {
+      "name": "Bithumb Deposit (0xb1A)",
+      "balance_raw": "63,983.6",
+      "percent_raw": "0.064%",
+      "usd_raw": "$363.43K"
+    },
+    {
+      "name": "0x95B1665A3F1cC03ADa184bf83E334452FDeccED7",
+      "balance_raw": "61,929.4",
+      "percent_raw": "0.062%",
+      "usd_raw": "$351.76K"
+    },
+    {
+      "name": "0x5250265A80f95a161F5ED0f93F119bcC17d23149",
+      "balance_raw": "61,116.77",
+      "percent_raw": "0.061%",
+      "usd_raw": "$347.14K"
+    },
+    {
+      "name": "Coinhako\n: \nHot Wallet (0xE66)",
+      "balance_raw": "59,522.68",
+      "percent_raw": "0.06%",
+      "usd_raw": "$338.09K"
+    },
+    {
+      "name": "Paribu\n: \nHot Wallet (0xc80)",
+      "balance_raw": "59,338.14",
+      "percent_raw": "0.059%",
+      "usd_raw": "$337.04K"
+    },
+    {
+      "name": "Bitstamp\n: \nHot Wallet (0x7f6)",
+      "balance_raw": "57,863.22",
+      "percent_raw": "0.058%",
+      "usd_raw": "$328.66K"
+    },
+    {
+      "name": "Gemini\n: \nCold Wallet (0xAFC)",
+      "balance_raw": "55,000",
+      "percent_raw": "0.055%",
+      "usd_raw": "$312.4K"
+    },
+    {
+      "name": "Bitvavo\n: \nCold Wallet (0xc41)",
+      "balance_raw": "54,056.95",
+      "percent_raw": "0.054%",
+      "usd_raw": "$307.04K"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (0x964)",
+      "balance_raw": "52,679.37",
+      "percent_raw": "0.053%",
+      "usd_raw": "$299.22K"
+    },
+    {
+      "name": "KuCoin\n: \nCold Wallet (0x69b)",
+      "balance_raw": "51,824.52",
+      "percent_raw": "0.052%",
+      "usd_raw": "$294.36K"
+    },
+    {
+      "name": "0x525869AD2488101b5cf47e0D898a59f029b32b03",
+      "balance_raw": "50,560.86",
+      "percent_raw": "0.051%",
+      "usd_raw": "$287.19K"
+    },
+    {
+      "name": "0x13BF6057bd5d5C37095372FCaCff7b93B5B75F0D",
+      "balance_raw": "50,346.86",
+      "percent_raw": "0.05%",
+      "usd_raw": "$285.97K"
+    },
+    {
+      "name": "0x53b387B0F9017007d3A56c57c5f28317b97c059f",
+      "balance_raw": "50,000",
+      "percent_raw": "0.05%",
+      "usd_raw": "$284K"
+    },
+    {
+      "name": "0x2c97A5420AE04436ce7e4F14357505a4dc63bD4A",
+      "balance_raw": "50,000",
+      "percent_raw": "0.05%",
+      "usd_raw": "$284K"
+    },
+    {
+      "name": "0x56e86e571F7576954c57d54E03EcFFb711659709",
+      "balance_raw": "50,000",
+      "percent_raw": "0.05%",
+      "usd_raw": "$284K"
+    },
+    {
+      "name": "0x47888DF5d055B56b596Ae92f68BF4af3532f7020",
+      "balance_raw": "50,000",
+      "percent_raw": "0.05%",
+      "usd_raw": "$284K"
+    },
+    {
+      "name": "0xa9b58D4a68c8faE7060505e9fB2a9e2f51baD7aC",
+      "balance_raw": "50,000",
+      "percent_raw": "0.05%",
+      "usd_raw": "$284K"
+    },
+    {
+      "name": "0xAFc7973FE2c0Bc177eD6F2A9521b47084B7085Cf",
+      "balance_raw": "50,000",
+      "percent_raw": "0.05%",
+      "usd_raw": "$284K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x0a8)",
+      "balance_raw": "49,341.38",
+      "percent_raw": "0.049%",
+      "usd_raw": "$280.26K"
+    },
+    {
+      "name": "Bitvavo\n: \nCold Wallet (0xedC)",
+      "balance_raw": "48,648.74",
+      "percent_raw": "0.049%",
+      "usd_raw": "$276.32K"
+    },
+    {
+      "name": "Uniswap\n: \nUSDC-ENS (0x5F7)",
+      "balance_raw": "47,808.8",
+      "percent_raw": "0.048%",
+      "usd_raw": "$271.55K"
+    },
+    {
+      "name": "0x1eeA6382f133c6Fc4d40C28d19F4B628e918a0D2",
+      "balance_raw": "46,586.71",
+      "percent_raw": "0.047%",
+      "usd_raw": "$264.61K"
+    },
+    {
+      "name": "metamask.eth (0x0c5)",
+      "balance_raw": "46,491.89",
+      "percent_raw": "0.046%",
+      "usd_raw": "$264.07K"
+    },
+    {
+      "name": "Ethereum Name Service\n: \nPublic Resolver (0x497)",
+      "balance_raw": "46,388.92",
+      "percent_raw": "0.046%",
+      "usd_raw": "$263.49K"
+    },
+    {
+      "name": "Gitcoin\n: \nGrants MultiSig (0xde2)",
+      "balance_raw": "46,351.4",
+      "percent_raw": "0.046%",
+      "usd_raw": "$263.28K"
+    },
+    {
+      "name": "0xC5D05286242d8177fc87177EFaFB0E362FF2891D",
+      "balance_raw": "46,296.3",
+      "percent_raw": "0.046%",
+      "usd_raw": "$262.96K"
+    },
+    {
+      "name": "truffle.gnidan.eth (0xd75)",
+      "balance_raw": "46,296.3",
+      "percent_raw": "0.046%",
+      "usd_raw": "$262.96K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x442)",
+      "balance_raw": "46,296.3",
+      "percent_raw": "0.046%",
+      "usd_raw": "$262.96K"
+    },
+    {
+      "name": "OpenSea\n: \nsea.eth (0x2CB)",
+      "balance_raw": "46,296.3",
+      "percent_raw": "0.046%",
+      "usd_raw": "$262.96K"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (0x7DA)",
+      "balance_raw": "46,126.9",
+      "percent_raw": "0.046%",
+      "usd_raw": "$262K"
+    },
+    {
+      "name": "0x53558dA61781e33962c72D6e615cD818644f1848",
+      "balance_raw": "45,196.3",
+      "percent_raw": "0.045%",
+      "usd_raw": "$256.71K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xB2e)",
+      "balance_raw": "45,000",
+      "percent_raw": "0.045%",
+      "usd_raw": "$255.6K"
+    },
+    {
+      "name": "0x411147C328E430538c6606af6D3B57FD818f5F11",
+      "balance_raw": "44,392.05",
+      "percent_raw": "0.044%",
+      "usd_raw": "$252.15K"
+    },
+    {
+      "name": "0x4188A7dCa2757eBc7d9A5Bd39134A15b9f3c6402",
+      "balance_raw": "41,239.92",
+      "percent_raw": "0.041%",
+      "usd_raw": "$234.24K"
+    },
+    {
+      "name": "BtcTurk\n: \nHot Wallet (0xb33)",
+      "balance_raw": "41,206.68",
+      "percent_raw": "0.041%",
+      "usd_raw": "$234.05K"
+    },
+    {
+      "name": "@samczsun\n: \n\"samczsun\" on OpenSea (0xc95)",
+      "balance_raw": "41,000",
+      "percent_raw": "0.041%",
+      "usd_raw": "$232.88K"
+    },
+    {
+      "name": "0xCE17aD9fb776fc7bd6CB34961D8E49629bAF1238",
+      "balance_raw": "40,541.79",
+      "percent_raw": "0.041%",
+      "usd_raw": "$230.28K"
+    },
+    {
+      "name": "0x5cce60387a92e5dE8B2A7B2939a4d4f7925D1249",
+      "balance_raw": "40,505",
+      "percent_raw": "0.041%",
+      "usd_raw": "$230.07K"
+    },
+    {
+      "name": "Korbit\n: \nHot Wallet (0xf0b)",
+      "balance_raw": "39,353.94",
+      "percent_raw": "0.039%",
+      "usd_raw": "$223.53K"
+    },
+    {
+      "name": "0xAa7bcD2CB63a042D3A1E7332dF961c5f6A9ad97D",
+      "balance_raw": "37,500",
+      "percent_raw": "0.038%",
+      "usd_raw": "$213K"
+    },
+    {
+      "name": "0x5663791605eC9a6489fdb819242A4dF769f2D248",
+      "balance_raw": "37,037.04",
+      "percent_raw": "0.037%",
+      "usd_raw": "$210.37K"
+    }
+  ]
+}

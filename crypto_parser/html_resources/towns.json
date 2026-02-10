@@ -1,0 +1,1758 @@
+{
+  "source": "https://intel.arkm.com/explorer/token/towns",
+  "collected_at": "2026-02-10T15:37:57.778Z",
+  "rows": [
+    {
+      "name": "0x9ef8E565eD176b17B3df9CBAff60B42E7C509BE5",
+      "balance_raw": "3,000,000,000",
+      "percent_raw": "23.42%",
+      "usd_raw": "$12.69M"
+    },
+    {
+      "name": "Base\n: \nL1 Standard Bridge (0x315)",
+      "balance_raw": "1,816,444,302.49",
+      "percent_raw": "14.18%",
+      "usd_raw": "$7.68M"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0xF97)",
+      "balance_raw": "554,915,552",
+      "percent_raw": "4.33%",
+      "usd_raw": "$2.35M"
+    },
+    {
+      "name": "0x3000E13AA0B5aAf186e3eB735F813cD3DA9E8a33",
+      "balance_raw": "528,945,323",
+      "percent_raw": "4.13%",
+      "usd_raw": "$2.24M"
+    },
+    {
+      "name": "Towns\n: \nDiamond (0x7c0)",
+      "balance_raw": "449,623,160.59",
+      "percent_raw": "3.51%",
+      "usd_raw": "$1.9M"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xd6C)",
+      "balance_raw": "348,241,779",
+      "percent_raw": "2.72%",
+      "usd_raw": "$1.47M"
+    },
+    {
+      "name": "LlamaAccount (0x8ee)",
+      "balance_raw": "270,000,004.98",
+      "percent_raw": "2.11%",
+      "usd_raw": "$1.14M"
+    },
+    {
+      "name": "Towns\n: \nwTowns (0x000)",
+      "balance_raw": "222,861,149.71",
+      "percent_raw": "1.74%",
+      "usd_raw": "$942.81K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xaBA)",
+      "balance_raw": "142,461,533.66",
+      "percent_raw": "1.11%",
+      "usd_raw": "$602.68K"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0xBae)",
+      "balance_raw": "136,586,565.68",
+      "percent_raw": "1.07%",
+      "usd_raw": "$577.83K"
+    },
+    {
+      "name": "Jump Crypto\n \n(0x4F2)",
+      "balance_raw": "125,000,000",
+      "percent_raw": "0.98%",
+      "usd_raw": "$528.81K"
+    },
+    {
+      "name": "Bithumb\n: \nHot Wallet (0x1e9)",
+      "balance_raw": "107,947,845.15",
+      "percent_raw": "0.84%",
+      "usd_raw": "$456.67K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x7da)",
+      "balance_raw": "100,533,274.75",
+      "percent_raw": "0.78%",
+      "usd_raw": "$425.31K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x66e)",
+      "balance_raw": "89,087,550.83",
+      "percent_raw": "0.7%",
+      "usd_raw": "$376.88K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x0D8)",
+      "balance_raw": "84,557,200",
+      "percent_raw": "0.66%",
+      "usd_raw": "$357.72K"
+    },
+    {
+      "name": "0x7E79cC3Dbe82DFE14bA4C91509743b21D83B1CB2",
+      "balance_raw": "83,000,001",
+      "percent_raw": "0.65%",
+      "usd_raw": "$351.13K"
+    },
+    {
+      "name": "Coinbase Deposit (0x4F6)",
+      "balance_raw": "72,021,997.1",
+      "percent_raw": "0.56%",
+      "usd_raw": "$304.69K"
+    },
+    {
+      "name": "PancakeSwap\n: \nV3 Pool (0x809)",
+      "balance_raw": "64,492,271.95",
+      "percent_raw": "0.5%",
+      "usd_raw": "$272.83K"
+    },
+    {
+      "name": "0x2Ce1F797cE5F4CaC64709418Ec6F3267864D97f3",
+      "balance_raw": "55,865,291.58",
+      "percent_raw": "0.44%",
+      "usd_raw": "$236.34K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x4CD)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x728)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xe33)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xeCe)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x7d2)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xf2B)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xf8a)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xE85)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xea6)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xe43)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xE27)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xe1f)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xdf9)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xCA0)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xd09)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xC29)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xb56)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xacd)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xa0C)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x9Fb)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x916)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x8eB)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x870)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x6AF)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x4ED)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x3F9)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x3d2)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x3a7)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x36B)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x321)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x311)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x30d)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x2ab)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x28c)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x1B7)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x197)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x099)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x011)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x896)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x530)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x2aa)",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.39%",
+      "usd_raw": "$211.53K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xbb8)",
+      "balance_raw": "49,000,000",
+      "percent_raw": "0.38%",
+      "usd_raw": "$207.29K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x9bF)",
+      "balance_raw": "49,000,000",
+      "percent_raw": "0.38%",
+      "usd_raw": "$207.29K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x6F3)",
+      "balance_raw": "49,000,000",
+      "percent_raw": "0.38%",
+      "usd_raw": "$207.29K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x10a)",
+      "balance_raw": "49,000,000",
+      "percent_raw": "0.38%",
+      "usd_raw": "$207.29K"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0x436)",
+      "balance_raw": "41,275,806.52",
+      "percent_raw": "0.32%",
+      "usd_raw": "$174.62K"
+    },
+    {
+      "name": "0x19705F413DF43ED5984b8F400725e5a6a9F7d445",
+      "balance_raw": "40,000,000",
+      "percent_raw": "0.31%",
+      "usd_raw": "$169.22K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x7DD)",
+      "balance_raw": "37,972,325.1",
+      "percent_raw": "0.3%",
+      "usd_raw": "$160.64K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xAf0)",
+      "balance_raw": "37,500,000",
+      "percent_raw": "0.29%",
+      "usd_raw": "$158.64K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xD74)",
+      "balance_raw": "36,500,000",
+      "percent_raw": "0.28%",
+      "usd_raw": "$154.41K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xc08)",
+      "balance_raw": "36,500,000",
+      "percent_raw": "0.28%",
+      "usd_raw": "$154.41K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xb0F)",
+      "balance_raw": "36,500,000",
+      "percent_raw": "0.28%",
+      "usd_raw": "$154.41K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x9bd)",
+      "balance_raw": "36,500,000",
+      "percent_raw": "0.28%",
+      "usd_raw": "$154.41K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x779)",
+      "balance_raw": "36,500,000",
+      "percent_raw": "0.28%",
+      "usd_raw": "$154.41K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x2b9)",
+      "balance_raw": "36,500,000",
+      "percent_raw": "0.28%",
+      "usd_raw": "$154.41K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x34b)",
+      "balance_raw": "36,000,000",
+      "percent_raw": "0.28%",
+      "usd_raw": "$152.3K"
+    },
+    {
+      "name": "Jump Crypto?\n0xe3CFddF45CAEAa85332dE5257F59Bba0D9A112C1",
+      "balance_raw": "30,000,004",
+      "percent_raw": "0.23%",
+      "usd_raw": "$126.92K"
+    },
+    {
+      "name": "0xfAc7E7AE9c79B1E264F98856AaE038796Ee53b4f",
+      "balance_raw": "28,250,000",
+      "percent_raw": "0.22%",
+      "usd_raw": "$119.51K"
+    },
+    {
+      "name": "Aerodrome Finance\n: \nCLPool (0xB98)",
+      "balance_raw": "27,400,807.58",
+      "percent_raw": "0.21%",
+      "usd_raw": "$115.92K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x6F7)",
+      "balance_raw": "27,000,000",
+      "percent_raw": "0.21%",
+      "usd_raw": "$114.22K"
+    },
+    {
+      "name": "0x3E5D4e5d2d8b44EE7F31346D8563139F5a1EBd91",
+      "balance_raw": "25,940,002",
+      "percent_raw": "0.2%",
+      "usd_raw": "$109.74K"
+    },
+    {
+      "name": "0xEe7D8817B738beAdfA27c0B7D1126e66ff6102D1",
+      "balance_raw": "25,870,001",
+      "percent_raw": "0.2%",
+      "usd_raw": "$109.44K"
+    },
+    {
+      "name": "0x3923EeD2DADDB345e5bB43DF360ABb43ca2a155A",
+      "balance_raw": "25,300,001",
+      "percent_raw": "0.2%",
+      "usd_raw": "$107.03K"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0xf89)",
+      "balance_raw": "25,159,610.77",
+      "percent_raw": "0.2%",
+      "usd_raw": "$106.44K"
+    },
+    {
+      "name": "0xc675651841FCEf07Bc3285F716E11e14A4768aA1",
+      "balance_raw": "25,100,001",
+      "percent_raw": "0.2%",
+      "usd_raw": "$106.19K"
+    },
+    {
+      "name": "0x214014eCFf310f1Ea7B2022820AC2857A765fFC8",
+      "balance_raw": "25,100,001",
+      "percent_raw": "0.2%",
+      "usd_raw": "$106.19K"
+    },
+    {
+      "name": "0x98dee8F33aBA4de5DFce17816Aa954A8a69EB0A2",
+      "balance_raw": "25,002,001",
+      "percent_raw": "0.2%",
+      "usd_raw": "$105.77K"
+    },
+    {
+      "name": "0xA0d2066824cF1bd637FF2309a3CEDF1F77Fe33b0",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.2%",
+      "usd_raw": "$105.76K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xF80)",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.2%",
+      "usd_raw": "$105.76K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xE4F)",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.2%",
+      "usd_raw": "$105.76K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x79B)",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.2%",
+      "usd_raw": "$105.76K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x3b6)",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.2%",
+      "usd_raw": "$105.76K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x01e)",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.2%",
+      "usd_raw": "$105.76K"
+    },
+    {
+      "name": "0x688A0549054BFf40f94ec948D796581EfdaAB242",
+      "balance_raw": "24,950,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$105.55K"
+    },
+    {
+      "name": "0x1fd51331a4E25E61FE15dA65E7593Ffb7860452c",
+      "balance_raw": "24,950,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$105.55K"
+    },
+    {
+      "name": "0xfce4f00703351a3cC5cDe9b450484F35BD5dfc35",
+      "balance_raw": "24,920,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$105.42K"
+    },
+    {
+      "name": "0x6Ef83A61c8D055eef7a553700C09B69b42aBA1a3",
+      "balance_raw": "24,900,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$105.34K"
+    },
+    {
+      "name": "0xd5626DfEb1C92b95E7Ba0Ee1ECDf84184f5fA1E4",
+      "balance_raw": "24,850,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$105.13K"
+    },
+    {
+      "name": "0x6B56AcfE20a06581Ebef63a2fE35aA7e07645cF7",
+      "balance_raw": "24,850,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$105.13K"
+    },
+    {
+      "name": "0xA2da06C2F57527E559Cddaa72f70763c068830D6",
+      "balance_raw": "24,800,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.92K"
+    },
+    {
+      "name": "0xF9d27D4d6D397d800Eb8b03066D0eDF3CF8CbbB5",
+      "balance_raw": "24,800,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.92K"
+    },
+    {
+      "name": "0xcE76bF32b0c50Be0778f3064633Ad84049222a88",
+      "balance_raw": "24,780,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.83K"
+    },
+    {
+      "name": "0xE1f7eE77Cb2A32961C3B953d4c7057ad22012132",
+      "balance_raw": "24,780,000",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.83K"
+    },
+    {
+      "name": "0x139fbb4C024eC2023704C9BB7A755cc5D2c7440f",
+      "balance_raw": "24,750,000",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.7K"
+    },
+    {
+      "name": "0xb0df35ba079AC48189a5e430bDFf4dc302A38BFB",
+      "balance_raw": "24,720,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.58K"
+    },
+    {
+      "name": "0x58028AeAfC61c069679c54B93b9A67A80F384855",
+      "balance_raw": "24,700,808",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.5K"
+    },
+    {
+      "name": "0x22b539777D9cA69397253950Bdbff169e8194a02",
+      "balance_raw": "24,680,002",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.41K"
+    },
+    {
+      "name": "0xDf59b2f07918467A6a33d2306f9a7330dC2aD8e2",
+      "balance_raw": "24,650,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.28K"
+    },
+    {
+      "name": "0x68A7F574324E542FFBe18067F310991e8725De3E",
+      "balance_raw": "24,600,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$104.07K"
+    },
+    {
+      "name": "0x90ef8ff07e7b8Af29333A1D7C18bEd949e197E06",
+      "balance_raw": "24,560,001",
+      "percent_raw": "0.19%",
+      "usd_raw": "$103.9K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x871)",
+      "balance_raw": "24,088,552.06",
+      "percent_raw": "0.19%",
+      "usd_raw": "$101.91K"
+    },
+    {
+      "name": "Binance\n: \nHot Wallet (0x889)",
+      "balance_raw": "22,032,562.61",
+      "percent_raw": "0.17%",
+      "usd_raw": "$93.21K"
+    },
+    {
+      "name": "Coinbase\n: \nHot Wallet (0xD34)",
+      "balance_raw": "14,060,196.83",
+      "percent_raw": "0.11%",
+      "usd_raw": "$59.48K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xa81)",
+      "balance_raw": "14,000,000",
+      "percent_raw": "0.11%",
+      "usd_raw": "$59.23K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x0a2)",
+      "balance_raw": "14,000,000",
+      "percent_raw": "0.11%",
+      "usd_raw": "$59.23K"
+    },
+    {
+      "name": "Bitget\n: \nHot Wallet (0x97b)",
+      "balance_raw": "11,398,499.6",
+      "percent_raw": "0.089%",
+      "usd_raw": "$48.22K"
+    },
+    {
+      "name": "Figment?\n0xba57B8dE67e0Cf289C1Ee39f1F888767003819aa",
+      "balance_raw": "10,867,697.02",
+      "percent_raw": "0.085%",
+      "usd_raw": "$45.98K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x887)",
+      "balance_raw": "10,461,467",
+      "percent_raw": "0.082%",
+      "usd_raw": "$44.26K"
+    },
+    {
+      "name": "0x7e31Dae78A7ac79B1CBc00486Bb240f8D6BF3e3A",
+      "balance_raw": "8,588,043.62",
+      "percent_raw": "0.067%",
+      "usd_raw": "$36.33K"
+    },
+    {
+      "name": "0x475bF94F69a74Fb421D86A58827355Cda6aF543A",
+      "balance_raw": "8,000,000",
+      "percent_raw": "0.062%",
+      "usd_raw": "$33.84K"
+    },
+    {
+      "name": "Kernel (Proxy) (0x563)",
+      "balance_raw": "5,992,960.71",
+      "percent_raw": "0.047%",
+      "usd_raw": "$25.35K"
+    },
+    {
+      "name": "Binance\n: \nHot Wallet (0x330)",
+      "balance_raw": "5,939,397.71",
+      "percent_raw": "0.046%",
+      "usd_raw": "$25.13K"
+    },
+    {
+      "name": "0xC06dD9D7F3E900286cefD64f6fAF597a06dd7Ef3",
+      "balance_raw": "5,558,626.11",
+      "percent_raw": "0.043%",
+      "usd_raw": "$23.52K"
+    },
+    {
+      "name": "Coinbase\n: \nHot Wallet (0x198)",
+      "balance_raw": "5,475,987.84",
+      "percent_raw": "0.043%",
+      "usd_raw": "$23.17K"
+    },
+    {
+      "name": "0x47419Bc6bFaA424d24a8941A71988AdC3683Fd34",
+      "balance_raw": "5,420,829.49",
+      "percent_raw": "0.042%",
+      "usd_raw": "$22.93K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x339)",
+      "balance_raw": "4,578,869.55",
+      "percent_raw": "0.036%",
+      "usd_raw": "$19.37K"
+    },
+    {
+      "name": "0x14173aF98e6ee57bA96F73b7d8cfb5eAbb7226cB",
+      "balance_raw": "3,950,000",
+      "percent_raw": "0.031%",
+      "usd_raw": "$16.71K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xc4C)",
+      "balance_raw": "3,405,130.85",
+      "percent_raw": "0.027%",
+      "usd_raw": "$14.41K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x757)",
+      "balance_raw": "3,140,828.93",
+      "percent_raw": "0.025%",
+      "usd_raw": "$13.29K"
+    },
+    {
+      "name": "0xf18A08F66881b419C60149eb040615Aea00c089F",
+      "balance_raw": "3,101,272.01",
+      "percent_raw": "0.024%",
+      "usd_raw": "$13.12K"
+    },
+    {
+      "name": "0xd9df1ba64560cE67E564AD2C333C63892910a068",
+      "balance_raw": "2,836,699",
+      "percent_raw": "0.022%",
+      "usd_raw": "$12K"
+    },
+    {
+      "name": "0xFa088B725f6EDB9c94D2259DBe29dB4fdD4DC207",
+      "balance_raw": "2,798,582.03",
+      "percent_raw": "0.022%",
+      "usd_raw": "$11.84K"
+    },
+    {
+      "name": "0xA45E48E40Fe382F995AaC6fc91f7538CfcBFD55b",
+      "balance_raw": "2,500,000",
+      "percent_raw": "0.02%",
+      "usd_raw": "$10.58K"
+    },
+    {
+      "name": "0x0e564c76739624E8626beE3Be65354A57d7A3B31",
+      "balance_raw": "2,436,086.31",
+      "percent_raw": "0.019%",
+      "usd_raw": "$10.31K"
+    },
+    {
+      "name": "Bithumb\n: \nHot Wallet (0x315)",
+      "balance_raw": "2,387,970.87",
+      "percent_raw": "0.019%",
+      "usd_raw": "$10.1K"
+    },
+    {
+      "name": "Bithumb Deposit (0x264)",
+      "balance_raw": "2,326,874.05",
+      "percent_raw": "0.018%",
+      "usd_raw": "$9.84K"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (0x498)",
+      "balance_raw": "2,151,291.25",
+      "percent_raw": "0.017%",
+      "usd_raw": "$9.1K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x7C6)",
+      "balance_raw": "2,117,316.81",
+      "percent_raw": "0.017%",
+      "usd_raw": "$8.96K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x9Ea)",
+      "balance_raw": "2,033,751.8",
+      "percent_raw": "0.016%",
+      "usd_raw": "$8.6K"
+    },
+    {
+      "name": "0xfDA653016757a6dEFBF0607f2859B89F82c40492",
+      "balance_raw": "1,999,959.31",
+      "percent_raw": "0.016%",
+      "usd_raw": "$8.46K"
+    },
+    {
+      "name": "0x9067Edc5f2df12872C7d70710f10052bE30591fc",
+      "balance_raw": "1,989,780.23",
+      "percent_raw": "0.016%",
+      "usd_raw": "$8.42K"
+    },
+    {
+      "name": "Arrakis Finance\n: \nAerodromeStandardModulePrivate (Proxy) (0xaa2)",
+      "balance_raw": "1,873,034.99",
+      "percent_raw": "0.015%",
+      "usd_raw": "$7.92K"
+    },
+    {
+      "name": "0xFAA0a5c1A1AEc3ee75a9963aBC187fdC5455e5Af",
+      "balance_raw": "1,768,494.49",
+      "percent_raw": "0.014%",
+      "usd_raw": "$7.48K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xbD9)",
+      "balance_raw": "1,614,148.4",
+      "percent_raw": "0.013%",
+      "usd_raw": "$6.83K"
+    },
+    {
+      "name": "Coinbase\n \n(0xE1F)",
+      "balance_raw": "1,519,758.22",
+      "percent_raw": "0.012%",
+      "usd_raw": "$6.43K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xfef)",
+      "balance_raw": "1,264,825",
+      "percent_raw": "0.0099%",
+      "usd_raw": "$5.35K"
+    },
+    {
+      "name": "faputy.eth (0x25b)",
+      "balance_raw": "1,125,469.74",
+      "percent_raw": "0.0088%",
+      "usd_raw": "$4.76K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x3E6)",
+      "balance_raw": "1,068,759.61",
+      "percent_raw": "0.0083%",
+      "usd_raw": "$4.52K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xdef)",
+      "balance_raw": "1,000,000",
+      "percent_raw": "0.0078%",
+      "usd_raw": "$4.23K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x385)",
+      "balance_raw": "1,000,000",
+      "percent_raw": "0.0078%",
+      "usd_raw": "$4.23K"
+    },
+    {
+      "name": "0x7F760634A22eeDA21A0Ffd570979b170066Ff613",
+      "balance_raw": "1,000,000",
+      "percent_raw": "0.0078%",
+      "usd_raw": "$4.23K"
+    },
+    {
+      "name": "Figment?\n0x01E98B87eEA13b463909202EccE6d0cBc844e397",
+      "balance_raw": "999,999",
+      "percent_raw": "0.0078%",
+      "usd_raw": "$4.23K"
+    },
+    {
+      "name": "0x2831987BA8686f9b08439060A17871Da931d63BB",
+      "balance_raw": "844,697.03",
+      "percent_raw": "0.0066%",
+      "usd_raw": "$3.57K"
+    },
+    {
+      "name": "0xDe345A931d5Fc44ac609000817BFd4FB3a9563AC",
+      "balance_raw": "800,000",
+      "percent_raw": "0.0062%",
+      "usd_raw": "$3.38K"
+    },
+    {
+      "name": "Kernel (Proxy) (0xcae)",
+      "balance_raw": "788,606.65",
+      "percent_raw": "0.0062%",
+      "usd_raw": "$3.34K"
+    },
+    {
+      "name": "0x15EB4202553D4795D3a3f4E927C1DfD6E9721ba9",
+      "balance_raw": "770,126.47",
+      "percent_raw": "0.006%",
+      "usd_raw": "$3.26K"
+    },
+    {
+      "name": "Kernel (Proxy) (0xDe9)",
+      "balance_raw": "728,728.26",
+      "percent_raw": "0.0057%",
+      "usd_raw": "$3.08K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x773)",
+      "balance_raw": "720,000",
+      "percent_raw": "0.0056%",
+      "usd_raw": "$3.05K"
+    },
+    {
+      "name": "0x1dC89aB25Ab5D8714Fcf9eE4bD9c9a58dEbEB4d8",
+      "balance_raw": "686,323.02",
+      "percent_raw": "0.0054%",
+      "usd_raw": "$2.9K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x766)",
+      "balance_raw": "592,267.36",
+      "percent_raw": "0.0046%",
+      "usd_raw": "$2.51K"
+    },
+    {
+      "name": "0xB31E9404BBb9223425284Ca60cD89F856f2A4C9a",
+      "balance_raw": "583,000.52",
+      "percent_raw": "0.0046%",
+      "usd_raw": "$2.47K"
+    },
+    {
+      "name": "0x9FbA174aF7C9A75A6E1d6D37CFB0CF740f59bb6c",
+      "balance_raw": "527,916.75",
+      "percent_raw": "0.0041%",
+      "usd_raw": "$2.23K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x352)",
+      "balance_raw": "526,863.13",
+      "percent_raw": "0.0041%",
+      "usd_raw": "$2.23K"
+    },
+    {
+      "name": "Kernel (Proxy) (0xDa6)",
+      "balance_raw": "523,524.44",
+      "percent_raw": "0.0041%",
+      "usd_raw": "$2.21K"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (0x4e3)",
+      "balance_raw": "511,334.1",
+      "percent_raw": "0.004%",
+      "usd_raw": "$2.16K"
+    },
+    {
+      "name": "0x755597bed0197C5C52c0e0dD8c0cd7AAbe9CA41F",
+      "balance_raw": "508,927.3",
+      "percent_raw": "0.004%",
+      "usd_raw": "$2.15K"
+    },
+    {
+      "name": "0x278d858f05b94576C1E6f73285886876ff6eF8D2",
+      "balance_raw": "505,413.59",
+      "percent_raw": "0.0039%",
+      "usd_raw": "$2.14K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x8A4)",
+      "balance_raw": "499,975",
+      "percent_raw": "0.0039%",
+      "usd_raw": "$2.12K"
+    },
+    {
+      "name": "Kernel (Proxy) (0xD02)",
+      "balance_raw": "496,800.96",
+      "percent_raw": "0.0039%",
+      "usd_raw": "$2.1K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xD9C)",
+      "balance_raw": "496,689.24",
+      "percent_raw": "0.0039%",
+      "usd_raw": "$2.1K"
+    },
+    {
+      "name": "0x3Bb0247BB33bC50aB831A11d9d825138C2fe5853",
+      "balance_raw": "487,128.28",
+      "percent_raw": "0.0038%",
+      "usd_raw": "$2.06K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x5Bf)",
+      "balance_raw": "429,541.14",
+      "percent_raw": "0.0034%",
+      "usd_raw": "$1.82K"
+    },
+    {
+      "name": "0xE528D09B200349403ed4f469D39341f74835b4fe",
+      "balance_raw": "426,862.32",
+      "percent_raw": "0.0033%",
+      "usd_raw": "$1.81K"
+    },
+    {
+      "name": "Novadax\n: \nHot Wallet (0xA22)",
+      "balance_raw": "415,146.78",
+      "percent_raw": "0.0032%",
+      "usd_raw": "$1.76K"
+    },
+    {
+      "name": "0xdAB8dBF4aF7b59196Cf43E615DF44Fc349e532bD",
+      "balance_raw": "411,505.31",
+      "percent_raw": "0.0032%",
+      "usd_raw": "$1.74K"
+    },
+    {
+      "name": "myhouseeth.eth (0x6Bb)",
+      "balance_raw": "397,217.65",
+      "percent_raw": "0.0031%",
+      "usd_raw": "$1.68K"
+    },
+    {
+      "name": "0x8e9C0DeaBfbc8f23BA451D7f3bd833c1CEb40A7e",
+      "balance_raw": "362,312.78",
+      "percent_raw": "0.0028%",
+      "usd_raw": "$1.53K"
+    },
+    {
+      "name": "Towns\n: \nTowns (TOWNS) (0x000)",
+      "balance_raw": "346,366.12",
+      "percent_raw": "0.0027%",
+      "usd_raw": "$1.47K"
+    },
+    {
+      "name": "BingX\n: \nHot Wallet (0x2b3)",
+      "balance_raw": "345,175.22",
+      "percent_raw": "0.0027%",
+      "usd_raw": "$1.46K"
+    },
+    {
+      "name": "SimpleAccount (Proxy) (0x806)",
+      "balance_raw": "339,551.88",
+      "percent_raw": "0.0027%",
+      "usd_raw": "$1.44K"
+    },
+    {
+      "name": "Kernel (Proxy) (0x8F8)",
+      "balance_raw": "334,018.14",
+      "percent_raw": "0.0026%",
+      "usd_raw": "$1.41K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xA59)",
+      "balance_raw": "330,798.39",
+      "percent_raw": "0.0026%",
+      "usd_raw": "$1.4K"
+    },
+    {
+      "name": "0x6f9702E5fd440a204b99B80F9101C4c31F7C1515",
+      "balance_raw": "329,466.55",
+      "percent_raw": "0.0026%",
+      "usd_raw": "$1.39K"
+    },
+    {
+      "name": "Uniswap\n: \nV3 Pool (0x16D)",
+      "balance_raw": "317,277.98",
+      "percent_raw": "0.0025%",
+      "usd_raw": "$1.34K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x88E)",
+      "balance_raw": "295,448.45",
+      "percent_raw": "0.0023%",
+      "usd_raw": "$1.25K"
+    },
+    {
+      "name": "0xF066A070A1067F7041194E7F71e9A9741Ef64CdF",
+      "balance_raw": "288,712.38",
+      "percent_raw": "0.0023%",
+      "usd_raw": "$1.22K"
+    },
+    {
+      "name": "Kernel (Proxy) (0xfa6)",
+      "balance_raw": "288,335.44",
+      "percent_raw": "0.0023%",
+      "usd_raw": "$1.22K"
+    },
+    {
+      "name": "0xd0b5FcC791813BcECfefd01761a18a03ca605E8a",
+      "balance_raw": "288,000",
+      "percent_raw": "0.0022%",
+      "usd_raw": "$1.22K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xc36)",
+      "balance_raw": "284,315.91",
+      "percent_raw": "0.0022%",
+      "usd_raw": "$1.2K"
+    },
+    {
+      "name": "0x4226e6BA3c5E7e96757Fd944c5b8989040A0ee39",
+      "balance_raw": "276,978.18",
+      "percent_raw": "0.0022%",
+      "usd_raw": "$1.17K"
+    },
+    {
+      "name": "Kernel (Proxy) (0x50e)",
+      "balance_raw": "276,006.25",
+      "percent_raw": "0.0022%",
+      "usd_raw": "$1.17K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x689)",
+      "balance_raw": "272,925.72",
+      "percent_raw": "0.0021%",
+      "usd_raw": "$1.15K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x428)",
+      "balance_raw": "264,004.77",
+      "percent_raw": "0.0021%",
+      "usd_raw": "$1.12K"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xAd9)",
+      "balance_raw": "257,898.31",
+      "percent_raw": "0.002%",
+      "usd_raw": "$1.09K"
+    },
+    {
+      "name": "0x8eCbfF20223adD2e795C9DBd5417b2DFb2e98414",
+      "balance_raw": "247,580.46",
+      "percent_raw": "0.0019%",
+      "usd_raw": "$1.05K"
+    },
+    {
+      "name": "0x2c75eB9EdB63F57301008e0048a3b22ea68b1D9E",
+      "balance_raw": "240,090.3",
+      "percent_raw": "0.0019%",
+      "usd_raw": "$1.02K"
+    },
+    {
+      "name": "Bybit Deposit (0x7A6)",
+      "balance_raw": "233,218.32",
+      "percent_raw": "0.0018%",
+      "usd_raw": "$986.63"
+    },
+    {
+      "name": "0x5Bf59fB8A1d4faA296224874d6Cfe97Fd88d50ab",
+      "balance_raw": "231,679.02",
+      "percent_raw": "0.0018%",
+      "usd_raw": "$980.12"
+    },
+    {
+      "name": "0x2749Ca9B34c1d77B749FD02c7A965C9aC67C16f5",
+      "balance_raw": "215,674.65",
+      "percent_raw": "0.0017%",
+      "usd_raw": "$912.41"
+    },
+    {
+      "name": "ryancooley.eth (0x79E)",
+      "balance_raw": "215,447.43",
+      "percent_raw": "0.0017%",
+      "usd_raw": "$911.45"
+    },
+    {
+      "name": "0xa012E3a3AEA5331195821Ed5054A2dBB2f6Fe33D",
+      "balance_raw": "213,056.67",
+      "percent_raw": "0.0017%",
+      "usd_raw": "$901.34"
+    },
+    {
+      "name": "0xF2E82376DB18b43257708c7FCB4C71a4dd109321",
+      "balance_raw": "212,784.68",
+      "percent_raw": "0.0017%",
+      "usd_raw": "$900.19"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0xF60)",
+      "balance_raw": "211,835.69",
+      "percent_raw": "0.0017%",
+      "usd_raw": "$896.17"
+    },
+    {
+      "name": "SemiModularAccountBytecode (0x589)",
+      "balance_raw": "208,770.74",
+      "percent_raw": "0.0016%",
+      "usd_raw": "$883.2"
+    },
+    {
+      "name": "Coinbase Deposit (0x6BB)",
+      "balance_raw": "206,124.79",
+      "percent_raw": "0.0016%",
+      "usd_raw": "$872.01"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x026)",
+      "balance_raw": "205,350.79",
+      "percent_raw": "0.0016%",
+      "usd_raw": "$868.74"
+    },
+    {
+      "name": "ChangeNOW\n: \nHot Wallet (0xf9a)",
+      "balance_raw": "195,476.21",
+      "percent_raw": "0.0015%",
+      "usd_raw": "$826.96"
+    },
+    {
+      "name": "0xC921067e6396aD8A18d98626267515bcF12338B3",
+      "balance_raw": "191,216.06",
+      "percent_raw": "0.0015%",
+      "usd_raw": "$808.94"
+    },
+    {
+      "name": "0x02A5E8784190Df91b4eC96F84B693a4b433F0197",
+      "balance_raw": "187,008.56",
+      "percent_raw": "0.0015%",
+      "usd_raw": "$791.14"
+    },
+    {
+      "name": "Proxy (EIP-1967 Beacon) (0x84F)",
+      "balance_raw": "183,846.88",
+      "percent_raw": "0.0014%",
+      "usd_raw": "$777.76"
+    },
+    {
+      "name": "Coinbase Deposit (0x534)",
+      "balance_raw": "182,877.01",
+      "percent_raw": "0.0014%",
+      "usd_raw": "$773.66"
+    },
+    {
+      "name": "Cobo.com\n: \nCustody Hot Wallet (0xb0b)",
+      "balance_raw": "160,028.74",
+      "percent_raw": "0.0012%",
+      "usd_raw": "$677"
+    },
+    {
+      "name": "0x17769823381EAd7A85659a071723Fb9e660a4216",
+      "balance_raw": "148,283.47",
+      "percent_raw": "0.0012%",
+      "usd_raw": "$627.31"
+    },
+    {
+      "name": "0x031264bC787e4BeF2b4c17c6866A29AEFE1A6c16",
+      "balance_raw": "145,400",
+      "percent_raw": "0.0011%",
+      "usd_raw": "$615.11"
+    },
+    {
+      "name": "0x3663658a2db327938A2CEFc9119232bb4190f858",
+      "balance_raw": "130,709.68",
+      "percent_raw": "0.001%",
+      "usd_raw": "$552.97"
+    },
+    {
+      "name": "0xf921603ed2bDdadE8990DD99C40502e16D7e384C",
+      "balance_raw": "125,353.42",
+      "percent_raw": "0.00098%",
+      "usd_raw": "$530.31"
+    },
+    {
+      "name": "Proxy (0x3BC)",
+      "balance_raw": "124,810.76",
+      "percent_raw": "0.00097%",
+      "usd_raw": "$528.01"
+    },
+    {
+      "name": "0xFD7ac7E9DfbB78a0ab17B2476BB890F178120d1d",
+      "balance_raw": "113,895.88",
+      "percent_raw": "0.00089%",
+      "usd_raw": "$481.84"
+    },
+    {
+      "name": "Binance Wallet?\n0x93dEb693b170d56BdDe1B0a5222B14c0F885d976",
+      "balance_raw": "108,720",
+      "percent_raw": "0.00085%",
+      "usd_raw": "$459.94"
+    },
+    {
+      "name": "0x89010a4b5Ad9BC320fa83f28DeaA4a4e180ff5f1",
+      "balance_raw": "104,469.78",
+      "percent_raw": "0.00082%",
+      "usd_raw": "$441.96"
+    },
+    {
+      "name": "0x8C8B5293795D643d982dCBafc905D0645E9F8EFB",
+      "balance_raw": "92,073.71",
+      "percent_raw": "0.00072%",
+      "usd_raw": "$389.52"
+    },
+    {
+      "name": "0x7B7C7245c2070221F3FF1dB5b3aC9042e91c4867",
+      "balance_raw": "85,362.52",
+      "percent_raw": "0.00067%",
+      "usd_raw": "$361.13"
+    },
+    {
+      "name": "0xAe0478D9e86FE418BfeE1DE6C2c1ef8c07994DEb",
+      "balance_raw": "80,994.62",
+      "percent_raw": "0.00063%",
+      "usd_raw": "$342.65"
+    },
+    {
+      "name": "0x3356A3C47980c324B0BC1e501B7A107502B09455",
+      "balance_raw": "80,931.13",
+      "percent_raw": "0.00063%",
+      "usd_raw": "$342.38"
+    },
+    {
+      "name": "0x73B4C818892283E5Fc37FEe7B91ff7245B236d3c",
+      "balance_raw": "62,124.69",
+      "percent_raw": "0.00048%",
+      "usd_raw": "$262.82"
+    },
+    {
+      "name": "0x22f171160544953b83b1F5D60bF04144d76B4275",
+      "balance_raw": "58,075.28",
+      "percent_raw": "0.00045%",
+      "usd_raw": "$245.69"
+    },
+    {
+      "name": "0x31e774a0bE922Fbf3104E0c0060A9897a8779B35",
+      "balance_raw": "57,488.02",
+      "percent_raw": "0.00045%",
+      "usd_raw": "$243.2"
+    },
+    {
+      "name": "\"Snip_5\" on Galxe (0x1B8)",
+      "balance_raw": "52,257.41",
+      "percent_raw": "0.00041%",
+      "usd_raw": "$221.07"
+    },
+    {
+      "name": "0x8D6Dc5252Ab38A38bB2deDddd7Ee246480C8a74e",
+      "balance_raw": "50,563.22",
+      "percent_raw": "0.00039%",
+      "usd_raw": "$213.91"
+    },
+    {
+      "name": "OKX Deposit (0x341)",
+      "balance_raw": "50,196.42",
+      "percent_raw": "0.00039%",
+      "usd_raw": "$212.36"
+    },
+    {
+      "name": "LBank\n: \nHot Wallet (0x124)",
+      "balance_raw": "49,495.49",
+      "percent_raw": "0.00039%",
+      "usd_raw": "$209.39"
+    },
+    {
+      "name": "0xC356a2758B233c837b236851BbCf34C6Df5C5b31",
+      "balance_raw": "48,362.03",
+      "percent_raw": "0.00038%",
+      "usd_raw": "$204.6"
+    },
+    {
+      "name": "0xd3C674fAd12548A05328146D5C2862Dac4f3c93f",
+      "balance_raw": "47,864.63",
+      "percent_raw": "0.00037%",
+      "usd_raw": "$202.49"
+    },
+    {
+      "name": "0xE06670f436A8c4caD7f869713004a85c8C60d41D",
+      "balance_raw": "47,530.98",
+      "percent_raw": "0.00037%",
+      "usd_raw": "$201.08"
+    },
+    {
+      "name": "0x218c18D02f0723291Ce93aa5C0e5eB709903179a",
+      "balance_raw": "46,651.61",
+      "percent_raw": "0.00036%",
+      "usd_raw": "$197.36"
+    },
+    {
+      "name": "BitMart\n: \nHot Wallet (0xa23)",
+      "balance_raw": "46,451.1",
+      "percent_raw": "0.00036%",
+      "usd_raw": "$196.51"
+    },
+    {
+      "name": "Proxy (EIP-1967 Transparent) (0x107)",
+      "balance_raw": "45,429.94",
+      "percent_raw": "0.00035%",
+      "usd_raw": "$192.19"
+    },
+    {
+      "name": "0x4a2deB9F7CDDcF900Cc8aD41C08A3eAaB8723CFc",
+      "balance_raw": "41,009.67",
+      "percent_raw": "0.00032%",
+      "usd_raw": "$173.49"
+    },
+    {
+      "name": "0xcb4e45599968edf638cC5Fb5BB50Ea8BA2507834",
+      "balance_raw": "34,619.16",
+      "percent_raw": "0.00027%",
+      "usd_raw": "$146.46"
+    },
+    {
+      "name": "0x5427D05F5982a3887428d47b755BAB179DC372D3",
+      "balance_raw": "33,342.51",
+      "percent_raw": "0.00026%",
+      "usd_raw": "$141.06"
+    },
+    {
+      "name": "0x94FEB4E906FfDD65329708eB5d954Df266769d9F",
+      "balance_raw": "32,247.17",
+      "percent_raw": "0.00025%",
+      "usd_raw": "$136.42"
+    },
+    {
+      "name": "0x6D007310faD067B9065163c3DdAeBf0f1d63E9E1",
+      "balance_raw": "30,190",
+      "percent_raw": "0.00024%",
+      "usd_raw": "$127.72"
+    },
+    {
+      "name": "0x98A875B8558dA1C91b111D9eA83a97aCf01e6825",
+      "balance_raw": "29,923.68",
+      "percent_raw": "0.00023%",
+      "usd_raw": "$126.59"
+    },
+    {
+      "name": "0xA268D25063227F5be6A2D2ECBBfe214A3576F7e6",
+      "balance_raw": "29,805.14",
+      "percent_raw": "0.00023%",
+      "usd_raw": "$126.09"
+    },
+    {
+      "name": "0x4a401CfF1AEB930aA1526EC871402973D3d028dE",
+      "balance_raw": "29,171.5",
+      "percent_raw": "0.00023%",
+      "usd_raw": "$123.41"
+    },
+    {
+      "name": "0xE18BFfFb87af1bD1C504ea9E72c4e94d6D4162a9",
+      "balance_raw": "28,500.32",
+      "percent_raw": "0.00022%",
+      "usd_raw": "$120.57"
+    },
+    {
+      "name": "BigONE\n: \nHot Wallet (0x493)",
+      "balance_raw": "27,388.53",
+      "percent_raw": "0.00021%",
+      "usd_raw": "$115.87"
+    },
+    {
+      "name": "0x2fe3bB2c7D0a34758B92C6e67159CE7a6BcE9377",
+      "balance_raw": "25,717.11",
+      "percent_raw": "0.0002%",
+      "usd_raw": "$108.8"
+    },
+    {
+      "name": "0x6c4C3b336aA2F3AFaC6a6D68F8d3fDA885A24450",
+      "balance_raw": "24,624.96",
+      "percent_raw": "0.00019%",
+      "usd_raw": "$104.18"
+    },
+    {
+      "name": "0x5F1B99227B5C3175b994b0d065f83059Dd961819",
+      "balance_raw": "23,984.54",
+      "percent_raw": "0.00019%",
+      "usd_raw": "$101.47"
+    },
+    {
+      "name": "0x7AaC35c41Fa2508dC0cb6246c2a5141A15E4A5F6",
+      "balance_raw": "23,600.34",
+      "percent_raw": "0.00018%",
+      "usd_raw": "$99.84"
+    },
+    {
+      "name": "0x0dB5D2588a990348dC06Fd754bccDEbFb25D9544",
+      "balance_raw": "23,312.74",
+      "percent_raw": "0.00018%",
+      "usd_raw": "$98.62"
+    },
+    {
+      "name": "0xa964f3fd0DC38ad432dF52941e0e8290Bf9d3eb6",
+      "balance_raw": "23,105.51",
+      "percent_raw": "0.00018%",
+      "usd_raw": "$97.75"
+    },
+    {
+      "name": "0x75fb99E8C8205688bC5C1D2E542752f04b805341",
+      "balance_raw": "23,094.98",
+      "percent_raw": "0.00018%",
+      "usd_raw": "$97.7"
+    },
+    {
+      "name": "0xD37D7C2f980982CC209f025CDF9D5D92D9aA9009",
+      "balance_raw": "22,149.52",
+      "percent_raw": "0.00017%",
+      "usd_raw": "$93.7"
+    },
+    {
+      "name": "0x7C249C2316A99803Ca540c219A520a34BE5F37DC",
+      "balance_raw": "21,625.5",
+      "percent_raw": "0.00017%",
+      "usd_raw": "$91.49"
+    },
+    {
+      "name": "0x079892feEf4b51FA346Aa9dbB72e0C538F048144",
+      "balance_raw": "21,419.65",
+      "percent_raw": "0.00017%",
+      "usd_raw": "$90.62"
+    },
+    {
+      "name": "0x4Ff1D40fb7B56665bf95D8D8e3A5320dE46709A1",
+      "balance_raw": "20,822.23",
+      "percent_raw": "0.00016%",
+      "usd_raw": "$88.09"
+    },
+    {
+      "name": "0x047755AFE4F709677bF86A4eC1A1fD9df76CE488",
+      "balance_raw": "20,768.11",
+      "percent_raw": "0.00016%",
+      "usd_raw": "$87.86"
+    },
+    {
+      "name": "0xD88A9e33f92185b5Aee4a85D80773e7dC09D6BC6",
+      "balance_raw": "20,679.04",
+      "percent_raw": "0.00016%",
+      "usd_raw": "$87.48"
+    },
+    {
+      "name": "0x3AD80eF6d9f0F18226D33cb92c86DBB156118754",
+      "balance_raw": "20,003.99",
+      "percent_raw": "0.00016%",
+      "usd_raw": "$84.63"
+    },
+    {
+      "name": "0x638cEaDCde4b3FeF2Fc64b1F3aD573bb9A89A86B",
+      "balance_raw": "19,989",
+      "percent_raw": "0.00016%",
+      "usd_raw": "$84.56"
+    },
+    {
+      "name": "0x4389338AfC8EaBfb3933Ecf6f0161bf1cFB89776",
+      "balance_raw": "19,334.4",
+      "percent_raw": "0.00015%",
+      "usd_raw": "$81.79"
+    },
+    {
+      "name": "0x192dC845c688788177AF9Bd71b6f4b5B08af2899",
+      "balance_raw": "17,983.92",
+      "percent_raw": "0.00014%",
+      "usd_raw": "$76.08"
+    },
+    {
+      "name": "0x7842bC9F7Ff7ec289F96921f1c35185EdFb25748",
+      "balance_raw": "17,842.98",
+      "percent_raw": "0.00014%",
+      "usd_raw": "$75.48"
+    },
+    {
+      "name": "0x1e09B7CB9E0167034566cd7Df02DfDe2bB7e2d93",
+      "balance_raw": "17,838.21",
+      "percent_raw": "0.00014%",
+      "usd_raw": "$75.46"
+    },
+    {
+      "name": "0x2df1C666E27a17d0A9864106E32906234f30491d",
+      "balance_raw": "17,810.11",
+      "percent_raw": "0.00014%",
+      "usd_raw": "$75.35"
+    },
+    {
+      "name": "0x588e2836A18E3A903173e68d5fFd271Af246d28C",
+      "balance_raw": "17,068.46",
+      "percent_raw": "0.00013%",
+      "usd_raw": "$72.21"
+    },
+    {
+      "name": "0x8943103FE817a24750d4bB67C50d874087AcAfE2",
+      "balance_raw": "16,604.77",
+      "percent_raw": "0.00013%",
+      "usd_raw": "$70.25"
+    },
+    {
+      "name": "XT.com\n: \nHot Wallet (0xDB3)",
+      "balance_raw": "15,924.98",
+      "percent_raw": "0.00012%",
+      "usd_raw": "$67.37"
+    },
+    {
+      "name": "0xD00696664707d50a0b16DB01Bce1D3E5a4e311DD",
+      "balance_raw": "15,754.44",
+      "percent_raw": "0.00012%",
+      "usd_raw": "$66.65"
+    },
+    {
+      "name": "0xf9225BB6a650FC22627ad49958D42EF5D77a4534",
+      "balance_raw": "15,691.31",
+      "percent_raw": "0.00012%",
+      "usd_raw": "$66.38"
+    },
+    {
+      "name": "0xB891cc3b4271E85644c4e871e16C650EcC71D5B0",
+      "balance_raw": "14,938.89",
+      "percent_raw": "0.00012%",
+      "usd_raw": "$63.2"
+    },
+    {
+      "name": "0xb2bb59690f10D1166fcC7fdfE85e90fB0E3E6401",
+      "balance_raw": "14,077.74",
+      "percent_raw": "0.00011%",
+      "usd_raw": "$59.56"
+    },
+    {
+      "name": "0x0bDf63f25b5eDb64213140C729EF35dCc278B63A",
+      "balance_raw": "14,000",
+      "percent_raw": "0.00011%",
+      "usd_raw": "$59.23"
+    },
+    {
+      "name": "0xBa1cB177A9329492833BFE27F74bD1d0da8c2f42",
+      "balance_raw": "12,314.8",
+      "percent_raw": "0.000096%",
+      "usd_raw": "$52.1"
+    },
+    {
+      "name": "MEV Bot (0x0f0)",
+      "balance_raw": "11,866.1",
+      "percent_raw": "0.000093%",
+      "usd_raw": "$50.2"
+    },
+    {
+      "name": "0xEFA520582f4913147B52e70A118EFCB1Bbfb589E",
+      "balance_raw": "11,780.89",
+      "percent_raw": "0.000092%",
+      "usd_raw": "$49.84"
+    },
+    {
+      "name": "0x22B7C115FF6B0a2A5ab81837179cfAADFFC21453",
+      "balance_raw": "11,613.57",
+      "percent_raw": "0.000091%",
+      "usd_raw": "$49.13"
+    },
+    {
+      "name": "0x01025960B94352D56915D8FB4AE6742Ee93C2654",
+      "balance_raw": "11,520.78",
+      "percent_raw": "0.00009%",
+      "usd_raw": "$48.74"
+    },
+    {
+      "name": "0xda47d88125990c58B97973C4a5DF7Fe04cCEa351",
+      "balance_raw": "11,426.83",
+      "percent_raw": "0.000089%",
+      "usd_raw": "$48.34"
+    },
+    {
+      "name": "Ourbit\n: \nHot Wallet (0xDBF)",
+      "balance_raw": "11,139.37",
+      "percent_raw": "0.000087%",
+      "usd_raw": "$47.13"
+    },
+    {
+      "name": "0x3788420fce5C640303Da5012326dA91FAa117781",
+      "balance_raw": "11,022.92",
+      "percent_raw": "0.000086%",
+      "usd_raw": "$46.63"
+    },
+    {
+      "name": "0x2a7451cf94Fd129E55318aA5DE2d2412f6a2d654",
+      "balance_raw": "10,327.9",
+      "percent_raw": "0.000081%",
+      "usd_raw": "$43.69"
+    },
+    {
+      "name": "0x96803Fa522477c4254Ea8B4ec83b3946fAa02C98",
+      "balance_raw": "9,634.26",
+      "percent_raw": "0.000075%",
+      "usd_raw": "$40.76"
+    },
+    {
+      "name": "0xE612dC891B1e12208Bc80f5AaDef69B6570223F6",
+      "balance_raw": "8,722.33",
+      "percent_raw": "0.000068%",
+      "usd_raw": "$36.9"
+    },
+    {
+      "name": "0xDD8284f9f09bd835B8ff290B945f2850D787515b",
+      "balance_raw": "8,639.83",
+      "percent_raw": "0.000067%",
+      "usd_raw": "$36.55"
+    },
+    {
+      "name": "0x2b923A8e08405be12E1d41B902245DDac17E0AFb",
+      "balance_raw": "8,495.38",
+      "percent_raw": "0.000066%",
+      "usd_raw": "$35.94"
+    },
+    {
+      "name": "0x6f11Fb7d7b1C2506072D9e78d1532f7603Af5f73",
+      "balance_raw": "8,308.62",
+      "percent_raw": "0.000065%",
+      "usd_raw": "$35.15"
+    },
+    {
+      "name": "0x454322182ba0761FB69fF4Dd1a1FbB983E0A1eb1",
+      "balance_raw": "7,987.3",
+      "percent_raw": "0.000062%",
+      "usd_raw": "$33.79"
+    },
+    {
+      "name": "0xA37B00A3aF6F55AE04fCF297400Df8443eFfA73A",
+      "balance_raw": "7,877.09",
+      "percent_raw": "0.000061%",
+      "usd_raw": "$33.32"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0xb58)",
+      "balance_raw": "7,866",
+      "percent_raw": "0.000061%",
+      "usd_raw": "$33.28"
+    },
+    {
+      "name": "0x77c346EB87b3569CFd1c2247f98A49eb2BD1Fc79",
+      "balance_raw": "7,825.14",
+      "percent_raw": "0.000061%",
+      "usd_raw": "$33.1"
+    }
+  ]
+}

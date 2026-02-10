@@ -1,0 +1,1206 @@
+{
+  "source": "https://intel.arkm.com/explorer/token/starknet",
+  "collected_at": "2026-02-10T11:27:50.729Z",
+  "rows": [
+    {
+      "name": "Starknet\n: \nL1 StarkGate STRK Bridge (0xcE5)",
+      "balance_raw": "3,089,383,604.91",
+      "percent_raw": "30.63%",
+      "usd_raw": "$145.84M"
+    },
+    {
+      "name": "Starknet\n: \nGnosis Safe Proxy (0x152)",
+      "balance_raw": "2,501,325,093.97",
+      "percent_raw": "24.8%",
+      "usd_raw": "$118.08M"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0xF97)",
+      "balance_raw": "335,061,043.35",
+      "percent_raw": "3.32%",
+      "usd_raw": "$15.82M"
+    },
+    {
+      "name": "LockedTokenGrant (0x798)",
+      "balance_raw": "206,705,075",
+      "percent_raw": "2.05%",
+      "usd_raw": "$9.76M"
+    },
+    {
+      "name": "Bithumb\n: \nHot Wallet (0xfd4)",
+      "balance_raw": "137,042,095.49",
+      "percent_raw": "1.36%",
+      "usd_raw": "$6.47M"
+    },
+    {
+      "name": "0x0990347290fb830122B1DEB1161e06c8CfBfEE8a",
+      "balance_raw": "101,526,420.76",
+      "percent_raw": "1.01%",
+      "usd_raw": "$4.79M"
+    },
+    {
+      "name": "Starknet?\n0xA003b2D27722d24f70F910C417bc849b847C9C9b",
+      "balance_raw": "100,000,000",
+      "percent_raw": "0.99%",
+      "usd_raw": "$4.72M"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x127)",
+      "balance_raw": "84,457,148",
+      "percent_raw": "0.84%",
+      "usd_raw": "$3.99M"
+    },
+    {
+      "name": "Starknet\n: \nGnosis Safe Proxy (0xE4B)",
+      "balance_raw": "83,545,949.21",
+      "percent_raw": "0.83%",
+      "usd_raw": "$3.94M"
+    },
+    {
+      "name": "0x2453302851eD72B5419bAf193eDBD5C20597Eda7",
+      "balance_raw": "82,123,417",
+      "percent_raw": "0.81%",
+      "usd_raw": "$3.88M"
+    },
+    {
+      "name": "LockedTokenGrant (0x930)",
+      "balance_raw": "72,455,606",
+      "percent_raw": "0.72%",
+      "usd_raw": "$3.42M"
+    },
+    {
+      "name": "Teneo\n: \n3AC Liquidation (0xC7C)",
+      "balance_raw": "71,284,886.65",
+      "percent_raw": "0.71%",
+      "usd_raw": "$3.37M"
+    },
+    {
+      "name": "Starknet?\n0x72Baf2FFD5Cbf9f0C9400dc3FaC0Aa1c1F20B24a",
+      "balance_raw": "70,174,989",
+      "percent_raw": "0.7%",
+      "usd_raw": "$3.31M"
+    },
+    {
+      "name": "Starknet\n \n(0x10e)",
+      "balance_raw": "69,633,310.29",
+      "percent_raw": "0.69%",
+      "usd_raw": "$3.29M"
+    },
+    {
+      "name": "WalletSimple (BitGo) (0x7e6)",
+      "balance_raw": "58,854,995",
+      "percent_raw": "0.58%",
+      "usd_raw": "$2.78M"
+    },
+    {
+      "name": "Proxy (EIP-1167 Minimal) (0xc82)",
+      "balance_raw": "56,644,387",
+      "percent_raw": "0.56%",
+      "usd_raw": "$2.67M"
+    },
+    {
+      "name": "Starknet?\nGnosis Safe Proxy (0x845)",
+      "balance_raw": "55,414,740.5",
+      "percent_raw": "0.55%",
+      "usd_raw": "$2.62M"
+    },
+    {
+      "name": "Starknet?\n0x5A9C70613B723e7a2011D2a4D6500781303ab8D0",
+      "balance_raw": "55,051,048.61",
+      "percent_raw": "0.55%",
+      "usd_raw": "$2.6M"
+    },
+    {
+      "name": "0x51f62F931e7C24748db6595B108435f84Ad3627D",
+      "balance_raw": "52,849,192",
+      "percent_raw": "0.52%",
+      "usd_raw": "$2.49M"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0xa4B)",
+      "balance_raw": "52,294,557.69",
+      "percent_raw": "0.52%",
+      "usd_raw": "$2.47M"
+    },
+    {
+      "name": "0x2DC53f3Ae21d2E6D6900e53EF9F573073Feee778",
+      "balance_raw": "51,040,329",
+      "percent_raw": "0.51%",
+      "usd_raw": "$2.41M"
+    },
+    {
+      "name": "0xbfeB10bA717051433533A6E0c1491b53C872bc6F",
+      "balance_raw": "49,065,269.45",
+      "percent_raw": "0.49%",
+      "usd_raw": "$2.32M"
+    },
+    {
+      "name": "BtcTurk\n: \nHot Wallet (0x76e)",
+      "balance_raw": "48,640,759.8",
+      "percent_raw": "0.48%",
+      "usd_raw": "$2.3M"
+    },
+    {
+      "name": "0x4c1eF6d170Caf6554B538Ee72734067f919da148",
+      "balance_raw": "42,293,778.85",
+      "percent_raw": "0.42%",
+      "usd_raw": "$2M"
+    },
+    {
+      "name": "Starknet?\n0x5f53a5085B8B3C8B94E022b3ADeb33E8d3AeBFE4",
+      "balance_raw": "34,000,000",
+      "percent_raw": "0.34%",
+      "usd_raw": "$1.6M"
+    },
+    {
+      "name": "Amber Group?\n0x5fd0D0a2357737553f41cB19FbA7a7DC49C15e12",
+      "balance_raw": "33,562,580.43",
+      "percent_raw": "0.33%",
+      "usd_raw": "$1.58M"
+    },
+    {
+      "name": "Coinbase Prime Custody (0xB55)",
+      "balance_raw": "32,986,113",
+      "percent_raw": "0.33%",
+      "usd_raw": "$1.56M"
+    },
+    {
+      "name": "0x73d022168297E607f8F4d914c2D7130773395A4b",
+      "balance_raw": "31,961,766.91",
+      "percent_raw": "0.32%",
+      "usd_raw": "$1.51M"
+    },
+    {
+      "name": "Anchorage Digital?\n0xe49251DFaB185e26Cd499Bc2d2238e985Cc16b84",
+      "balance_raw": "31,487,545.19",
+      "percent_raw": "0.31%",
+      "usd_raw": "$1.49M"
+    },
+    {
+      "name": "Anchorage Digital?\n0x5D78BE47BE56531b27C22e104dc7f63d8581C322",
+      "balance_raw": "30,624,988",
+      "percent_raw": "0.3%",
+      "usd_raw": "$1.45M"
+    },
+    {
+      "name": "Starknet?\n0x9A20D1227e39e494Ba487005dCEbf872d6D82871",
+      "balance_raw": "29,332,893",
+      "percent_raw": "0.29%",
+      "usd_raw": "$1.38M"
+    },
+    {
+      "name": "0xfAB5b2364e913b5B9bd7315076E8dB7A7Ba01587",
+      "balance_raw": "28,755,469.82",
+      "percent_raw": "0.29%",
+      "usd_raw": "$1.36M"
+    },
+    {
+      "name": "0x6A285BcC4803195A5D1D9c5e73b8E00A6fBa86d1",
+      "balance_raw": "28,419,680.08",
+      "percent_raw": "0.28%",
+      "usd_raw": "$1.34M"
+    },
+    {
+      "name": "0x33c6FFea8828055F23e71957F5D78B11e4B06473",
+      "balance_raw": "28,347,645.36",
+      "percent_raw": "0.28%",
+      "usd_raw": "$1.34M"
+    },
+    {
+      "name": "Starknet?\n0xbf2407fA26bf3d62b104e7Be72Cdcd98B18CA70C",
+      "balance_raw": "27,749,990",
+      "percent_raw": "0.28%",
+      "usd_raw": "$1.31M"
+    },
+    {
+      "name": "Starknet?\n0x565e194c8E40147e3cC4694a6c0f470c8a9De18c",
+      "balance_raw": "27,329,501.02",
+      "percent_raw": "0.27%",
+      "usd_raw": "$1.29M"
+    },
+    {
+      "name": "Anchorage Digital?\n0x05C383B2aCb0f020b33F047427Ec3EbCA49ADA39",
+      "balance_raw": "27,052,404.26",
+      "percent_raw": "0.27%",
+      "usd_raw": "$1.28M"
+    },
+    {
+      "name": "0xD839CEDfA0De601cdDeBa94BE366e952BeA21177",
+      "balance_raw": "26,701,093.61",
+      "percent_raw": "0.26%",
+      "usd_raw": "$1.26M"
+    },
+    {
+      "name": "Starknet?\nGnosis Safe Proxy (0x258)",
+      "balance_raw": "26,216,738.85",
+      "percent_raw": "0.26%",
+      "usd_raw": "$1.24M"
+    },
+    {
+      "name": "0x52C7209a1450E0b3566688FA10bd1A430D2Ec662",
+      "balance_raw": "25,563,653.63",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.21M"
+    },
+    {
+      "name": "0xa99BC79aA25A3DdB5b016716Ba9f4270b87D52E9",
+      "balance_raw": "25,551,376.01",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.21M"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x4Bc)",
+      "balance_raw": "25,442,601.66",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.2M"
+    },
+    {
+      "name": "Starknet?\n0x7B71004ad882AA91A133B5F37F5297031087cb94",
+      "balance_raw": "25,394,958.41",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.2M"
+    },
+    {
+      "name": "Starknet?\n0x9CC43dB7631331e829C6FF92cd93067022795589",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.18M"
+    },
+    {
+      "name": "Starknet?\n0x139abEEe5c6388d43d3E20CC94ab5FaC49e497Df",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.18M"
+    },
+    {
+      "name": "FalconX?\n0x517CE9b6D1FcFfD29805C3E19b295247FCd94AeF",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.18M"
+    },
+    {
+      "name": "Starknet?\n0xe5A06B1F50FcBD32E97CfE1492B78eBECF9D1474",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.18M"
+    },
+    {
+      "name": "Bitget\n: \nCold Wallet (0xffa)",
+      "balance_raw": "24,863,882.4",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.17M"
+    },
+    {
+      "name": "Starknet?\n0xAB3C0336d2d1695C09775B5282015118Bf408c29",
+      "balance_raw": "23,750,004",
+      "percent_raw": "0.24%",
+      "usd_raw": "$1.12M"
+    },
+    {
+      "name": "0x3be73Ca9f6776E425601e129684dBf28B9846792",
+      "balance_raw": "23,084,238.96",
+      "percent_raw": "0.23%",
+      "usd_raw": "$1.09M"
+    },
+    {
+      "name": "Coinbase Prime Custody (0xc77)",
+      "balance_raw": "21,653,332",
+      "percent_raw": "0.21%",
+      "usd_raw": "$1.02M"
+    },
+    {
+      "name": "Coinbase\n: \nCoinbase Prime Custody (0x871)",
+      "balance_raw": "21,084,988.65",
+      "percent_raw": "0.21%",
+      "usd_raw": "$995.33K"
+    },
+    {
+      "name": "Starknet?\n0x612fbe7a15267132155baAEBF044729Df457418A",
+      "balance_raw": "20,850,000.03",
+      "percent_raw": "0.21%",
+      "usd_raw": "$984.24K"
+    },
+    {
+      "name": "0x7E65d95cBfcC78BD8A91407016302d6018290d13",
+      "balance_raw": "20,458,780.71",
+      "percent_raw": "0.2%",
+      "usd_raw": "$965.77K"
+    },
+    {
+      "name": "0x24D752F2949C10c601bDc9D3fEB34C2e350960c7",
+      "balance_raw": "20,267,849.41",
+      "percent_raw": "0.2%",
+      "usd_raw": "$956.76K"
+    },
+    {
+      "name": "Revolut\n \n(0x9b0)",
+      "balance_raw": "19,923,964.71",
+      "percent_raw": "0.2%",
+      "usd_raw": "$940.52K"
+    },
+    {
+      "name": "LockedTokenGrant (0xd58)",
+      "balance_raw": "19,535,670.7",
+      "percent_raw": "0.19%",
+      "usd_raw": "$922.19K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0xD71)",
+      "balance_raw": "19,333,336",
+      "percent_raw": "0.19%",
+      "usd_raw": "$912.64K"
+    },
+    {
+      "name": "Coinbase\n: \nCoinbase Prime Custody (0x3ac)",
+      "balance_raw": "19,300,964.13",
+      "percent_raw": "0.19%",
+      "usd_raw": "$911.11K"
+    },
+    {
+      "name": "Starknet?\n0x865C67d6bA3793d1cdF706B31f4005601779BAC1",
+      "balance_raw": "19,270,000",
+      "percent_raw": "0.19%",
+      "usd_raw": "$909.65K"
+    },
+    {
+      "name": "Starknet?\n0x76F74008771DE07D2f63F490c6aF79288679Df7E",
+      "balance_raw": "18,000,010",
+      "percent_raw": "0.18%",
+      "usd_raw": "$849.7K"
+    },
+    {
+      "name": "LockedTokenGrant (0xd65)",
+      "balance_raw": "17,910,627.99",
+      "percent_raw": "0.18%",
+      "usd_raw": "$845.48K"
+    },
+    {
+      "name": "Coinbase\n: \nCoinbase Prime Custody (0x9c8)",
+      "balance_raw": "17,198,942.63",
+      "percent_raw": "0.17%",
+      "usd_raw": "$811.89K"
+    },
+    {
+      "name": "LockedTokenGrant (0xAcc)",
+      "balance_raw": "16,951,690",
+      "percent_raw": "0.17%",
+      "usd_raw": "$800.21K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x663)",
+      "balance_raw": "16,951,586",
+      "percent_raw": "0.17%",
+      "usd_raw": "$800.21K"
+    },
+    {
+      "name": "LockedTokenGrant (0x5e9)",
+      "balance_raw": "16,891,439",
+      "percent_raw": "0.17%",
+      "usd_raw": "$797.37K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xB9b)",
+      "balance_raw": "16,535,997.9",
+      "percent_raw": "0.16%",
+      "usd_raw": "$780.59K"
+    },
+    {
+      "name": "0xdF351737053F59AFDb95291fFb16feADCb498f69",
+      "balance_raw": "15,943,466.1",
+      "percent_raw": "0.16%",
+      "usd_raw": "$752.62K"
+    },
+    {
+      "name": "0x45129052d3c5400d86EB128A817e6754853A8230",
+      "balance_raw": "15,633,362.94",
+      "percent_raw": "0.15%",
+      "usd_raw": "$737.98K"
+    },
+    {
+      "name": "0xd2Af3dAf9efF10bdc0258E3ed0380904B782a7C3",
+      "balance_raw": "15,519,408.05",
+      "percent_raw": "0.15%",
+      "usd_raw": "$732.6K"
+    },
+    {
+      "name": "BingX\n: \nCold Wallet (0x0b0)",
+      "balance_raw": "15,271,780.67",
+      "percent_raw": "0.15%",
+      "usd_raw": "$720.91K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x778)",
+      "balance_raw": "14,791,094",
+      "percent_raw": "0.15%",
+      "usd_raw": "$698.22K"
+    },
+    {
+      "name": "0xD61869Ecb6b8479e89837cC813DAe409a6f4191E",
+      "balance_raw": "14,000,022.1",
+      "percent_raw": "0.14%",
+      "usd_raw": "$660.88K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0xF3e)",
+      "balance_raw": "13,533,334",
+      "percent_raw": "0.13%",
+      "usd_raw": "$638.85K"
+    },
+    {
+      "name": "Starknet?\n0x051798F466Ae52922916f56225DB6d20c029C0b1",
+      "balance_raw": "13,299,272.1",
+      "percent_raw": "0.13%",
+      "usd_raw": "$627.8K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x82B)",
+      "balance_raw": "13,179,733",
+      "percent_raw": "0.13%",
+      "usd_raw": "$622.16K"
+    },
+    {
+      "name": "0x91fB13d5A817f3D7E8A7AAfdA6f4beae69f5b844",
+      "balance_raw": "12,705,871.52",
+      "percent_raw": "0.13%",
+      "usd_raw": "$599.79K"
+    },
+    {
+      "name": "0x7Da9A92Aa7AD037dCFbB8efDf1F1116cc14787B4",
+      "balance_raw": "12,089,331",
+      "percent_raw": "0.12%",
+      "usd_raw": "$570.68K"
+    },
+    {
+      "name": "0x0c24aAE7AD81Ef428f50bd0934Fd9b2C8A03A880",
+      "balance_raw": "12,000,980",
+      "percent_raw": "0.12%",
+      "usd_raw": "$566.51K"
+    },
+    {
+      "name": "0x71C5Ff7838f63aC1fEA3eEB164B02Be6Fe1dA2AD",
+      "balance_raw": "11,989,577.09",
+      "percent_raw": "0.12%",
+      "usd_raw": "$565.97K"
+    },
+    {
+      "name": "Paribu\n: \nHot Wallet (0xc80)",
+      "balance_raw": "11,804,150.78",
+      "percent_raw": "0.12%",
+      "usd_raw": "$557.22K"
+    },
+    {
+      "name": "Starknet?\n0x4BFDFcB83f06316C8DC32731Fb837451F8e1B235",
+      "balance_raw": "11,735,998",
+      "percent_raw": "0.12%",
+      "usd_raw": "$554K"
+    },
+    {
+      "name": "0xEC92B2Df12f09fc414fc56BD5571c4a5539F2BF3",
+      "balance_raw": "11,632,013.26",
+      "percent_raw": "0.12%",
+      "usd_raw": "$549.1K"
+    },
+    {
+      "name": "LockedTokenGrant (0xf0A)",
+      "balance_raw": "11,200,000",
+      "percent_raw": "0.11%",
+      "usd_raw": "$528.7K"
+    },
+    {
+      "name": "0x887BFd5739ecc27E730F4C2D70Ff569fA8475147",
+      "balance_raw": "11,161,582.54",
+      "percent_raw": "0.11%",
+      "usd_raw": "$526.89K"
+    },
+    {
+      "name": "Starknet?\n0xF92441D3951aAd31dcF26272871a76aBbdC69bdD",
+      "balance_raw": "10,950,000",
+      "percent_raw": "0.11%",
+      "usd_raw": "$516.9K"
+    },
+    {
+      "name": "0xcfB188e599199a026A57f7F2f69eC37AdE27038c",
+      "balance_raw": "10,695,815.91",
+      "percent_raw": "0.11%",
+      "usd_raw": "$504.9K"
+    },
+    {
+      "name": "0xb170718F8051bf132f31249b71eD2878EAAbC5F0",
+      "balance_raw": "10,545,354.54",
+      "percent_raw": "0.1%",
+      "usd_raw": "$497.8K"
+    },
+    {
+      "name": "0x3C62fc0f8ffb2cAf37344993a1c002969c7Ea62F",
+      "balance_raw": "10,518,132.28",
+      "percent_raw": "0.1%",
+      "usd_raw": "$496.51K"
+    },
+    {
+      "name": "Coinbase\n: \nCoinbase Prime Custody (0xbA4)",
+      "balance_raw": "10,504,759.81",
+      "percent_raw": "0.1%",
+      "usd_raw": "$495.88K"
+    },
+    {
+      "name": "0xe430e879475C2541a77F629fE9bb90b6E2089416",
+      "balance_raw": "10,299,345.36",
+      "percent_raw": "0.1%",
+      "usd_raw": "$486.19K"
+    },
+    {
+      "name": "0x3b27290bE81EF6E150cA7156DF43C4Be9b99443C",
+      "balance_raw": "10,000,000",
+      "percent_raw": "0.099%",
+      "usd_raw": "$472.06K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x74F)",
+      "balance_raw": "9,999,999.5",
+      "percent_raw": "0.099%",
+      "usd_raw": "$472.06K"
+    },
+    {
+      "name": "0xcBfAe728988DA2E30E669e03781ACb79b81935a8",
+      "balance_raw": "9,995,308.03",
+      "percent_raw": "0.099%",
+      "usd_raw": "$471.83K"
+    },
+    {
+      "name": "LockedTokenGrant (0x0c6)",
+      "balance_raw": "8,678,070",
+      "percent_raw": "0.086%",
+      "usd_raw": "$409.65K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x5C5)",
+      "balance_raw": "8,029,453",
+      "percent_raw": "0.08%",
+      "usd_raw": "$379.03K"
+    },
+    {
+      "name": "Starknet?\n0xbe9263ff38149331E77b2d3ff2DDfF38c36a46f2",
+      "balance_raw": "7,967,890",
+      "percent_raw": "0.079%",
+      "usd_raw": "$376.13K"
+    },
+    {
+      "name": "eToro?\n0x77FB357f55BEf5a70d30663955F8C9f35794DF0E",
+      "balance_raw": "7,765,744.94",
+      "percent_raw": "0.077%",
+      "usd_raw": "$366.59K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0xaaa)",
+      "balance_raw": "7,744,684.63",
+      "percent_raw": "0.077%",
+      "usd_raw": "$365.59K"
+    },
+    {
+      "name": "0x79E17Fb569fD8b3b69891CfC8C740E381586Ac4A",
+      "balance_raw": "7,675,227.67",
+      "percent_raw": "0.076%",
+      "usd_raw": "$362.31K"
+    },
+    {
+      "name": "Meteora (Prev. Mercurial)\n: \nMarket (Eq9tF)",
+      "balance_raw": "6,121,809.74",
+      "percent_raw": "0.061%",
+      "usd_raw": "$288.98K"
+    },
+    {
+      "name": "Meteora (Prev. Mercurial)\n: \nMarket (AqqQu)",
+      "balance_raw": "3,646,377.93",
+      "percent_raw": "0.036%",
+      "usd_raw": "$172.13K"
+    },
+    {
+      "name": "8T9EiZ6Z2uUsTxsZa7TaLdCQhDZq1uRZBFqPeRkg3GfD",
+      "balance_raw": "549,247.98",
+      "percent_raw": "0.0054%",
+      "usd_raw": "$25.93K"
+    },
+    {
+      "name": "FLAcC5cQWtiKQunbP81HSCJagmTAMg6gzh84J2Db1WzS",
+      "balance_raw": "239,173.56",
+      "percent_raw": "0.0024%",
+      "usd_raw": "$11.29K"
+    },
+    {
+      "name": "solmurai.sol (2uGZm)",
+      "balance_raw": "104,174.36",
+      "percent_raw": "0.001%",
+      "usd_raw": "$4.92K"
+    },
+    {
+      "name": "CP1HhGWsBU8YD6fB3XQ1HgQhzC1iGWEXd6D8h9pK6JwM",
+      "balance_raw": "43,724.63",
+      "percent_raw": "0.00043%",
+      "usd_raw": "$2.06K"
+    },
+    {
+      "name": "MEV Bot (CsVdJ)",
+      "balance_raw": "38,400.65",
+      "percent_raw": "0.00038%",
+      "usd_raw": "$1.81K"
+    },
+    {
+      "name": "6zZdLvbBGp3y1vz5NGvNz5EuKRCwJVZ5wV6zF9V3UMQs",
+      "balance_raw": "35,479.94",
+      "percent_raw": "0.00035%",
+      "usd_raw": "$1.67K"
+    },
+    {
+      "name": "DoRN7JFdait4zUKrpsh3yiw8kMafY5hLRgqY3TiG7eWe",
+      "balance_raw": "28,571.81",
+      "percent_raw": "0.00028%",
+      "usd_raw": "$1.35K"
+    },
+    {
+      "name": "5uSKESbmDKjDgXU3cZmxigZFEHeHnptTEbALK6PuzCQH",
+      "balance_raw": "28,199.5",
+      "percent_raw": "0.00028%",
+      "usd_raw": "$1.33K"
+    },
+    {
+      "name": "Brz5pPr6EPMH1H3ZT8izVSSYV3anxqvTUvTP2MBk6Zpv",
+      "balance_raw": "7,950.81",
+      "percent_raw": "0.000079%",
+      "usd_raw": "$375.32"
+    },
+    {
+      "name": "F96isg7dR9AjC2LFkSVo5cNLjQisutbWPP7kstyci5ZR",
+      "balance_raw": "6,045.17",
+      "percent_raw": "0.00006%",
+      "usd_raw": "$285.37"
+    },
+    {
+      "name": "3f4EFj8oTFEFZkW4kwgxY3S58S6X6gptewX38d46AdYy",
+      "balance_raw": "5,390.61",
+      "percent_raw": "0.000053%",
+      "usd_raw": "$254.47"
+    },
+    {
+      "name": "4196MCPb8pX4TCjbeLaAvTTypwMrRzgnUVBXQ3hPMgPo",
+      "balance_raw": "5,000.4",
+      "percent_raw": "0.00005%",
+      "usd_raw": "$236.05"
+    },
+    {
+      "name": "J7phQyhdqKDCmGjZRHatWhG9Dnyht5HSrSu5i4i9pH1s",
+      "balance_raw": "4,190.22",
+      "percent_raw": "0.000042%",
+      "usd_raw": "$197.8"
+    },
+    {
+      "name": "zktoha.sol (7qUJV)",
+      "balance_raw": "3,937.06",
+      "percent_raw": "0.000039%",
+      "usd_raw": "$185.85"
+    },
+    {
+      "name": "4fMd2cbWoxxHmPXibVy2jF2irf2EYT7csM6H511wP6Me",
+      "balance_raw": "2,371.65",
+      "percent_raw": "0.000024%",
+      "usd_raw": "$111.96"
+    },
+    {
+      "name": "7aEocaNcaaiF4zcoKi8bFtF2dPvenJZeg1rrppP33qD4",
+      "balance_raw": "2,111.49",
+      "percent_raw": "0.000021%",
+      "usd_raw": "$99.67"
+    },
+    {
+      "name": "8Q1e2pEd6EZFWWmiy7HrDDDfpDkosdAiyYzeuvosNpCK",
+      "balance_raw": "1,673.94",
+      "percent_raw": "0.000017%",
+      "usd_raw": "$79.02"
+    },
+    {
+      "name": "8fB5sGTSWeoTH6wNodB1wzsseTperEvSiaJGmZeAfB4s",
+      "balance_raw": "1,657.17",
+      "percent_raw": "0.000016%",
+      "usd_raw": "$78.23"
+    },
+    {
+      "name": "@aztec_zk?\nAtKgoeYwtEWKfQfwj4rBQWUaFvGJ1Fc3rVzbesKqNWsm",
+      "balance_raw": "1,407.86",
+      "percent_raw": "0.000014%",
+      "usd_raw": "$66.46"
+    },
+    {
+      "name": "2Wnj64935XWLSqEn5oshp4HCAAifu9jh68Kfx4CKfB8k",
+      "balance_raw": "1,361.96",
+      "percent_raw": "0.000014%",
+      "usd_raw": "$64.29"
+    },
+    {
+      "name": "EFgtgj21iMpDCg9TLioeg3u9aqGTVh51oBdwXeGHZTxw",
+      "balance_raw": "1,202.55",
+      "percent_raw": "0.000012%",
+      "usd_raw": "$56.77"
+    },
+    {
+      "name": "9bsCRWa6nnZEj7PC5f67j78REpBCs95DaHRKstgtYdq4",
+      "balance_raw": "1,195.26",
+      "percent_raw": "0.000012%",
+      "usd_raw": "$56.42"
+    },
+    {
+      "name": "frogwifhat.sol (5kyca)",
+      "balance_raw": "1,179.62",
+      "percent_raw": "0.000012%",
+      "usd_raw": "$55.68"
+    },
+    {
+      "name": "94vD2BYf61keniuo3nd68w253bBuhMiAEZnXDCJ84CvF",
+      "balance_raw": "1,173.27",
+      "percent_raw": "0.000012%",
+      "usd_raw": "$55.38"
+    },
+    {
+      "name": "De3rbh7r7ryg9CUZaNwkvV5aEC1wh27woBqG6wuryHLs",
+      "balance_raw": "1,006.06",
+      "percent_raw": "0.00001%",
+      "usd_raw": "$47.49"
+    },
+    {
+      "name": "4MbrRetmxrUkNPQ94eFd2b4ZUxtpa7kBvmRtStaTRKbk",
+      "balance_raw": "931.49",
+      "percent_raw": "0.0000092%",
+      "usd_raw": "$43.97"
+    },
+    {
+      "name": "XXugfACqB29AREpuAsYPTccb7sKa43Ek1jnbGtescnA",
+      "balance_raw": "873.59",
+      "percent_raw": "0.0000087%",
+      "usd_raw": "$41.24"
+    },
+    {
+      "name": "G8yepUpHbD9PbDz41xgGNDvK1rkk9EjmSyRravfqXdRV",
+      "balance_raw": "862.64",
+      "percent_raw": "0.0000086%",
+      "usd_raw": "$40.72"
+    },
+    {
+      "name": "DGWWPq1Rd5W5mLT7PM9ATwg568tiEmxKzDu43k5A8FMf",
+      "balance_raw": "729.33",
+      "percent_raw": "0.0000072%",
+      "usd_raw": "$34.43"
+    },
+    {
+      "name": "7RPnfGBARRickJFT6fksQ8GF1qbgS2hDsAFGCkoZohHb",
+      "balance_raw": "709.76",
+      "percent_raw": "0.000007%",
+      "usd_raw": "$33.5"
+    },
+    {
+      "name": "8gYqrnyFDjMxnNZ8NEwcpZgMtAvPrht5Nnf9rHfe8WMT",
+      "balance_raw": "701.2",
+      "percent_raw": "0.000007%",
+      "usd_raw": "$33.1"
+    },
+    {
+      "name": "8CH7QszGnKFbUbyVh1E2VLLz26ReS8od7HqzovrqARqo",
+      "balance_raw": "700.87",
+      "percent_raw": "0.0000069%",
+      "usd_raw": "$33.08"
+    },
+    {
+      "name": "Egig2RPvhxMBopSuie6w5h4hfo8GazmoUd2fwLn6tnVQ",
+      "balance_raw": "660",
+      "percent_raw": "0.0000065%",
+      "usd_raw": "$31.16"
+    },
+    {
+      "name": "D6tmMmUmiVpPCgnpugyikAGdrrnZ1YbFf4LCZrCYaPfJ",
+      "balance_raw": "623.71",
+      "percent_raw": "0.0000062%",
+      "usd_raw": "$29.44"
+    },
+    {
+      "name": "7o5Msvcq5CJQxjfeU1JTpEGZvp3aRiJN8Uc6zw2sgGC8",
+      "balance_raw": "614.56",
+      "percent_raw": "0.0000061%",
+      "usd_raw": "$29.01"
+    },
+    {
+      "name": "Bo6aatbxgiavnioAYcHcZsYaVPMQa91Z1hPokZNLYHTQ",
+      "balance_raw": "449.66",
+      "percent_raw": "0.0000045%",
+      "usd_raw": "$21.23"
+    },
+    {
+      "name": "JDSgDQN9mkyEmctrRFdoLyaR3HLw8Sb3iq5Rx8bJF5kC",
+      "balance_raw": "409.17",
+      "percent_raw": "0.0000041%",
+      "usd_raw": "$19.31"
+    },
+    {
+      "name": "Meteora (Prev. Mercurial)\n: \nMarket (9QwNP)",
+      "balance_raw": "220.65",
+      "percent_raw": "0.0000022%",
+      "usd_raw": "$10.42"
+    },
+    {
+      "name": "8KmBZHzHpZpqmRW6td77qSFUetET7uquL8hZNtF338kM",
+      "balance_raw": "200",
+      "percent_raw": "0.000002%",
+      "usd_raw": "$9.44"
+    },
+    {
+      "name": "koge.sol (Fxorg)",
+      "balance_raw": "189.93",
+      "percent_raw": "0.0000019%",
+      "usd_raw": "$8.97"
+    },
+    {
+      "name": "H3f3qEc9NUvm6UHtnc8K4LSzwUMaLaEahz8SBPX3xQay",
+      "balance_raw": "189.29",
+      "percent_raw": "0.0000019%",
+      "usd_raw": "$8.94"
+    },
+    {
+      "name": "4BQYgm2ACPhzowpfjMrAR6Kvy77T96AvNqJ5dYCgaFPk",
+      "balance_raw": "162.79",
+      "percent_raw": "0.0000016%",
+      "usd_raw": "$7.68"
+    },
+    {
+      "name": "DnNTnvdrJqHnWTmvhY5h5Na6ppe1H2KSpEaNLyae59LS",
+      "balance_raw": "149.78",
+      "percent_raw": "0.0000015%",
+      "usd_raw": "$7.07"
+    },
+    {
+      "name": "7q9PFprUmnXHe6vynxyB9MoApo7xKJxsNxEbNHudXXFv",
+      "balance_raw": "118.25",
+      "percent_raw": "0.0000012%",
+      "usd_raw": "$5.58"
+    },
+    {
+      "name": "DccdMKLsu94rkvjtMoGJP6q11BQHcXCjGkyiRBHmvSXP",
+      "balance_raw": "110.24",
+      "percent_raw": "0.0000011%",
+      "usd_raw": "$5.2"
+    },
+    {
+      "name": "FKiqnF2MeNAGwYmE7DXdgggMz3f33ZdtHRnNWAVXz8SG",
+      "balance_raw": "103.21",
+      "percent_raw": "0.000001%",
+      "usd_raw": "$4.87"
+    },
+    {
+      "name": "PMHkvghj4K69zsY11KHc73CFkhAbeAmLTfCqcQX4ScK",
+      "balance_raw": "100.53",
+      "percent_raw": "0%",
+      "usd_raw": "$4.75"
+    },
+    {
+      "name": "GtZz6bt6LFUsu36sUZFBHETGRLNtrbfgdryRtzarjTHc",
+      "balance_raw": "100.04",
+      "percent_raw": "0%",
+      "usd_raw": "$4.72"
+    },
+    {
+      "name": "66kpjRy4ZRY6ijvnBCejHsFRZK8rH8iyhnGCVV1Cm6S6",
+      "balance_raw": "93.27",
+      "percent_raw": "0%",
+      "usd_raw": "$4.4"
+    },
+    {
+      "name": "AvGY74qKuUAnigCsY6e1HEks4yoeggjbbo9w9H8XKFp2",
+      "balance_raw": "64.64",
+      "percent_raw": "0%",
+      "usd_raw": "$3.05"
+    },
+    {
+      "name": "ACjRqrutGZW3eGoRvuT7ju4NMyjP1XPQqWbDAi8YWfzn",
+      "balance_raw": "64.19",
+      "percent_raw": "0%",
+      "usd_raw": "$3.03"
+    },
+    {
+      "name": "Jupiter\n: \nAggregator Authority (3Cgvb)",
+      "balance_raw": "63.27",
+      "percent_raw": "0%",
+      "usd_raw": "$2.99"
+    },
+    {
+      "name": "AsBEWo2iQ9ighZPNYHLTBCX9dTQkc6Fkv2UAEs3oRycA",
+      "balance_raw": "62.24",
+      "percent_raw": "0%",
+      "usd_raw": "$2.94"
+    },
+    {
+      "name": "5r5nzCE8N2i6Y3ptDXeapicvt7oUgVug95hcPhVJtS5E",
+      "balance_raw": "62.2",
+      "percent_raw": "0%",
+      "usd_raw": "$2.94"
+    },
+    {
+      "name": "slostfound.sol (BkqCe)",
+      "balance_raw": "59",
+      "percent_raw": "0%",
+      "usd_raw": "$2.79"
+    },
+    {
+      "name": "9M3Upc2LyNMYR1gfiydtNTABgfGR3j9k4ZAEhFSyu8qx",
+      "balance_raw": "58.72",
+      "percent_raw": "0%",
+      "usd_raw": "$2.77"
+    },
+    {
+      "name": "9YREZdE6b6LjWQLRmsmNLGBWpyf1Dpac4sBUo3zxq3xx",
+      "balance_raw": "48.37",
+      "percent_raw": "0%",
+      "usd_raw": "$2.28"
+    },
+    {
+      "name": "DYKeNQUvpWNt1AF6jHfmDxygtgxcYUApcd3t1yKXxQR5",
+      "balance_raw": "42.43",
+      "percent_raw": "0%",
+      "usd_raw": "$2"
+    },
+    {
+      "name": "2rbMgYvzAb3xDk6vXrzKkY3VwsmyDZsJTkvB3JJYsRzA",
+      "balance_raw": "40.1",
+      "percent_raw": "0%",
+      "usd_raw": "$1.89"
+    },
+    {
+      "name": "XwW4Lugq6fSV54zhYketr5BxRLitzeWk9ahaN8cWGdi",
+      "balance_raw": "39.23",
+      "percent_raw": "0%",
+      "usd_raw": "$1.85"
+    },
+    {
+      "name": "Jupiter\n: \nAggregator Authority (DSN3j)",
+      "balance_raw": "38.53",
+      "percent_raw": "0%",
+      "usd_raw": "$1.82"
+    },
+    {
+      "name": "6cqeVh5Gu9s8K5tjKWMizqvV3Mb9NAXXRjA9rWkjKmM9",
+      "balance_raw": "34.03",
+      "percent_raw": "0%",
+      "usd_raw": "$1.61"
+    },
+    {
+      "name": "5vwQiye6NZuXzpRkk4AcfvjnUFd9gGBRHsHxLKujfPqu",
+      "balance_raw": "33.39",
+      "percent_raw": "0%",
+      "usd_raw": "$1.58"
+    },
+    {
+      "name": "CUvLXSt9aGR5mPcKXxuYLUDJ33suSSaR1X9tgzQ4qj1J",
+      "balance_raw": "32.86",
+      "percent_raw": "0%",
+      "usd_raw": "$1.55"
+    },
+    {
+      "name": "65XnSBqwCzR97a1kor5fvwgki8XdJ2xrRtJLA9TXd8A5",
+      "balance_raw": "24.25",
+      "percent_raw": "0%",
+      "usd_raw": "$1.14"
+    },
+    {
+      "name": "C6uCn4JSNewzd1VKyiLyPzS5eKNLwUSWJ28cQwGQ5db",
+      "balance_raw": "20.01",
+      "percent_raw": "0%",
+      "usd_raw": "$0.94"
+    },
+    {
+      "name": "HrcB5ndDD1Sf73ioL2PUBSHGv9XQTQKQPJAGK898vbJZ",
+      "balance_raw": "19.04",
+      "percent_raw": "0%",
+      "usd_raw": "$0.9"
+    },
+    {
+      "name": "3oa9KWhWQUTudcf88igL2fKj8v64DJFbGef4F34n7SSq",
+      "balance_raw": "16.79",
+      "percent_raw": "0%",
+      "usd_raw": "$0.79"
+    },
+    {
+      "name": "2W4XyPMamHRCA4Frq5iYZVnYkMnc1rewAqj46wSa9B3A",
+      "balance_raw": "16.75",
+      "percent_raw": "0%",
+      "usd_raw": "$0.79"
+    },
+    {
+      "name": "CUU97Kox573jCq8TGUcfk4ZJ3brFKmmm2uBex75aruyV",
+      "balance_raw": "15.96",
+      "percent_raw": "0%",
+      "usd_raw": "$0.75"
+    },
+    {
+      "name": "Jupiter\n: \nAggregator Authority (HFqp6)",
+      "balance_raw": "11.63",
+      "percent_raw": "0%",
+      "usd_raw": "$0.55"
+    },
+    {
+      "name": "@niranthm\n \n(9KMPp)",
+      "balance_raw": "11.26",
+      "percent_raw": "0%",
+      "usd_raw": "$0.53"
+    },
+    {
+      "name": "DtSBXmrNHqB4DeFGngjAfuQrbHkwRdtyQreekHwf5RFr",
+      "balance_raw": "8.29",
+      "percent_raw": "0%",
+      "usd_raw": "$0.39"
+    },
+    {
+      "name": "BEochrdGhm5pcKVF73DURYrGo1DLzxq6bBcUBphQR64d",
+      "balance_raw": "8.21",
+      "percent_raw": "0%",
+      "usd_raw": "$0.39"
+    },
+    {
+      "name": "Jupiter\n: \nAggregator Authority (GP8St)",
+      "balance_raw": "7.49",
+      "percent_raw": "0%",
+      "usd_raw": "$0.35"
+    },
+    {
+      "name": "C7HtrpsrUnciC5aDvkjqWKUg11ggvdZqATbKRNM8zkTU",
+      "balance_raw": "7.09",
+      "percent_raw": "0%",
+      "usd_raw": "$0.33"
+    },
+    {
+      "name": "AfQ1oaudsGjvznX4JNEw671hi57JfWo4CWqhtkdgoVHU",
+      "balance_raw": "7.09",
+      "percent_raw": "0%",
+      "usd_raw": "$0.33"
+    },
+    {
+      "name": "Cr6vUmtz58dtsyDJX2GKbifgYf7zvwgPt9HyJvwMRLL8",
+      "balance_raw": "6.53",
+      "percent_raw": "0%",
+      "usd_raw": "$0.31"
+    },
+    {
+      "name": "7Bc8qpGaX78CYq94XqKJZekjFK6CVQcNrennrJ9xyjoA",
+      "balance_raw": "6.03",
+      "percent_raw": "0%",
+      "usd_raw": "$0.28"
+    },
+    {
+      "name": "7APECFQpXtgCvj2AHv1tCUGCA2qeFm4f2DZWKYfqJrjP",
+      "balance_raw": "5.7",
+      "percent_raw": "0%",
+      "usd_raw": "$0.27"
+    },
+    {
+      "name": "Jupiter\n: \nAggregator Authority (HU23r)",
+      "balance_raw": "4.73",
+      "percent_raw": "0%",
+      "usd_raw": "$0.22"
+    },
+    {
+      "name": "Jupiter\n: \nAggregator Authority (7iWnB)",
+      "balance_raw": "3.55",
+      "percent_raw": "0%",
+      "usd_raw": "$0.17"
+    },
+    {
+      "name": "4rBdHiYsMYBZ3uaNddjNgHePNuk8GhG64R4EsydNNjrB",
+      "balance_raw": "3.32",
+      "percent_raw": "0%",
+      "usd_raw": "$0.16"
+    },
+    {
+      "name": "Jupiter\n: \nAggregator Authority (3LoAY)",
+      "balance_raw": "3.27",
+      "percent_raw": "0%",
+      "usd_raw": "$0.15"
+    },
+    {
+      "name": "MEV Bot (8pY1A)",
+      "balance_raw": "2.71",
+      "percent_raw": "0%",
+      "usd_raw": "$0.13"
+    },
+    {
+      "name": "12PJP39sR6rNwdSxaJXF1fZSnyQwQqXExBL6QTzrifgE",
+      "balance_raw": "2.34",
+      "percent_raw": "0%",
+      "usd_raw": "$0.11"
+    },
+    {
+      "name": "34FKjAdVcTax2DHqV2XnbXa9J3zmyKcFuFKWbcmgxjgm",
+      "balance_raw": "2.09",
+      "percent_raw": "0%",
+      "usd_raw": "$0.099"
+    },
+    {
+      "name": "26ooGGTHJwqr56cNg68oQge98LHw7Gq6HQw4grycFtEb",
+      "balance_raw": "1.8",
+      "percent_raw": "0%",
+      "usd_raw": "$0.085"
+    },
+    {
+      "name": "Jupiter\n: \nAggregator Authority (69yht)",
+      "balance_raw": "1.76",
+      "percent_raw": "0%",
+      "usd_raw": "$0.083"
+    },
+    {
+      "name": "GN44ETvYa2QKb4X72RJrpziqbUJLyUEZK7J98bTHFezv",
+      "balance_raw": "1.65",
+      "percent_raw": "0%",
+      "usd_raw": "$0.078"
+    },
+    {
+      "name": "D9GYt4W7VvteKCSvTgyjzuiBJyTy94Kmr6YiC9fbxGjW",
+      "balance_raw": "1.41",
+      "percent_raw": "0%",
+      "usd_raw": "$0.067"
+    },
+    {
+      "name": "2Fast4uUABWcrab6LevwhTx5xx84mwahhV2bLJFTYgN4",
+      "balance_raw": "1.33",
+      "percent_raw": "0%",
+      "usd_raw": "$0.063"
+    },
+    {
+      "name": "CWGQPqtYdECUH7Hip8nvwex5ps3abrQt8q1Nj6M5piY2",
+      "balance_raw": "1.27",
+      "percent_raw": "0%",
+      "usd_raw": "$0.06"
+    },
+    {
+      "name": "MEV Bot (HvFdD)",
+      "balance_raw": "1.07",
+      "percent_raw": "0%",
+      "usd_raw": "$0.05"
+    },
+    {
+      "name": "Mhw1HGAFVEPQES1MuyrKfaAW8uC5Sz3qKupYaHvayK6",
+      "balance_raw": "0.71",
+      "percent_raw": "0%",
+      "usd_raw": "$0.034"
+    },
+    {
+      "name": "Fireblocks Custody (HWbAZ)",
+      "balance_raw": "0.52",
+      "percent_raw": "0%",
+      "usd_raw": "$0.025"
+    },
+    {
+      "name": "6UZRiC2YStr5c1FAtsajvRr6emQ8LcQMdLB84kSA644q",
+      "balance_raw": "0.36",
+      "percent_raw": "0%",
+      "usd_raw": "$0.017"
+    },
+    {
+      "name": "E5uoGLXjWBb3Z44p4nFiiVns7K7NWu7Gh88aE52NrhTg",
+      "balance_raw": "0.36",
+      "percent_raw": "0%",
+      "usd_raw": "$0.017"
+    }
+  ]
+}

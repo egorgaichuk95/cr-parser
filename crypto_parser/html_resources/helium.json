@@ -1,0 +1,606 @@
+{
+  "source": "https://intel.arkm.com/explorer/token/helium",
+  "collected_at": "2026-02-10T11:28:01.916Z",
+  "rows": [
+    {
+      "name": "CMwTLMPzarDRbGj9pbXU93Zkm7Qho3WxPbcgxpvDCH9r",
+      "balance_raw": "13,353,657.13",
+      "percent_raw": "7.2%",
+      "usd_raw": "$11.13M"
+    },
+    {
+      "name": "9DSMdyRvTFVXAYZoDoERotcPeTafboYwBMaee7kZfZGg",
+      "balance_raw": "7,532,965.87",
+      "percent_raw": "4.06%",
+      "usd_raw": "$6.28M"
+    },
+    {
+      "name": "Helium\n: \nHNT-MOBILE Treasury (AguTd)",
+      "balance_raw": "7,367,377.8",
+      "percent_raw": "3.97%",
+      "usd_raw": "$6.14M"
+    },
+    {
+      "name": "Coinbase Prime Custody (7KDue)",
+      "balance_raw": "4,872,536.08",
+      "percent_raw": "2.63%",
+      "usd_raw": "$4.06M"
+    },
+    {
+      "name": "6JgtYNnSGy31nhnQdiyKV2gNgJo8d4V5D67smVD33Y6T",
+      "balance_raw": "4,235,935.98",
+      "percent_raw": "2.28%",
+      "usd_raw": "$3.53M"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (5LZkA)",
+      "balance_raw": "3,833,947.29",
+      "percent_raw": "2.07%",
+      "usd_raw": "$3.2M"
+    },
+    {
+      "name": "Squads Vault \"HNT\" (9TwDY)",
+      "balance_raw": "3,529,872.25",
+      "percent_raw": "1.9%",
+      "usd_raw": "$2.94M"
+    },
+    {
+      "name": "Coinbase Prime Custody (AYXGC)",
+      "balance_raw": "2,777,974.11",
+      "percent_raw": "1.5%",
+      "usd_raw": "$2.32M"
+    },
+    {
+      "name": "Helium\n: \nHNT Vault Authority (4UiT9)",
+      "balance_raw": "2,694,072.51",
+      "percent_raw": "1.45%",
+      "usd_raw": "$2.25M"
+    },
+    {
+      "name": "95Ek4ksfv3LgWgH7oKdxXRkYVrRwmLLgxRwixtqQpxMa",
+      "balance_raw": "2,450,000",
+      "percent_raw": "1.32%",
+      "usd_raw": "$2.04M"
+    },
+    {
+      "name": "Coinbase Prime Custody (9rnoV)",
+      "balance_raw": "2,249,665.17",
+      "percent_raw": "1.21%",
+      "usd_raw": "$1.88M"
+    },
+    {
+      "name": "Kraken\n: \nHot Wallet (6LY1J)",
+      "balance_raw": "2,046,824.36",
+      "percent_raw": "1.1%",
+      "usd_raw": "$1.71M"
+    },
+    {
+      "name": "Gate\n: \nHot Wallet (u6PJ8)",
+      "balance_raw": "1,917,658.75",
+      "percent_raw": "1.03%",
+      "usd_raw": "$1.6M"
+    },
+    {
+      "name": "Helium\n: \nMigration (2AdZQ)",
+      "balance_raw": "1,901,000.01",
+      "percent_raw": "1.03%",
+      "usd_raw": "$1.58M"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (6FEVk)",
+      "balance_raw": "1,889,261.5",
+      "percent_raw": "1.02%",
+      "usd_raw": "$1.58M"
+    },
+    {
+      "name": "Coinbase Prime Custody (C7AJF)",
+      "balance_raw": "1,860,925.88",
+      "percent_raw": "1%",
+      "usd_raw": "$1.55M"
+    },
+    {
+      "name": "CS65aad4YzVk7ubWb85xifM2mZe6uZS4FF9ReNL1uPnP",
+      "balance_raw": "1,562,331.44",
+      "percent_raw": "0.84%",
+      "usd_raw": "$1.3M"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (22Wnk)",
+      "balance_raw": "1,504,568.26",
+      "percent_raw": "0.81%",
+      "usd_raw": "$1.25M"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (E2RvJ)",
+      "balance_raw": "1,496,386.57",
+      "percent_raw": "0.81%",
+      "usd_raw": "$1.25M"
+    },
+    {
+      "name": "Fireblocks Custody (8F1d8)",
+      "balance_raw": "1,463,566.68",
+      "percent_raw": "0.79%",
+      "usd_raw": "$1.22M"
+    },
+    {
+      "name": "7twyq13ojNcJyZXCRzwgiCNt3ww23GaYugHtHTmKFyRN",
+      "balance_raw": "1,394,747.35",
+      "percent_raw": "0.75%",
+      "usd_raw": "$1.16M"
+    },
+    {
+      "name": "Coinbase Prime Custody (DMXdU)",
+      "balance_raw": "1,351,135.46",
+      "percent_raw": "0.73%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "Coinbase Prime Custody (HLRFL)",
+      "balance_raw": "1,351,135.46",
+      "percent_raw": "0.73%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "Coinbase Prime Custody (AdbyL)",
+      "balance_raw": "1,351,135.46",
+      "percent_raw": "0.73%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "KuCoin\n: \nCold Wallet (6BhBo)",
+      "balance_raw": "1,350,000",
+      "percent_raw": "0.73%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "9QK4cjw9mMEELwiGarxy6WWx5KVw18GdA2brN73Sn4mQ",
+      "balance_raw": "1,330,000.5",
+      "percent_raw": "0.72%",
+      "usd_raw": "$1.11M"
+    },
+    {
+      "name": "Squads Vault \"Helium MOBILE Operations Fund\" (4SS9A)",
+      "balance_raw": "1,300,000",
+      "percent_raw": "0.7%",
+      "usd_raw": "$1.08M"
+    },
+    {
+      "name": "99XdCw93bjZjVNUBCYSKkhonokV5G2qiYjHoStCKYaYm",
+      "balance_raw": "1,275,457.78",
+      "percent_raw": "0.69%",
+      "usd_raw": "$1.06M"
+    },
+    {
+      "name": "6R4Yq4xJLCcGGNA7cd9mYBvmyVYdqUJt1cpsHCNUJicK",
+      "balance_raw": "1,246,787.72",
+      "percent_raw": "0.67%",
+      "usd_raw": "$1.04M"
+    },
+    {
+      "name": "DsFpwGYx7MsnPK588gd4CcGnbiQJEFd2AqCdx1b8c5FT",
+      "balance_raw": "1,241,122.22",
+      "percent_raw": "0.67%",
+      "usd_raw": "$1.03M"
+    },
+    {
+      "name": "Coinbase Prime Custody (5Q8kA)",
+      "balance_raw": "1,230,130.89",
+      "percent_raw": "0.66%",
+      "usd_raw": "$1.03M"
+    },
+    {
+      "name": "Binance US\n: \nHot Wallet (53unS)",
+      "balance_raw": "1,132,768.74",
+      "percent_raw": "0.61%",
+      "usd_raw": "$944.36K"
+    },
+    {
+      "name": "F3WKjmQPXvthuZn2U7ym5jU5c4zsHAat3C1xNXiDNLEF",
+      "balance_raw": "1,112,089.61",
+      "percent_raw": "0.6%",
+      "usd_raw": "$927.12K"
+    },
+    {
+      "name": "9Mwvp1V6Q5RY1V47WuLC2W7qwREBVgXhSbqRveYushj1",
+      "balance_raw": "1,110,709.23",
+      "percent_raw": "0.6%",
+      "usd_raw": "$925.97K"
+    },
+    {
+      "name": "73zsmmqCXjvHHhNSib26Y8p3jYiH3UUuyKv71RJDnctW",
+      "balance_raw": "1,106,694.56",
+      "percent_raw": "0.6%",
+      "usd_raw": "$922.63K"
+    },
+    {
+      "name": "rkZssCbwaLrHseSt9y16ScPYH8RzKQ4anEepzB2DC8Q",
+      "balance_raw": "1,047,451.14",
+      "percent_raw": "0.56%",
+      "usd_raw": "$873.24K"
+    },
+    {
+      "name": "f1umomw1XQvtyTBZpB72jHex88Xs8XcUohXddGrLjCk",
+      "balance_raw": "1,024,529.06",
+      "percent_raw": "0.55%",
+      "usd_raw": "$854.13K"
+    },
+    {
+      "name": "Coinbase Prime Custody (2oMjS)",
+      "balance_raw": "1,024,529.06",
+      "percent_raw": "0.55%",
+      "usd_raw": "$854.13K"
+    },
+    {
+      "name": "Coinbase Prime Custody (fDoRQ)",
+      "balance_raw": "1,024,529.06",
+      "percent_raw": "0.55%",
+      "usd_raw": "$854.13K"
+    },
+    {
+      "name": "J8wQyTYmNyLYHcSEbgusFjHPTp84EP2wzrGFvNwBSTyk",
+      "balance_raw": "1,024,529.06",
+      "percent_raw": "0.55%",
+      "usd_raw": "$854.13K"
+    },
+    {
+      "name": "6VZcrQVX6P1EGBaZ9uwPQeMfANNCueoxh3hLFea2Jo6R",
+      "balance_raw": "1,023,513.38",
+      "percent_raw": "0.55%",
+      "usd_raw": "$853.28K"
+    },
+    {
+      "name": "3AeLmpVahrBwirn16qgUuNmpukgK6Cq2YiB4AHvsaBse",
+      "balance_raw": "1,022,908.36",
+      "percent_raw": "0.55%",
+      "usd_raw": "$852.78K"
+    },
+    {
+      "name": "G3joFAd4FegoBwxZUQ1tfQ4ztJnhs5LKk5imJwXKju2b",
+      "balance_raw": "1,002,103.65",
+      "percent_raw": "0.54%",
+      "usd_raw": "$835.43K"
+    },
+    {
+      "name": "Kyle Samani (Multicoin)\n: \nkylesamani.sol (4yhXa)",
+      "balance_raw": "993,636.82",
+      "percent_raw": "0.54%",
+      "usd_raw": "$828.37K"
+    },
+    {
+      "name": "Fireblocks Custody (iwWRg)",
+      "balance_raw": "970,717.23",
+      "percent_raw": "0.52%",
+      "usd_raw": "$809.27K"
+    },
+    {
+      "name": "7HqXR7hZS65RBCqna92DPCNvPpLvoiidJr97Ebe5UtvU",
+      "balance_raw": "927,749.26",
+      "percent_raw": "0.5%",
+      "usd_raw": "$773.44K"
+    },
+    {
+      "name": "FoHvYjEFv7wxMt9bt5kPGz9UQAb4qXuAZ91HAZibaKHR",
+      "balance_raw": "920,409.64",
+      "percent_raw": "0.5%",
+      "usd_raw": "$767.33K"
+    },
+    {
+      "name": "Squads Vault \"Helium\" (EHJ16)",
+      "balance_raw": "856,360.64",
+      "percent_raw": "0.46%",
+      "usd_raw": "$713.93K"
+    },
+    {
+      "name": "Squads Vault \"HNT Mapping Rewards - Subscribers\" (4gYzP)",
+      "balance_raw": "837,961.84",
+      "percent_raw": "0.45%",
+      "usd_raw": "$698.59K"
+    },
+    {
+      "name": "4TYF8iW8bXET9C8aFgJoiUHhNtpBg5bqRsxSptCExvz7",
+      "balance_raw": "801,302.84",
+      "percent_raw": "0.43%",
+      "usd_raw": "$668.03K"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (EFE3j)",
+      "balance_raw": "795,034.11",
+      "percent_raw": "0.43%",
+      "usd_raw": "$662.8K"
+    },
+    {
+      "name": "5FQNxJ1uKxPmbCihJAyrhTNmXVwamJsseqJ94rn6z9Ni",
+      "balance_raw": "785,941",
+      "percent_raw": "0.42%",
+      "usd_raw": "$655.22K"
+    },
+    {
+      "name": "Squads Vault \"Helium IOT Operations Fund\" (7Smkx)",
+      "balance_raw": "769,755.93",
+      "percent_raw": "0.42%",
+      "usd_raw": "$641.73K"
+    },
+    {
+      "name": "Bitget\n: \nCold Wallet (7TWnq)",
+      "balance_raw": "749,460.48",
+      "percent_raw": "0.4%",
+      "usd_raw": "$624.81K"
+    },
+    {
+      "name": "Squads Vault \"Network rewards\" (Jjd1k)",
+      "balance_raw": "702,631.09",
+      "percent_raw": "0.38%",
+      "usd_raw": "$585.77K"
+    },
+    {
+      "name": "8Z6iAWXsH5yypsCNRxYpWSSx9WjL3YnHygYozYm1CrvJ",
+      "balance_raw": "660,598.85",
+      "percent_raw": "0.36%",
+      "usd_raw": "$550.73K"
+    },
+    {
+      "name": "FJgJ7D61P7X74ZRF3Km75sNYNy7824cxyDrysGPpzYDT",
+      "balance_raw": "619,850.46",
+      "percent_raw": "0.33%",
+      "usd_raw": "$516.76K"
+    },
+    {
+      "name": "Fireblocks Custody (8iQY3)",
+      "balance_raw": "603,842.57",
+      "percent_raw": "0.33%",
+      "usd_raw": "$503.41K"
+    },
+    {
+      "name": "52izyDENUZxvDKj8CvsmpPPjnYnSgJWnBogGrbjB4tJx",
+      "balance_raw": "562,393.46",
+      "percent_raw": "0.3%",
+      "usd_raw": "$468.86K"
+    },
+    {
+      "name": "Fireblocks Custody (BM7Yd)",
+      "balance_raw": "561,947.24",
+      "percent_raw": "0.3%",
+      "usd_raw": "$468.48K"
+    },
+    {
+      "name": "Ew49hDNseosETP3rZhZ8rxjsxjLJ7kdsCQszCQfG3RAz",
+      "balance_raw": "546,454.95",
+      "percent_raw": "0.29%",
+      "usd_raw": "$455.57K"
+    },
+    {
+      "name": "marginfi\n: \nBank Liquidity Vault Authority (Ajsyr)",
+      "balance_raw": "492,871.5",
+      "percent_raw": "0.27%",
+      "usd_raw": "$410.9K"
+    },
+    {
+      "name": "Coinbase Prime Custody (96r3L)",
+      "balance_raw": "485,739.69",
+      "percent_raw": "0.26%",
+      "usd_raw": "$404.95K"
+    },
+    {
+      "name": "65DkwZGiBCuNSV14UUUyPRjEpgxjcGTUNjPL5Xm6yFuw",
+      "balance_raw": "462,820.47",
+      "percent_raw": "0.25%",
+      "usd_raw": "$385.84K"
+    },
+    {
+      "name": "Raydium\n: \nAuthority V4 (5Q544)",
+      "balance_raw": "445,344.2",
+      "percent_raw": "0.24%",
+      "usd_raw": "$371.27K"
+    },
+    {
+      "name": "4RvZotV1DeRr5MAQ5j7sX6CgdX5sVChmNBtJeA4zutRW",
+      "balance_raw": "429,812.83",
+      "percent_raw": "0.23%",
+      "usd_raw": "$358.33K"
+    },
+    {
+      "name": "2CXu36PkCoq74ZHKMzdoL33Beyv56s9bD7bPybbWvsvw",
+      "balance_raw": "426,531.5",
+      "percent_raw": "0.23%",
+      "usd_raw": "$355.59K"
+    },
+    {
+      "name": "4GCzEmA9DLHQxFVdtjKJg3P7CRn8TySu299XQMsmV929",
+      "balance_raw": "411,886.63",
+      "percent_raw": "0.22%",
+      "usd_raw": "$343.38K"
+    },
+    {
+      "name": "7YC8uVQdCyjwZzoToXuLzSC4nyqWVtbhq3scooMZqdhv",
+      "balance_raw": "410,010.44",
+      "percent_raw": "0.22%",
+      "usd_raw": "$341.82K"
+    },
+    {
+      "name": "952CPMi457PGjKimCrxUBUzKVGr21ik2HXgedHsSxNry",
+      "balance_raw": "407,139.43",
+      "percent_raw": "0.22%",
+      "usd_raw": "$339.42K"
+    },
+    {
+      "name": "Dcik8cGb3bdtpwVUs1HHv86CJZJ3UK9X97UtYur8f7CD",
+      "balance_raw": "404,412.15",
+      "percent_raw": "0.22%",
+      "usd_raw": "$337.15K"
+    },
+    {
+      "name": "Coinbase Prime Custody (82jNv)",
+      "balance_raw": "404,381.57",
+      "percent_raw": "0.22%",
+      "usd_raw": "$337.12K"
+    },
+    {
+      "name": "4fYZYGpX6u4nYpFu5MobNHh9gdLKVeZ3MsJyLcDYvqR8",
+      "balance_raw": "400,000",
+      "percent_raw": "0.22%",
+      "usd_raw": "$333.47K"
+    },
+    {
+      "name": "DZueqHWMw8pDn22yMZSjWZSNeD5TvamJt4kmayqT67oi",
+      "balance_raw": "397,578.83",
+      "percent_raw": "0.21%",
+      "usd_raw": "$331.45K"
+    },
+    {
+      "name": "7i9ZnCZLB1NoyxyHyvDzW9MhHjWYfxgWGRFZK82ZBgn8",
+      "balance_raw": "394,049.39",
+      "percent_raw": "0.21%",
+      "usd_raw": "$328.51K"
+    },
+    {
+      "name": "EsqEkirkY6s1RPsb3YaJZcP4APQz77BWmBAVCsbNNhpj",
+      "balance_raw": "381,926.53",
+      "percent_raw": "0.21%",
+      "usd_raw": "$318.4K"
+    },
+    {
+      "name": "BtcTurk\n: \nCold Wallet (3B7XA)",
+      "balance_raw": "373,657.8",
+      "percent_raw": "0.2%",
+      "usd_raw": "$311.51K"
+    },
+    {
+      "name": "CoinSpot\n: \nHot Wallet (4GC3a)",
+      "balance_raw": "368,613.89",
+      "percent_raw": "0.2%",
+      "usd_raw": "$307.31K"
+    },
+    {
+      "name": "GF1jKoRN5zrjB2eknHEjo3TsQCTPSufhdN86L8ZHqjtZ",
+      "balance_raw": "360,000",
+      "percent_raw": "0.19%",
+      "usd_raw": "$300.12K"
+    },
+    {
+      "name": "Coinbase Prime Custody (4hLAs)",
+      "balance_raw": "340,330.7",
+      "percent_raw": "0.18%",
+      "usd_raw": "$283.73K"
+    },
+    {
+      "name": "GU7BTU46Bj3F1YLU8NUpUpsEQ247hT93TW8EBRebF3Fh",
+      "balance_raw": "330,000",
+      "percent_raw": "0.18%",
+      "usd_raw": "$275.11K"
+    },
+    {
+      "name": "9C57VBGsWQBzpBEHckFTpBJXyQnacJp5Wghm8vjKsdVk",
+      "balance_raw": "329,916.86",
+      "percent_raw": "0.18%",
+      "usd_raw": "$275.04K"
+    },
+    {
+      "name": "9yVADDunUBAjJchgJpFtDMWRodd2saANbmnQLZL5YfM",
+      "balance_raw": "324,999.88",
+      "percent_raw": "0.18%",
+      "usd_raw": "$270.95K"
+    },
+    {
+      "name": "CEpQFJtcabadJYofo92S49ju3SphCgS5pzyUAJ1Bxtws",
+      "balance_raw": "319,505",
+      "percent_raw": "0.17%",
+      "usd_raw": "$266.36K"
+    },
+    {
+      "name": "AuiAU9Wepwp2DsPmQ34rmfHNchV54vwuXKLrWVSP4w85",
+      "balance_raw": "306,282.32",
+      "percent_raw": "0.17%",
+      "usd_raw": "$255.34K"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (ASTyf)",
+      "balance_raw": "302,474.91",
+      "percent_raw": "0.16%",
+      "usd_raw": "$252.17K"
+    },
+    {
+      "name": "8FZLuUpfXbS9y6dtD8HMwefK7tntAi37QKSvPScDwLj",
+      "balance_raw": "299,795.12",
+      "percent_raw": "0.16%",
+      "usd_raw": "$249.93K"
+    },
+    {
+      "name": "Fireblocks Custody (7jzQe)",
+      "balance_raw": "298,321.75",
+      "percent_raw": "0.16%",
+      "usd_raw": "$248.7K"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (5PAhQ)",
+      "balance_raw": "294,458",
+      "percent_raw": "0.16%",
+      "usd_raw": "$245.48K"
+    },
+    {
+      "name": "9hNaQ3crLjWihWa5BeQgSYfrPY3eoDmHJAX2sTWE8nUC",
+      "balance_raw": "293,696.19",
+      "percent_raw": "0.16%",
+      "usd_raw": "$244.85K"
+    },
+    {
+      "name": "dogeftw.sol (E3NiM)",
+      "balance_raw": "293,696.19",
+      "percent_raw": "0.16%",
+      "usd_raw": "$244.85K"
+    },
+    {
+      "name": "Ha4jpPdj9BRwS54gfJVa6EtewoRKbeVnTmPxpYTH2rKp",
+      "balance_raw": "277,885.03",
+      "percent_raw": "0.15%",
+      "usd_raw": "$231.67K"
+    },
+    {
+      "name": "6vAPK7Yc1GfrquET92DbkEWMB9xCxsFt6vMsR3wo7FKD",
+      "balance_raw": "274,010.16",
+      "percent_raw": "0.15%",
+      "usd_raw": "$228.44K"
+    },
+    {
+      "name": "Hp9LC1JkmzUEBZ4z9eAAQ5Z8U4SBDCjVU6MgvtW11yjF",
+      "balance_raw": "265,098.48",
+      "percent_raw": "0.14%",
+      "usd_raw": "$221.01K"
+    },
+    {
+      "name": "SwissBorg\n: \nHot Wallet (DMe3d)",
+      "balance_raw": "263,892.26",
+      "percent_raw": "0.14%",
+      "usd_raw": "$220K"
+    },
+    {
+      "name": "FrrrZWDn7pCMiGoh35PVZbP8uV2n5nFFJx3uFuyKty2R",
+      "balance_raw": "263,465.15",
+      "percent_raw": "0.14%",
+      "usd_raw": "$219.65K"
+    },
+    {
+      "name": "KuCoin\n: \nCold Wallet (FZ1t8)",
+      "balance_raw": "262,484.47",
+      "percent_raw": "0.14%",
+      "usd_raw": "$218.83K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (ADqZY)",
+      "balance_raw": "261,440.23",
+      "percent_raw": "0.14%",
+      "usd_raw": "$217.96K"
+    },
+    {
+      "name": "D2n1xuTvbcUM9UmGnx8P9GrpmwNJNhhntKkVqD7Crgok",
+      "balance_raw": "261,098.13",
+      "percent_raw": "0.14%",
+      "usd_raw": "$217.67K"
+    },
+    {
+      "name": "9xv8s98MQEpdq96hzjntCGK5ig16hiG18sBG6ca84bMb",
+      "balance_raw": "260,000",
+      "percent_raw": "0.14%",
+      "usd_raw": "$216.76K"
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "source": "https://intel.arkm.com/explorer/token/pyth-network",
+  "collected_at": "2026-02-10T11:27:55.352Z",
+  "rows": [
+    {
+      "name": "Pyth Network\n \n(5WumP)",
+      "balance_raw": "1,301,712,569.77",
+      "percent_raw": "13.02%",
+      "usd_raw": "$58.8M"
+    },
+    {
+      "name": "Pyth Network\n \n(5cz3J)",
+      "balance_raw": "684,291,665",
+      "percent_raw": "6.84%",
+      "usd_raw": "$30.91M"
+    },
+    {
+      "name": "Ffz4sGA4ZM5i5s6dgP4oHNUoc5q4pEV3gTarULYcjc2Q",
+      "balance_raw": "642,739,995.33",
+      "percent_raw": "6.43%",
+      "usd_raw": "$29.03M"
+    },
+    {
+      "name": "E294htaeagKoGLJmCpr4gkJF3B4uUEnTcq7kExX7WJGM",
+      "balance_raw": "615,179,003.42",
+      "percent_raw": "6.15%",
+      "usd_raw": "$27.79M"
+    },
+    {
+      "name": "9HwAxuuowYi3396rfUPk2dFzGvB1H87i8oC2BkEcR4QD",
+      "balance_raw": "476,687,502",
+      "percent_raw": "4.77%",
+      "usd_raw": "$21.53M"
+    },
+    {
+      "name": "Upbit\n: \nHot Wallet (8m5Aj)",
+      "balance_raw": "473,936,546.58",
+      "percent_raw": "4.74%",
+      "usd_raw": "$21.41M"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (9WzDX)",
+      "balance_raw": "379,436,346.38",
+      "percent_raw": "3.79%",
+      "usd_raw": "$17.14M"
+    },
+    {
+      "name": "Ep6aZ3eNtiBpLSNeweGDMbjRPRtjGkFPugnHp81U79Jb",
+      "balance_raw": "300,000,000",
+      "percent_raw": "3%",
+      "usd_raw": "$13.55M"
+    },
+    {
+      "name": "PTVDJYvY11PisYFKkHWBmq15nxEWKy4LCJfK9GzLRY6",
+      "balance_raw": "259,325,001.5",
+      "percent_raw": "2.59%",
+      "usd_raw": "$11.71M"
+    },
+    {
+      "name": "AE8SnajswPd8XJs2pnSXe8XJuX2QFcBbC8vq61hm6qax",
+      "balance_raw": "250,000,000",
+      "percent_raw": "2.5%",
+      "usd_raw": "$11.29M"
+    },
+    {
+      "name": "3oXHSyS6NLFUQhgQkWbwMn5meh3z9wpCodQxV39S98tp",
+      "balance_raw": "249,999,995",
+      "percent_raw": "2.5%",
+      "usd_raw": "$11.29M"
+    },
+    {
+      "name": "2UuF65WXpcrRby2QAbFC2BzDieWTfyNboNxUXKizx33U",
+      "balance_raw": "230,966,666.5",
+      "percent_raw": "2.31%",
+      "usd_raw": "$10.43M"
+    },
+    {
+      "name": "HTyLUKeseSzwb5wk1qXPMZUgi857BUfgH36KRL98EUzn",
+      "balance_raw": "180,000,000",
+      "percent_raw": "1.8%",
+      "usd_raw": "$8.13M"
+    },
+    {
+      "name": "69CuwXNhEohuKx1aZxbjBCzBH3hr4hJgR4bPaG81nFGQ",
+      "balance_raw": "161,054,089.24",
+      "percent_raw": "1.61%",
+      "usd_raw": "$7.28M"
+    },
+    {
+      "name": "J8YEGNZ5ZADT5CUtJMN74Kv5DbNaYSMZ2aUF2ZMP6rK1",
+      "balance_raw": "139,816,410.02",
+      "percent_raw": "1.4%",
+      "usd_raw": "$6.32M"
+    },
+    {
+      "name": "Adc72kPKkfw7EMpXZMcLva5yWJhgSvhC4rNpa3Mxi7Qv",
+      "balance_raw": "125,000,000",
+      "percent_raw": "1.25%",
+      "usd_raw": "$5.65M"
+    },
+    {
+      "name": "HXukWm9rBAN8UCgFxy2aYygGkprHvsZDVq4GmDzCTqjc",
+      "balance_raw": "79,034,040.98",
+      "percent_raw": "0.79%",
+      "usd_raw": "$3.57M"
+    },
+    {
+      "name": "Cp4UF63krdQraHzvEX4tYssD1KQHsykxiMvZQiudW67Z",
+      "balance_raw": "75,000,000",
+      "percent_raw": "0.75%",
+      "usd_raw": "$3.39M"
+    },
+    {
+      "name": "Bithumb\n: \nHot Wallet (8Mm46)",
+      "balance_raw": "59,654,220.31",
+      "percent_raw": "0.6%",
+      "usd_raw": "$2.69M"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (5LZkA)",
+      "balance_raw": "58,526,636.1",
+      "percent_raw": "0.59%",
+      "usd_raw": "$2.64M"
+    },
+    {
+      "name": "Bitgo Custody (3Fy5o)",
+      "balance_raw": "55,000,007",
+      "percent_raw": "0.55%",
+      "usd_raw": "$2.48M"
+    },
+    {
+      "name": "2cSfth9v3rYCSAP7eTd6jjZWHtGGeAmBaAkXeT2hefze",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.5%",
+      "usd_raw": "$2.26M"
+    },
+    {
+      "name": "HbkYpotKpSqus3cJ89U4oqu4dUSm3iK17sxw7y2ou7xM",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.5%",
+      "usd_raw": "$2.26M"
+    },
+    {
+      "name": "BmonJNKMKjfKrUXSTToyY23jZwQcswWmPRCZHvCu9X94",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.5%",
+      "usd_raw": "$2.26M"
+    },
+    {
+      "name": "H9ACoUCRK13j7bew6ehW4j8gSccgBj8ymNtZ5RpS5sNR",
+      "balance_raw": "50,000,000",
+      "percent_raw": "0.5%",
+      "usd_raw": "$2.26M"
+    },
+    {
+      "name": "Grayscale\n: \nPyth Trust (G1iY7)",
+      "balance_raw": "48,764,468.5",
+      "percent_raw": "0.49%",
+      "usd_raw": "$2.2M"
+    },
+    {
+      "name": "4tXSdnpyqGWBCtwaVSzLXxj41w5NkaQYjmXSwysZigLd",
+      "balance_raw": "42,666,667",
+      "percent_raw": "0.43%",
+      "usd_raw": "$1.93M"
+    },
+    {
+      "name": "27R4AXaf5UwEbXfLDLFTnvw6PQZZyWUGVLpo81Yb2cTd",
+      "balance_raw": "37,500,000",
+      "percent_raw": "0.38%",
+      "usd_raw": "$1.69M"
+    },
+    {
+      "name": "OKX\n: \nCold Wallet (CBEAD)",
+      "balance_raw": "37,339,322.82",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.69M"
+    },
+    {
+      "name": "Revolut\n: \nHot Wallet (5z7gx)",
+      "balance_raw": "36,918,267.85",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.67M"
+    },
+    {
+      "name": "7Ei5TvLUgAjLwDpadiURrW1NdasdGmCGdPjbJsHSPAGJ",
+      "balance_raw": "36,024,146.97",
+      "percent_raw": "0.36%",
+      "usd_raw": "$1.63M"
+    },
+    {
+      "name": "Kraken\n: \nHot Wallet (6LY1J)",
+      "balance_raw": "33,579,457.33",
+      "percent_raw": "0.34%",
+      "usd_raw": "$1.52M"
+    },
+    {
+      "name": "Bou1oBJyuPJ1uaPPfBXYnbB4LJ9s7djZKjdUcLN4kniK",
+      "balance_raw": "33,333,333.5",
+      "percent_raw": "0.33%",
+      "usd_raw": "$1.51M"
+    },
+    {
+      "name": "DU4m4GP35no3Y6iHWy3cfXeDm6bmozCucFc2ybKzt6bt",
+      "balance_raw": "33,333,333.33",
+      "percent_raw": "0.33%",
+      "usd_raw": "$1.51M"
+    },
+    {
+      "name": "EPA8VeGYmZC1LTTBQ1rtyhtGi8i2kSBafXf3j5nTnPN9",
+      "balance_raw": "33,333,333",
+      "percent_raw": "0.33%",
+      "usd_raw": "$1.51M"
+    },
+    {
+      "name": "Robinhood\n: \nHot Wallet (4xLpw)",
+      "balance_raw": "32,952,116.78",
+      "percent_raw": "0.33%",
+      "usd_raw": "$1.49M"
+    },
+    {
+      "name": "Bybit\n: \nCold Wallet (42brA)",
+      "balance_raw": "30,000,002",
+      "percent_raw": "0.3%",
+      "usd_raw": "$1.36M"
+    },
+    {
+      "name": "AVWRHmgf51ZpbJdf3vDZ8JPMDrq35SwAG2iBubd3TPXz",
+      "balance_raw": "29,999,710",
+      "percent_raw": "0.3%",
+      "usd_raw": "$1.36M"
+    },
+    {
+      "name": "Fireblocks Custody (Gz43d)",
+      "balance_raw": "29,757,340.25",
+      "percent_raw": "0.3%",
+      "usd_raw": "$1.34M"
+    },
+    {
+      "name": "ADpk8nmPxSPYG2UuGAGd1ZRqo4fNWAHknZDoipMMA1Vt",
+      "balance_raw": "29,610,891.07",
+      "percent_raw": "0.3%",
+      "usd_raw": "$1.34M"
+    },
+    {
+      "name": "Fireblocks Custody (7hRwP)",
+      "balance_raw": "29,590,625.19",
+      "percent_raw": "0.3%",
+      "usd_raw": "$1.34M"
+    },
+    {
+      "name": "AmzjFGVs4vRmBpuHC8B6AQYkQcyYwtHq123Rg8dcwefU",
+      "balance_raw": "29,166,666.5",
+      "percent_raw": "0.29%",
+      "usd_raw": "$1.32M"
+    },
+    {
+      "name": "Jump Crypto\n \n(7GjAr)",
+      "balance_raw": "28,256,670",
+      "percent_raw": "0.28%",
+      "usd_raw": "$1.28M"
+    },
+    {
+      "name": "Jump Crypto\n \n(Gtxgn)",
+      "balance_raw": "27,347,744.49",
+      "percent_raw": "0.27%",
+      "usd_raw": "$1.24M"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (EFE3j)",
+      "balance_raw": "27,287,882.94",
+      "percent_raw": "0.27%",
+      "usd_raw": "$1.23M"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (E2RvJ)",
+      "balance_raw": "25,381,434.06",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.15M"
+    },
+    {
+      "name": "Binance\n: \nHot Wallet (5tzFk)",
+      "balance_raw": "25,110,449.8",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "Dp8BMtmiQG8fAGNY1irXnehvyB2xmGJMt5PNBzR31nsJ",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "BcvUM1QB6fpNnUErJsZLd9XJSCezaLEyPsxbp96pbbz1",
+      "balance_raw": "25,000,000",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "Fireblocks Custody (87n2v)",
+      "balance_raw": "24,791,666.5",
+      "percent_raw": "0.25%",
+      "usd_raw": "$1.12M"
+    },
+    {
+      "name": "3XMkG3juV7uP55tYYhgv9PDWc5VAf6ofjpW5KmxwoNH8",
+      "balance_raw": "23,190,394.15",
+      "percent_raw": "0.23%",
+      "usd_raw": "$1.05M"
+    },
+    {
+      "name": "F1V4eFtSUoxE5ZWNmkUQZ3pxrGLSjvL9gy7F6SVBnnbf",
+      "balance_raw": "22,794,416.1",
+      "percent_raw": "0.23%",
+      "usd_raw": "$1.03M"
+    },
+    {
+      "name": "CPbYNnzUq1bBDRdEMYAggzHSgVCRuXurortNQNHe3VqH",
+      "balance_raw": "22,190,477.54",
+      "percent_raw": "0.22%",
+      "usd_raw": "$1M"
+    },
+    {
+      "name": "OKX\n: \nHot Wallet (8wM44)",
+      "balance_raw": "22,153,300.84",
+      "percent_raw": "0.22%",
+      "usd_raw": "$1M"
+    },
+    {
+      "name": "OKX\n: \nHot Wallet (C68a6)",
+      "balance_raw": "22,130,798.62",
+      "percent_raw": "0.22%",
+      "usd_raw": "$999.73K"
+    },
+    {
+      "name": "AdjEFVR95jG5y5cxwhT2S6U6CvKTrkLbyPQZQ1BnyBmc",
+      "balance_raw": "20,605,372.13",
+      "percent_raw": "0.21%",
+      "usd_raw": "$930.82K"
+    },
+    {
+      "name": "Bitget\n: \nCold Wallet (7TWnq)",
+      "balance_raw": "19,960,311.59",
+      "percent_raw": "0.2%",
+      "usd_raw": "$901.68K"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (ASTyf)",
+      "balance_raw": "19,116,017.16",
+      "percent_raw": "0.19%",
+      "usd_raw": "$863.54K"
+    },
+    {
+      "name": "73Yysb45wWToBCysEynrEn5ukjHXC8z3YpYLb4LEsTJc",
+      "balance_raw": "18,750,000",
+      "percent_raw": "0.19%",
+      "usd_raw": "$847K"
+    },
+    {
+      "name": "n6Nozgi7uewC9zKjJch7qEa6kBdfXeDjp9ch1aPbNsD",
+      "balance_raw": "18,750,000",
+      "percent_raw": "0.19%",
+      "usd_raw": "$847K"
+    },
+    {
+      "name": "4aqX2AXbHzXo1XqtmqydHBAcArp4N4HC3nF4R2iu49Yh",
+      "balance_raw": "18,750,000",
+      "percent_raw": "0.19%",
+      "usd_raw": "$847K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (22Wnk)",
+      "balance_raw": "18,720,688.93",
+      "percent_raw": "0.19%",
+      "usd_raw": "$845.68K"
+    },
+    {
+      "name": "BxD96ZzoQZBf7sp28iRdWNw3UzXaNGvwhrxQBEdfAQ5d",
+      "balance_raw": "18,538,748",
+      "percent_raw": "0.19%",
+      "usd_raw": "$837.46K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (6FEVk)",
+      "balance_raw": "18,352,954.34",
+      "percent_raw": "0.18%",
+      "usd_raw": "$829.07K"
+    },
+    {
+      "name": "KuCoin\n: \nCold Wallet (AGVhm)",
+      "balance_raw": "18,000,000",
+      "percent_raw": "0.18%",
+      "usd_raw": "$813.12K"
+    },
+    {
+      "name": "5PX1SGx4RN9Bb5qA3jTpE1RbZNEwV2cgQjcfxnFoc2uV",
+      "balance_raw": "17,613,263.51",
+      "percent_raw": "0.18%",
+      "usd_raw": "$795.65K"
+    },
+    {
+      "name": "A1fAsebsYb53ZF67sbXH4Z4P23B2aiXxXTo6usjridct",
+      "balance_raw": "16,526,797.35",
+      "percent_raw": "0.17%",
+      "usd_raw": "$746.57K"
+    },
+    {
+      "name": "Pyth Network\n: \nPool Config (BE8Xq)",
+      "balance_raw": "16,506,733.26",
+      "percent_raw": "0.17%",
+      "usd_raw": "$745.67K"
+    },
+    {
+      "name": "BtcTurk\n: \nCold Wallet (3B7XA)",
+      "balance_raw": "15,912,327.36",
+      "percent_raw": "0.16%",
+      "usd_raw": "$718.82K"
+    },
+    {
+      "name": "4TYF8iW8bXET9C8aFgJoiUHhNtpBg5bqRsxSptCExvz7",
+      "balance_raw": "15,681,927.28",
+      "percent_raw": "0.16%",
+      "usd_raw": "$708.41K"
+    },
+    {
+      "name": "FAegGi5zZTvKMBBmVEQerBfSPsva7jkN8HxnBSMHXcxW",
+      "balance_raw": "15,500,000",
+      "percent_raw": "0.16%",
+      "usd_raw": "$700.19K"
+    },
+    {
+      "name": "H9wXmAPgDX87wqp4ExX9Sfx5y5rGpnCx1a8TknupbU8n",
+      "balance_raw": "15,500,000",
+      "percent_raw": "0.16%",
+      "usd_raw": "$700.19K"
+    },
+    {
+      "name": "4VADDUQTM3Rn3xoGHJpW3iEkVK9wZsCsAgGYfucKXKtZ",
+      "balance_raw": "14,793,651.69",
+      "percent_raw": "0.15%",
+      "usd_raw": "$668.28K"
+    },
+    {
+      "name": "Fireblocks Custody (J9sVN)",
+      "balance_raw": "14,664,994.04",
+      "percent_raw": "0.15%",
+      "usd_raw": "$662.47K"
+    },
+    {
+      "name": "Fireblocks Custody (EDywD)",
+      "balance_raw": "14,479,711.04",
+      "percent_raw": "0.14%",
+      "usd_raw": "$654.1K"
+    },
+    {
+      "name": "CoinSpot\n: \nHot Wallet (4GC3a)",
+      "balance_raw": "14,428,160.82",
+      "percent_raw": "0.14%",
+      "usd_raw": "$651.77K"
+    },
+    {
+      "name": "Fireblocks Custody (AnYRC)",
+      "balance_raw": "14,173,355.02",
+      "percent_raw": "0.14%",
+      "usd_raw": "$640.26K"
+    },
+    {
+      "name": "Fireblocks Custody (FEcUj)",
+      "balance_raw": "12,576,257.53",
+      "percent_raw": "0.13%",
+      "usd_raw": "$568.11K"
+    },
+    {
+      "name": "2WKtySd45YJedCcxUYmZ4LhPE61Xygh4pJBGSw9Dx9ZH",
+      "balance_raw": "12,500,000",
+      "percent_raw": "0.13%",
+      "usd_raw": "$564.67K"
+    },
+    {
+      "name": "Gate\n: \nHot Wallet (u6PJ8)",
+      "balance_raw": "11,841,917.2",
+      "percent_raw": "0.12%",
+      "usd_raw": "$534.94K"
+    },
+    {
+      "name": "8niEkWriPhUgaUG4r5k1SCGaQi1VXJqDVFz1aXQa7L9g",
+      "balance_raw": "11,623,583.47",
+      "percent_raw": "0.12%",
+      "usd_raw": "$525.08K"
+    },
+    {
+      "name": "Coinbase Prime Custody (DaKhT)",
+      "balance_raw": "11,268,558.97",
+      "percent_raw": "0.11%",
+      "usd_raw": "$509.04K"
+    },
+    {
+      "name": "GRpwJwKqZdzh6XT3SCfpamQghJJoXzN1iRwKBmfc9qLC",
+      "balance_raw": "11,243,090.57",
+      "percent_raw": "0.11%",
+      "usd_raw": "$507.89K"
+    },
+    {
+      "name": "a4UmenNxEf8cDcKN7c2ymj1XLkxxeZH1beqPjNjUUhw",
+      "balance_raw": "11,118,332.67",
+      "percent_raw": "0.11%",
+      "usd_raw": "$502.25K"
+    },
+    {
+      "name": "CuJ6kUYLpbw4sqRg21GYoTArCpsB1GDF95oY3kxKBcnx",
+      "balance_raw": "10,923,974",
+      "percent_raw": "0.11%",
+      "usd_raw": "$493.47K"
+    },
+    {
+      "name": "B1k3UfuC3dZYkjoa2F5xQNghhotyGg72VRPJWG1XdbA7",
+      "balance_raw": "10,566,894.07",
+      "percent_raw": "0.11%",
+      "usd_raw": "$477.34K"
+    },
+    {
+      "name": "Fireblocks Custody (6XHzi)",
+      "balance_raw": "10,242,373.87",
+      "percent_raw": "0.1%",
+      "usd_raw": "$462.68K"
+    },
+    {
+      "name": "HjMzj3xTFeyHfrmuvcSZpKUe4sHVkeiMSmhcMFRt15Lr",
+      "balance_raw": "10,170,673.19",
+      "percent_raw": "0.1%",
+      "usd_raw": "$459.45K"
+    },
+    {
+      "name": "Coinbase Prime Custody (uCnpK)",
+      "balance_raw": "10,069,442.75",
+      "percent_raw": "0.1%",
+      "usd_raw": "$454.87K"
+    },
+    {
+      "name": "D54P97fkrVpi3qg8KMJvmjJ3Hiey5prxBKNm3955iD4j",
+      "balance_raw": "10,037,989.39",
+      "percent_raw": "0.1%",
+      "usd_raw": "$453.45K"
+    },
+    {
+      "name": "Bye53BNACURUzeqKsLcgSgr4CQYxqTb8yfDHTS4KkRzr",
+      "balance_raw": "10,019,000",
+      "percent_raw": "0.1%",
+      "usd_raw": "$452.59K"
+    },
+    {
+      "name": "6Y3QcrT9bgH78TA2Ny16Gi42exaozq3DegDTV8m6mqQ8",
+      "balance_raw": "9,692,348.16",
+      "percent_raw": "0.097%",
+      "usd_raw": "$437.84K"
+    },
+    {
+      "name": "5oQbe8VBAK9mdrGbQw18U1iMohqKmdpSmT1eZMddBKGJ",
+      "balance_raw": "9,422,769.68",
+      "percent_raw": "0.094%",
+      "usd_raw": "$425.66K"
+    },
+    {
+      "name": "DPZ4PMRzkQPQenf6fBd466AA4MhFBVxgY1zaVxf83B8q",
+      "balance_raw": "9,050,326.28",
+      "percent_raw": "0.091%",
+      "usd_raw": "$408.84K"
+    },
+    {
+      "name": "FaMJnToi9xXNytgko3zMwH84MbDKt9iq8EqGps8KMbea",
+      "balance_raw": "9,000,000",
+      "percent_raw": "0.09%",
+      "usd_raw": "$406.56K"
+    },
+    {
+      "name": "7AfgCPxoxxRMZJzcXTv5zkTXmZwjERvYz7zSkkngRApz",
+      "balance_raw": "8,785,765.03",
+      "percent_raw": "0.088%",
+      "usd_raw": "$396.88K"
+    },
+    {
+      "name": "7HBufvwiAXabw23CPnCiwJbVRyrra7A57zrKnz1JnV3v",
+      "balance_raw": "8,785,765.03",
+      "percent_raw": "0.088%",
+      "usd_raw": "$396.88K"
+    },
+    {
+      "name": "CJsthaVTiaVY5bVc9ymeMykkdHJi1F3EF4KbRrYAKBoV",
+      "balance_raw": "8,732,276.19",
+      "percent_raw": "0.087%",
+      "usd_raw": "$394.47K"
+    },
+    {
+      "name": "29YUt9YxfpqSHZLmDRwY1kTZNLQ53cc7ZR9NhDd1GXaa",
+      "balance_raw": "8,640,000.19",
+      "percent_raw": "0.086%",
+      "usd_raw": "$390.3K"
+    },
+    {
+      "name": "2t51vLgTbAAAs9rrGmzV4yA8rFdL3tqqzLNsNDt9fhbq",
+      "balance_raw": "8,640,000.19",
+      "percent_raw": "0.086%",
+      "usd_raw": "$390.3K"
+    }
+  ]
+}

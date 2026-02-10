@@ -1,0 +1,1206 @@
+{
+  "source": "https://intel.arkm.com/explorer/token/gala",
+  "collected_at": "2026-02-10T15:36:40.206Z",
+  "rows": [
+    {
+      "name": "Binance\n: \nCold Wallet (0xF97)",
+      "balance_raw": "8,031,296,827.82",
+      "percent_raw": "21.71%",
+      "usd_raw": "$32.34M"
+    },
+    {
+      "name": "BtcTurk\n: \nHot Wallet (0x76e)",
+      "balance_raw": "1,492,284,658.55",
+      "percent_raw": "4.03%",
+      "usd_raw": "$6.01M"
+    },
+    {
+      "name": "Bithumb\n: \nHot Wallet (0x7d9)",
+      "balance_raw": "1,381,438,221.89",
+      "percent_raw": "3.73%",
+      "usd_raw": "$5.56M"
+    },
+    {
+      "name": "eToro?\n0x77FB357f55BEf5a70d30663955F8C9f35794DF0E",
+      "balance_raw": "999,976,354.84",
+      "percent_raw": "2.7%",
+      "usd_raw": "$4.03M"
+    },
+    {
+      "name": "Bitkub\n: \nMultiSig (0x308)",
+      "balance_raw": "968,708,959.01",
+      "percent_raw": "2.62%",
+      "usd_raw": "$3.9M"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0x187)",
+      "balance_raw": "732,548,078.61",
+      "percent_raw": "1.98%",
+      "usd_raw": "$2.95M"
+    },
+    {
+      "name": "0xB443D57137534fA4B0C1f8486fB8467275168459",
+      "balance_raw": "710,545,681",
+      "percent_raw": "1.92%",
+      "usd_raw": "$2.86M"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (0xA02)",
+      "balance_raw": "657,820,082.88",
+      "percent_raw": "1.78%",
+      "usd_raw": "$2.65M"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (0xCFF)",
+      "balance_raw": "559,389,014.35",
+      "percent_raw": "1.51%",
+      "usd_raw": "$2.25M"
+    },
+    {
+      "name": "OKX\n: \nHot Wallet (0x91D)",
+      "balance_raw": "543,737,342.11",
+      "percent_raw": "1.47%",
+      "usd_raw": "$2.19M"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0x835)",
+      "balance_raw": "497,519,243.5",
+      "percent_raw": "1.35%",
+      "usd_raw": "$2M"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (0x7DA)",
+      "balance_raw": "495,735,435.1",
+      "percent_raw": "1.34%",
+      "usd_raw": "$2M"
+    },
+    {
+      "name": "0xdf3288F9E54809C97eDaBDEb8f0c3c26Ce0f5192",
+      "balance_raw": "474,721,676.42",
+      "percent_raw": "1.28%",
+      "usd_raw": "$1.91M"
+    },
+    {
+      "name": "Bitstamp\n: \nHot Wallet (0x7f6)",
+      "balance_raw": "455,993,823.38",
+      "percent_raw": "1.23%",
+      "usd_raw": "$1.84M"
+    },
+    {
+      "name": "Bitkub\n: \nMultiSig (BitGo) (0x326)",
+      "balance_raw": "446,499,767",
+      "percent_raw": "1.21%",
+      "usd_raw": "$1.8M"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0xee5)",
+      "balance_raw": "370,000,000.9",
+      "percent_raw": "1%",
+      "usd_raw": "$1.49M"
+    },
+    {
+      "name": "Bitget\n: \nCold Wallet (0xffa)",
+      "balance_raw": "341,584,089.01",
+      "percent_raw": "0.92%",
+      "usd_raw": "$1.38M"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (0xd2D)",
+      "balance_raw": "338,898,643.48",
+      "percent_raw": "0.92%",
+      "usd_raw": "$1.36M"
+    },
+    {
+      "name": "Kraken\n: \nHot Wallet (0xfcF)",
+      "balance_raw": "323,837,218.68",
+      "percent_raw": "0.88%",
+      "usd_raw": "$1.3M"
+    },
+    {
+      "name": "Bitbank\n: \nHot Wallet (0x372)",
+      "balance_raw": "318,754,976.17",
+      "percent_raw": "0.86%",
+      "usd_raw": "$1.28M"
+    },
+    {
+      "name": "Bitpanda?\n0x221f8e99408F730981bFC311EB9372DC353f3aC0",
+      "balance_raw": "309,755,663.12",
+      "percent_raw": "0.84%",
+      "usd_raw": "$1.25M"
+    },
+    {
+      "name": "0x0fa5B9B2805e2D0f25dee42730CF4E30C9e7e0b1",
+      "balance_raw": "291,681,696.6",
+      "percent_raw": "0.79%",
+      "usd_raw": "$1.17M"
+    },
+    {
+      "name": "Uphold\n: \nCold Wallet (0x377)",
+      "balance_raw": "272,500,659.1",
+      "percent_raw": "0.74%",
+      "usd_raw": "$1.1M"
+    },
+    {
+      "name": "Bitvavo\n: \nCold Wallet (0xedC)",
+      "balance_raw": "263,644,916.6",
+      "percent_raw": "0.71%",
+      "usd_raw": "$1.06M"
+    },
+    {
+      "name": "CoinSpot\n \n(0xf35)",
+      "balance_raw": "258,356,245",
+      "percent_raw": "0.7%",
+      "usd_raw": "$1.04M"
+    },
+    {
+      "name": "Gemini\n: \nCold Wallet (0xAFC)",
+      "balance_raw": "253,999,400",
+      "percent_raw": "0.69%",
+      "usd_raw": "$1.02M"
+    },
+    {
+      "name": "0xFf3EDc21C7Ea01eBBf24083421076f39FEC9465D",
+      "balance_raw": "250,000,000",
+      "percent_raw": "0.68%",
+      "usd_raw": "$1.01M"
+    },
+    {
+      "name": "Gate\n: \nCold Wallet (0xC88)",
+      "balance_raw": "248,076,323.34",
+      "percent_raw": "0.67%",
+      "usd_raw": "$998.86K"
+    },
+    {
+      "name": "Binance\n: \nHot Wallet (0x28C)",
+      "balance_raw": "245,955,621.19",
+      "percent_raw": "0.66%",
+      "usd_raw": "$990.32K"
+    },
+    {
+      "name": "Bitstamp\n: \nWalletSimple (BitGo) (0x4a2)",
+      "balance_raw": "245,917,596.82",
+      "percent_raw": "0.66%",
+      "usd_raw": "$990.17K"
+    },
+    {
+      "name": "Binance\n \n(0x98A)",
+      "balance_raw": "240,887,770.63",
+      "percent_raw": "0.65%",
+      "usd_raw": "$969.92K"
+    },
+    {
+      "name": "Bitkub\n: \nHot Wallet (0x157)",
+      "balance_raw": "221,865,629.19",
+      "percent_raw": "0.6%",
+      "usd_raw": "$893.32K"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0x436)",
+      "balance_raw": "200,879,124.49",
+      "percent_raw": "0.54%",
+      "usd_raw": "$808.82K"
+    },
+    {
+      "name": "WalletSimple (BitGo) (0x10A)",
+      "balance_raw": "191,500,686.35",
+      "percent_raw": "0.52%",
+      "usd_raw": "$771.06K"
+    },
+    {
+      "name": "KuCoin\n: \nCold Wallet (0x6D6)",
+      "balance_raw": "188,290,989.71",
+      "percent_raw": "0.51%",
+      "usd_raw": "$758.14K"
+    },
+    {
+      "name": "CoinDCX\n \n(0x8c7)",
+      "balance_raw": "186,046,110.74",
+      "percent_raw": "0.5%",
+      "usd_raw": "$749.1K"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (0x3CC)",
+      "balance_raw": "185,303,751.88",
+      "percent_raw": "0.5%",
+      "usd_raw": "$746.11K"
+    },
+    {
+      "name": "Bitvavo\n: \nCold Wallet (0xb0A)",
+      "balance_raw": "161,500,000.01",
+      "percent_raw": "0.44%",
+      "usd_raw": "$650.27K"
+    },
+    {
+      "name": "Paribu\n: \nCold Wallet (0xc36)",
+      "balance_raw": "161,317,750.59",
+      "percent_raw": "0.44%",
+      "usd_raw": "$649.53K"
+    },
+    {
+      "name": "0x628d6380a28b8d9aE7516597Fa625934185bfeD4",
+      "balance_raw": "159,483,303.38",
+      "percent_raw": "0.43%",
+      "usd_raw": "$642.15K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (0x463)",
+      "balance_raw": "154,272,214.61",
+      "percent_raw": "0.42%",
+      "usd_raw": "$621.16K"
+    },
+    {
+      "name": "Coinbase\n: \nHot Wallet (0xA9D)",
+      "balance_raw": "152,041,010.72",
+      "percent_raw": "0.41%",
+      "usd_raw": "$612.18K"
+    },
+    {
+      "name": "Bitso\n: \nCold Wallet (0xE3E)",
+      "balance_raw": "145,466,761.38",
+      "percent_raw": "0.39%",
+      "usd_raw": "$585.71K"
+    },
+    {
+      "name": "Paribu\n: \nHot Wallet (0xc80)",
+      "balance_raw": "139,394,854.76",
+      "percent_raw": "0.38%",
+      "usd_raw": "$561.26K"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0x5a5)",
+      "balance_raw": "139,264,580.32",
+      "percent_raw": "0.38%",
+      "usd_raw": "$560.74K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (0x5b7)",
+      "balance_raw": "128,434,999.17",
+      "percent_raw": "0.35%",
+      "usd_raw": "$517.13K"
+    },
+    {
+      "name": "OKX\n: \nCold Wallet (0x611)",
+      "balance_raw": "122,466,320.24",
+      "percent_raw": "0.33%",
+      "usd_raw": "$493.1K"
+    },
+    {
+      "name": "0xd367E507282Cd1b461891bD86051F4cb6d10069B",
+      "balance_raw": "112,954,925.89",
+      "percent_raw": "0.31%",
+      "usd_raw": "$454.8K"
+    },
+    {
+      "name": "Binance US\n: \nCold Wallet (0xA74)",
+      "balance_raw": "105,972,804.65",
+      "percent_raw": "0.29%",
+      "usd_raw": "$426.69K"
+    },
+    {
+      "name": "SwissBorg\n: \nHot Wallet (0x28c)",
+      "balance_raw": "102,967,518.13",
+      "percent_raw": "0.28%",
+      "usd_raw": "$414.59K"
+    },
+    {
+      "name": "OKX\n: \nHot Wallet (0x4A4)",
+      "balance_raw": "102,287,307.14",
+      "percent_raw": "0.28%",
+      "usd_raw": "$411.85K"
+    },
+    {
+      "name": "0x35E70A01F0d76491aba891665FC8A16Fa4766d32",
+      "balance_raw": "99,999,700",
+      "percent_raw": "0.27%",
+      "usd_raw": "$402.64K"
+    },
+    {
+      "name": "Coinone\n: \nHot Wallet (0x167)",
+      "balance_raw": "99,645,739.99",
+      "percent_raw": "0.27%",
+      "usd_raw": "$401.22K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0xD5F)",
+      "balance_raw": "94,400,090.54",
+      "percent_raw": "0.26%",
+      "usd_raw": "$380.09K"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0x18e)",
+      "balance_raw": "92,082,081.96",
+      "percent_raw": "0.25%",
+      "usd_raw": "$370.76K"
+    },
+    {
+      "name": "CoinDCX\n: \nHot Wallet (0x636)",
+      "balance_raw": "91,007,036.94",
+      "percent_raw": "0.25%",
+      "usd_raw": "$366.43K"
+    },
+    {
+      "name": "Gala Games\n: \nGnosis Safe Proxy (0x32c)",
+      "balance_raw": "89,547,686.49",
+      "percent_raw": "0.24%",
+      "usd_raw": "$360.56K"
+    },
+    {
+      "name": "Bitstamp\n: \nMultiSig (BitGo) (0xeE9)",
+      "balance_raw": "83,397,232",
+      "percent_raw": "0.23%",
+      "usd_raw": "$335.79K"
+    },
+    {
+      "name": "0x3DA7f6444F802C499A36084e48fEb335Ade7ACc9",
+      "balance_raw": "83,393,267.25",
+      "percent_raw": "0.23%",
+      "usd_raw": "$335.78K"
+    },
+    {
+      "name": "0x2e80cA42862464D545e33113A651306A778230C7",
+      "balance_raw": "83,393,267.25",
+      "percent_raw": "0.23%",
+      "usd_raw": "$335.78K"
+    },
+    {
+      "name": "0x072235ea91f2ff3364a5b043882e7Cc893140BcE",
+      "balance_raw": "83,393,267.25",
+      "percent_raw": "0.23%",
+      "usd_raw": "$335.78K"
+    },
+    {
+      "name": "0xE741CCDc5d9C5cdb3DB1f6bd3EBF06229dC13303",
+      "balance_raw": "83,393,267.25",
+      "percent_raw": "0.23%",
+      "usd_raw": "$335.78K"
+    },
+    {
+      "name": "0x79D4c25260f8e9A774C0de167ae2BeBe917d19F5",
+      "balance_raw": "83,393,267.25",
+      "percent_raw": "0.23%",
+      "usd_raw": "$335.78K"
+    },
+    {
+      "name": "0x319A5f16FF9e37BE50bdABb520EB3CD8b2Cd7dA6",
+      "balance_raw": "83,393,267.25",
+      "percent_raw": "0.23%",
+      "usd_raw": "$335.78K"
+    },
+    {
+      "name": "0x66547a17dC0bf6F09a6636fc5b3f762B94e44182",
+      "balance_raw": "83,393,267.25",
+      "percent_raw": "0.23%",
+      "usd_raw": "$335.78K"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (0x75e)",
+      "balance_raw": "82,016,135.78",
+      "percent_raw": "0.22%",
+      "usd_raw": "$330.23K"
+    },
+    {
+      "name": "0xB51Bf9029d778899d42e96ebCdc0498bd061006d",
+      "balance_raw": "81,081,733.7",
+      "percent_raw": "0.22%",
+      "usd_raw": "$326.47K"
+    },
+    {
+      "name": "Revolut\n \n(0x9b0)",
+      "balance_raw": "80,085,190.73",
+      "percent_raw": "0.22%",
+      "usd_raw": "$322.46K"
+    },
+    {
+      "name": "Bitkub Deposit (0x2be)",
+      "balance_raw": "78,999,995",
+      "percent_raw": "0.21%",
+      "usd_raw": "$318.09K"
+    },
+    {
+      "name": "MultiSig (BitGo) (0x5B9)",
+      "balance_raw": "77,827,397.64",
+      "percent_raw": "0.21%",
+      "usd_raw": "$313.37K"
+    },
+    {
+      "name": "0xf8820C59db032c5eb5d8FbC56C7c500575468d9F",
+      "balance_raw": "75,589,553.41",
+      "percent_raw": "0.2%",
+      "usd_raw": "$304.36K"
+    },
+    {
+      "name": "0x0D5bEd5913cB8d843CC069846d6c3294E711f662",
+      "balance_raw": "73,176,934.87",
+      "percent_raw": "0.2%",
+      "usd_raw": "$294.64K"
+    },
+    {
+      "name": "BtcTurk\n: \nHot Wallet (0xb33)",
+      "balance_raw": "70,110,590.59",
+      "percent_raw": "0.19%",
+      "usd_raw": "$282.29K"
+    },
+    {
+      "name": "Bitkub\n: \nMultiSig (0xbB3)",
+      "balance_raw": "67,990,832.99",
+      "percent_raw": "0.18%",
+      "usd_raw": "$273.76K"
+    },
+    {
+      "name": "0x37BC670acf36174A69cBA98E6d1Bdd299f069359",
+      "balance_raw": "66,614,116.38",
+      "percent_raw": "0.18%",
+      "usd_raw": "$268.22K"
+    },
+    {
+      "name": "Nobitex.ir\n: \nHot Wallet (0xDb2)",
+      "balance_raw": "63,000,000",
+      "percent_raw": "0.17%",
+      "usd_raw": "$253.66K"
+    },
+    {
+      "name": "Gate\n: \nHot Wallet (0x0D0)",
+      "balance_raw": "62,728,786.45",
+      "percent_raw": "0.17%",
+      "usd_raw": "$252.57K"
+    },
+    {
+      "name": "HTX\n: \nGnosis Safe Proxy (0x4fb)",
+      "balance_raw": "62,521,126",
+      "percent_raw": "0.17%",
+      "usd_raw": "$251.74K"
+    },
+    {
+      "name": "Coinhako\n: \nHot Wallet (0xE66)",
+      "balance_raw": "62,000,546.62",
+      "percent_raw": "0.17%",
+      "usd_raw": "$249.64K"
+    },
+    {
+      "name": "0x0c501D43206b97FA4300f1B0962742b4F938f70E",
+      "balance_raw": "61,991,062.78",
+      "percent_raw": "0.17%",
+      "usd_raw": "$249.6K"
+    },
+    {
+      "name": "Bitstamp\n: \nWalletSimple (BitGo) (0x4f9)",
+      "balance_raw": "61,987,518.36",
+      "percent_raw": "0.17%",
+      "usd_raw": "$249.59K"
+    },
+    {
+      "name": "Binance\n: \nHot Wallet (0x21a)",
+      "balance_raw": "61,276,517.44",
+      "percent_raw": "0.17%",
+      "usd_raw": "$246.72K"
+    },
+    {
+      "name": "NDAX?\n0xF8CD17784f425120de2f0D65756D8a707c13D040",
+      "balance_raw": "58,709,126.09",
+      "percent_raw": "0.16%",
+      "usd_raw": "$236.39K"
+    },
+    {
+      "name": "Binance\n: \nHot Wallet (0xDFd)",
+      "balance_raw": "58,635,402.99",
+      "percent_raw": "0.16%",
+      "usd_raw": "$236.09K"
+    },
+    {
+      "name": "0xaEf8491BFd2803F03cA1E5De0926ab61bD596538",
+      "balance_raw": "58,446,082.76",
+      "percent_raw": "0.16%",
+      "usd_raw": "$235.33K"
+    },
+    {
+      "name": "WalletSimple (BitGo) (0x289)",
+      "balance_raw": "57,724,078.42",
+      "percent_raw": "0.16%",
+      "usd_raw": "$232.42K"
+    },
+    {
+      "name": "BingX\n \n(0xd97)",
+      "balance_raw": "56,932,205.3",
+      "percent_raw": "0.15%",
+      "usd_raw": "$229.23K"
+    },
+    {
+      "name": "0xF6Fc530369cbE3cE503fFE986Ac5c0828d831A9C",
+      "balance_raw": "56,792,415.84",
+      "percent_raw": "0.15%",
+      "usd_raw": "$228.67K"
+    },
+    {
+      "name": "MaiCoin\n: \nHot Wallet (0x477)",
+      "balance_raw": "52,710,360.68",
+      "percent_raw": "0.14%",
+      "usd_raw": "$212.23K"
+    },
+    {
+      "name": "0x5D7F34372FA8708E09689D400A613EeE67F75543",
+      "balance_raw": "51,109,761",
+      "percent_raw": "0.14%",
+      "usd_raw": "$205.79K"
+    },
+    {
+      "name": "KuCoin\n: \nCold Vault (Proxy) (0x446)",
+      "balance_raw": "50,565,805.51",
+      "percent_raw": "0.14%",
+      "usd_raw": "$203.6K"
+    },
+    {
+      "name": "0x50981Fcd83b4514105bD79B5B116342278313b11",
+      "balance_raw": "50,098,957",
+      "percent_raw": "0.14%",
+      "usd_raw": "$201.72K"
+    },
+    {
+      "name": "HTX\n: \nRecovery Hot Wallet (0x187)",
+      "balance_raw": "47,553,565.34",
+      "percent_raw": "0.13%",
+      "usd_raw": "$191.47K"
+    },
+    {
+      "name": "Mercado Bitcoin\n: \nHot Wallet (0xb8b)",
+      "balance_raw": "47,479,624.21",
+      "percent_raw": "0.13%",
+      "usd_raw": "$191.17K"
+    },
+    {
+      "name": "Kraken Deposit (0x504)",
+      "balance_raw": "46,607,135.34",
+      "percent_raw": "0.13%",
+      "usd_raw": "$187.66K"
+    },
+    {
+      "name": "Bitvavo\n: \nHot Wallet (0x4Fc)",
+      "balance_raw": "46,269,225.18",
+      "percent_raw": "0.13%",
+      "usd_raw": "$186.3K"
+    },
+    {
+      "name": "CoinEx\n: \nCold Wallet (0x548)",
+      "balance_raw": "44,849,074.92",
+      "percent_raw": "0.12%",
+      "usd_raw": "$180.58K"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0x932)",
+      "balance_raw": "43,075,823.04",
+      "percent_raw": "0.12%",
+      "usd_raw": "$173.44K"
+    },
+    {
+      "name": "0x1a2ed985A0318B2b9a6E17168F9Ca03c048AC35A",
+      "balance_raw": "42,700,000",
+      "percent_raw": "0.12%",
+      "usd_raw": "$171.93K"
+    },
+    {
+      "name": "Bitvavo?\n0x50E11Ee6Ecd5DC8f5Cbd06951FcA04c536e8Fb24",
+      "balance_raw": "42,276,086.61",
+      "percent_raw": "0.11%",
+      "usd_raw": "$170.22K"
+    },
+    {
+      "name": "Raydium\n: \nMarket (2sHVa)",
+      "balance_raw": "13,867,029.86",
+      "percent_raw": "0.037%",
+      "usd_raw": "$55.83K"
+    },
+    {
+      "name": "DWWQstLmtuHkb3dqb7kP387JUzQvHXGJDNUS4v91qT5E",
+      "balance_raw": "674,086.46",
+      "percent_raw": "0.0018%",
+      "usd_raw": "$2.71K"
+    },
+    {
+      "name": "CHXQxQEisaQnGvZao1sGe91dM4hkRpcXsh3hAJ8QKVo9",
+      "balance_raw": "671,385.28",
+      "percent_raw": "0.0018%",
+      "usd_raw": "$2.7K"
+    },
+    {
+      "name": "EAvpNCj3K9ZSRNSJ4PrS1SMh6uyHaQ8kS44kgoJSntvs",
+      "balance_raw": "488,866.26",
+      "percent_raw": "0.0013%",
+      "usd_raw": "$1.97K"
+    },
+    {
+      "name": "DW4kp1UoKZgvgr8BRrgMRPWWhwvv4J4g3w4QJF6jfRPo",
+      "balance_raw": "400,332.2",
+      "percent_raw": "0.0011%",
+      "usd_raw": "$1.61K"
+    },
+    {
+      "name": "DUua61RzJF1tq3sraPLF3NiYCF6w6sXFhoNX9BDhgmBN",
+      "balance_raw": "150,047",
+      "percent_raw": "0.00041%",
+      "usd_raw": "$604.15"
+    },
+    {
+      "name": "GHxoRaL8MHhDzZHba2t59LYjbLbRvkWaHcgemRJjYiAQ",
+      "balance_raw": "126,351.94",
+      "percent_raw": "0.00034%",
+      "usd_raw": "$508.75"
+    },
+    {
+      "name": "FBp5oQKL4m44NcaTEhRrTYYB65b6uXtfZzJQNgYnwaR8",
+      "balance_raw": "125,085.01",
+      "percent_raw": "0.00034%",
+      "usd_raw": "$503.64"
+    },
+    {
+      "name": "5PdySTPJKp7yu5AMjvgqZ7ENzDmAhF6HY9mwNBR8bCCa",
+      "balance_raw": "113,965.39",
+      "percent_raw": "0.00031%",
+      "usd_raw": "$458.87"
+    },
+    {
+      "name": "8oDsrvGv1mkJdCA6uW96cuQbWjJHtY6cvbNvxtXM3svX",
+      "balance_raw": "88,335.93",
+      "percent_raw": "0.00024%",
+      "usd_raw": "$355.68"
+    },
+    {
+      "name": "DJn6uW6PHvgqgHWvWpFaCBUHp492vbJ2FchHMexe42N1",
+      "balance_raw": "80,234.15",
+      "percent_raw": "0.00022%",
+      "usd_raw": "$323.06"
+    },
+    {
+      "name": "DiRWWQ5KrzNd1hJc4TpjdWHDDZx3Hcik8qYqKp4EPEVo",
+      "balance_raw": "56,192.65",
+      "percent_raw": "0.00015%",
+      "usd_raw": "$226.26"
+    },
+    {
+      "name": "F49gbYXgQVMyBNzdm5e7sfh2UVoxGiX466kPgc1rKqbN",
+      "balance_raw": "48,139.56",
+      "percent_raw": "0.00013%",
+      "usd_raw": "$193.83"
+    },
+    {
+      "name": "4DESBX4qBSXTxGm9q7muMguQifueerxX9YsGnCACY5At",
+      "balance_raw": "41,153.86",
+      "percent_raw": "0.00011%",
+      "usd_raw": "$165.7"
+    },
+    {
+      "name": "EWgFhToaC89f8HqaUPdhmfTJfmkasM9Kv8yu7YmkmQ2o",
+      "balance_raw": "34,938.22",
+      "percent_raw": "0.000094%",
+      "usd_raw": "$140.68"
+    },
+    {
+      "name": "5uuTnwhsYurSmXMjhSbbqAuBivkBqF7TD2rSnpeXkize",
+      "balance_raw": "33,598.1",
+      "percent_raw": "0.000091%",
+      "usd_raw": "$135.28"
+    },
+    {
+      "name": "DqLkBmJaCDE9b2Ew3RccRAKURBPEXMEevJf5w78tjin3",
+      "balance_raw": "33,503.45",
+      "percent_raw": "0.000091%",
+      "usd_raw": "$134.9"
+    },
+    {
+      "name": "5jJQfmFRKsT6gZ31yQDqbknS3Ct5dnVeC7y1eScQ3VKj",
+      "balance_raw": "32,185.73",
+      "percent_raw": "0.000087%",
+      "usd_raw": "$129.59"
+    },
+    {
+      "name": "5SATS9A6V7LEPDsWbWvX4rvBcWmRwkZeWAy1FG51HM4G",
+      "balance_raw": "26,435.39",
+      "percent_raw": "0.000071%",
+      "usd_raw": "$106.44"
+    },
+    {
+      "name": "EjYTZC86xbC9DpM7uUzzN6CautLbtFdgCv7DieYVaJ7F",
+      "balance_raw": "25,772.64",
+      "percent_raw": "0.00007%",
+      "usd_raw": "$103.77"
+    },
+    {
+      "name": "4RkoQCUhtPjXfmdpjamFRAN3dPy5Hpt1cMqdLkgZCAjM",
+      "balance_raw": "25,000",
+      "percent_raw": "0.000068%",
+      "usd_raw": "$100.66"
+    },
+    {
+      "name": "FMjiHRzXCrMTMbWPCJjtt1smnogL3Rx2bqvQjCRScs7g",
+      "balance_raw": "21,967.94",
+      "percent_raw": "0.000059%",
+      "usd_raw": "$88.45"
+    },
+    {
+      "name": "AzE9GUXyFxSuaU1ZnUYCY9fXJsfSnBdus6r6UjnKxNHx",
+      "balance_raw": "21,619.96",
+      "percent_raw": "0.000058%",
+      "usd_raw": "$87.05"
+    },
+    {
+      "name": "HqKQqnZ931gz37eVw5Es3ovyXHDyVSnUUUKP7HUPiFpK",
+      "balance_raw": "20,877.49",
+      "percent_raw": "0.000056%",
+      "usd_raw": "$84.06"
+    },
+    {
+      "name": "7NkafVREy4wz1VKsGUgkAQz2U7bW2xDRF1oYhSRc4Nnu",
+      "balance_raw": "20,207.59",
+      "percent_raw": "0.000055%",
+      "usd_raw": "$81.36"
+    },
+    {
+      "name": "FidspvFtCRm64mKfREswRfWcL691PjkDmK1sQRB3hb2D",
+      "balance_raw": "19,888.45",
+      "percent_raw": "0.000054%",
+      "usd_raw": "$80.08"
+    },
+    {
+      "name": "2goAmdE318NmrEF1TxTqux3pyrjn6Xrc1cmzCsVqhbLb",
+      "balance_raw": "18,508.88",
+      "percent_raw": "0.00005%",
+      "usd_raw": "$74.52"
+    },
+    {
+      "name": "ArSU11fLg1aK1HjUTf5JidNnTuUrG31UHj7d6AafnR8V",
+      "balance_raw": "15,797.13",
+      "percent_raw": "0.000043%",
+      "usd_raw": "$63.61"
+    },
+    {
+      "name": "98j5cB9tET5m2BQqkhEjyRRQzGK3EA9pbqznZKtypp4e",
+      "balance_raw": "15,721.47",
+      "percent_raw": "0.000043%",
+      "usd_raw": "$63.3"
+    },
+    {
+      "name": "3Z1LcwPKoKqSCaw945gK898o8JedKAm3r3XLUgeVswfR",
+      "balance_raw": "15,244.31",
+      "percent_raw": "0.000041%",
+      "usd_raw": "$61.38"
+    },
+    {
+      "name": "5BpMU8Y3WhitrRb92gsQWNyiaJLYSP6bzCxj5mYWdL6z",
+      "balance_raw": "14,901.24",
+      "percent_raw": "0.00004%",
+      "usd_raw": "$60"
+    },
+    {
+      "name": "A8CX4Doqzs4QDLSvbi2HNjLZKhqAgSk5Qg5g2TQQveRC",
+      "balance_raw": "13,146.66",
+      "percent_raw": "0.000036%",
+      "usd_raw": "$52.93"
+    },
+    {
+      "name": "77AcghLDifGvPkS9XAXtoBgExufNufX8sYAx3zXSZNvT",
+      "balance_raw": "12,894.88",
+      "percent_raw": "0.000035%",
+      "usd_raw": "$51.92"
+    },
+    {
+      "name": "Gz95e69JHKMe9WZy8rWXsse8txPT3v5qwyKukx1t7hMM",
+      "balance_raw": "12,558.97",
+      "percent_raw": "0.000034%",
+      "usd_raw": "$50.57"
+    },
+    {
+      "name": "FRXboWL1PmGXsj9q5vaN2rSYAu8LBzBStHhuMvJas8My",
+      "balance_raw": "12,486.68",
+      "percent_raw": "0.000034%",
+      "usd_raw": "$50.28"
+    },
+    {
+      "name": "72QHyJjicV6aVWLVip6tSLwZbiN8wNcqoTUFYBy2iGFH",
+      "balance_raw": "11,658.82",
+      "percent_raw": "0.000032%",
+      "usd_raw": "$46.94"
+    },
+    {
+      "name": "5L7nADUxC1ew82v4C4X3RNgXQGSu2TL7YjdtLsrPzJDb",
+      "balance_raw": "11,429.86",
+      "percent_raw": "0.000031%",
+      "usd_raw": "$46.02"
+    },
+    {
+      "name": "8sbDmfGBQ4wSW2dXBSm7rfngGywLBMatU3cyEeiAxkNr",
+      "balance_raw": "11,189.76",
+      "percent_raw": "0.00003%",
+      "usd_raw": "$45.05"
+    },
+    {
+      "name": "6ViqDWspPchMwKs7Ggpvc8WvoFxngUFhyjetvnFmJ5o9",
+      "balance_raw": "10,465.83",
+      "percent_raw": "0.000028%",
+      "usd_raw": "$42.14"
+    },
+    {
+      "name": "4r9ezk9PjfAnNpWmCuZvaJ6jiHvyXUDxEpgsiizZAUqd",
+      "balance_raw": "10,000",
+      "percent_raw": "0.000027%",
+      "usd_raw": "$40.26"
+    },
+    {
+      "name": "2FZy5wTCkb4KxEGeEjBKnwnjbhiguRMESqo6uYTwwxkf",
+      "balance_raw": "10,000",
+      "percent_raw": "0.000027%",
+      "usd_raw": "$40.26"
+    },
+    {
+      "name": "5hhYeV9WabtqZRYZJkJVNAUQQHmCJWJ6KenDoSUpFb7L",
+      "balance_raw": "9,793.37",
+      "percent_raw": "0.000026%",
+      "usd_raw": "$39.43"
+    },
+    {
+      "name": "95KY1DHZdKceZniab4DEVgVWKq8qNSo3mMyysBob9Cor",
+      "balance_raw": "9,499.92",
+      "percent_raw": "0.000026%",
+      "usd_raw": "$38.25"
+    },
+    {
+      "name": "Bf3RgDBqxKPH8GnxRBwx5VPZFyFtrtraF4R4y1Y3qYDi",
+      "balance_raw": "9,491.48",
+      "percent_raw": "0.000026%",
+      "usd_raw": "$38.22"
+    },
+    {
+      "name": "ENNm9PaLwSWkkmhMU5gyzSmr3XJZw8kGqForaGUf7fi7",
+      "balance_raw": "9,452.68",
+      "percent_raw": "0.000026%",
+      "usd_raw": "$38.06"
+    },
+    {
+      "name": "nRNm97TwHBdbgPLQEbL7R2eBTzkJ8YiJFWGzjKooJHo",
+      "balance_raw": "9,353.53",
+      "percent_raw": "0.000025%",
+      "usd_raw": "$37.66"
+    },
+    {
+      "name": "9qH2D7R7aaQ11hr8uovnjHBBRptG7BbKtvaQNP3inyfr",
+      "balance_raw": "8,761.14",
+      "percent_raw": "0.000024%",
+      "usd_raw": "$35.28"
+    },
+    {
+      "name": "5KA8b8LsrSK3gRviRaPfeTn8tBsAroHKgNkYVQrsrmRv",
+      "balance_raw": "7,455.45",
+      "percent_raw": "0.00002%",
+      "usd_raw": "$30.02"
+    },
+    {
+      "name": "DxXvw4krdvuyjDgAW5rNDBEeANACKbJVAv2mhif6UyHX",
+      "balance_raw": "6,475.97",
+      "percent_raw": "0.000018%",
+      "usd_raw": "$26.07"
+    },
+    {
+      "name": "DUZgmGVCkCyYtJLboAwietrcmXZP66yM185y5SRxskGV",
+      "balance_raw": "6,403.64",
+      "percent_raw": "0.000017%",
+      "usd_raw": "$25.78"
+    },
+    {
+      "name": "ALWDr1Eyjg9T88eRJoBQWZnhdj11Crs5BTgXC2oHyFrc",
+      "balance_raw": "6,187.18",
+      "percent_raw": "0.000017%",
+      "usd_raw": "$24.91"
+    },
+    {
+      "name": "41fzDZzCucNqs9wMSAgC8M1NUPXBVizRGaz3J4ps2ssb",
+      "balance_raw": "6,144.16",
+      "percent_raw": "0.000017%",
+      "usd_raw": "$24.74"
+    },
+    {
+      "name": "Fv2eiGvvHRDKiPuAw53B7pcJeigsXCJm4BRmFjfj1Z3Z",
+      "balance_raw": "6,114.88",
+      "percent_raw": "0.000017%",
+      "usd_raw": "$24.62"
+    },
+    {
+      "name": "DG7gFmyTM142THL7ffhr1ttndCCSqkDQNKbxvJwoMLag",
+      "balance_raw": "6,024.66",
+      "percent_raw": "0.000016%",
+      "usd_raw": "$24.26"
+    },
+    {
+      "name": "C5hBc3qExtaQDAZCbyvJVz7NX6z3TTazqBNj33nxppoX",
+      "balance_raw": "5,684.06",
+      "percent_raw": "0.000015%",
+      "usd_raw": "$22.89"
+    },
+    {
+      "name": "HWWqk28urPuYBykuSPwN6oxA8HCBLWaUhbtTWacB18bQ",
+      "balance_raw": "5,030.64",
+      "percent_raw": "0.000014%",
+      "usd_raw": "$20.26"
+    },
+    {
+      "name": "32kk2QBbRab4mdQTwE1UUEbLcUhHf8R2AXb65Mj5gNEi",
+      "balance_raw": "4,721.2",
+      "percent_raw": "0.000013%",
+      "usd_raw": "$19.01"
+    },
+    {
+      "name": "EQrQUJK75SQp6U6kiVmFjKs1HrtjV2dCyqUYXLSQGHGp",
+      "balance_raw": "4,649.67",
+      "percent_raw": "0.000013%",
+      "usd_raw": "$18.72"
+    },
+    {
+      "name": "9N2MtKgrHaq31dYZbREH3RTZuXK7HPNfy64kkXXw6MuJ",
+      "balance_raw": "4,275.58",
+      "percent_raw": "0.000012%",
+      "usd_raw": "$17.22"
+    },
+    {
+      "name": "Binance Deposit (DJiSg)",
+      "balance_raw": "3,900",
+      "percent_raw": "0.000011%",
+      "usd_raw": "$15.7"
+    },
+    {
+      "name": "GuBwLkKREmmb8HhQWaAaDp4RXN52Tvb3vCz2zooc3yar",
+      "balance_raw": "3,809.53",
+      "percent_raw": "0.00001%",
+      "usd_raw": "$15.34"
+    },
+    {
+      "name": "9RutGjA455odKZCB3bLU37bMVU1mL72xB8ENYQaAneek",
+      "balance_raw": "3,701.81",
+      "percent_raw": "0.00001%",
+      "usd_raw": "$14.91"
+    },
+    {
+      "name": "23vfidXmKkg4AH9Nw7w145mp1PRAVT4Soegrh31C5jn5",
+      "balance_raw": "3,692.59",
+      "percent_raw": "0.00001%",
+      "usd_raw": "$14.87"
+    },
+    {
+      "name": "HCm1HLjHingM128mB45kUApELLeSzVpaaYyEFaQfqFDS",
+      "balance_raw": "3,656.04",
+      "percent_raw": "0.0000099%",
+      "usd_raw": "$14.72"
+    },
+    {
+      "name": "FS8u3SHFyXLbzfAUmD1vKM8u1a5JfuwtDsaGBYME5QQA",
+      "balance_raw": "3,335.53",
+      "percent_raw": "0.000009%",
+      "usd_raw": "$13.43"
+    },
+    {
+      "name": "68VcsXK1KGTCTq7Vrcad3E2bWmtuHtaTNs91kHVxNrdr",
+      "balance_raw": "3,228.01",
+      "percent_raw": "0.0000087%",
+      "usd_raw": "$13"
+    },
+    {
+      "name": "7mrkSxsh1aiCKJDPS5bh2y8oTnmb2QpVapJhxS3h55Ad",
+      "balance_raw": "3,111.09",
+      "percent_raw": "0.0000084%",
+      "usd_raw": "$12.53"
+    },
+    {
+      "name": "JCHBrXJrKwAgffkhq62Etmp3rDrvQw7R72ULHupcDpS3",
+      "balance_raw": "3,048.35",
+      "percent_raw": "0.0000082%",
+      "usd_raw": "$12.27"
+    },
+    {
+      "name": "G8njJUCWP3NVma6QaGPosDgxuZiZCQfa51mxb3sKgGHj",
+      "balance_raw": "2,911.05",
+      "percent_raw": "0.0000079%",
+      "usd_raw": "$11.72"
+    },
+    {
+      "name": "96QNrDyzUw9VXoCNZjZg41DmN2MLRipJF4RoLh6XW6Vy",
+      "balance_raw": "2,846.81",
+      "percent_raw": "0.0000077%",
+      "usd_raw": "$11.46"
+    },
+    {
+      "name": "7TSECVBbjYFCQaZZVHmwBxYm14M4hY5nmEQVWPbDdj1a",
+      "balance_raw": "2,699.35",
+      "percent_raw": "0.0000073%",
+      "usd_raw": "$10.87"
+    },
+    {
+      "name": "A35tpWQbtPmRAXF1jrnj2YrQMAnj1AHxt1YjbAjckjQy",
+      "balance_raw": "2,427.3",
+      "percent_raw": "0.0000066%",
+      "usd_raw": "$9.77"
+    },
+    {
+      "name": "CSGYyV1uBURsD5VbtbKkGkqpdh4rj2Q6JoJQNALkHkcW",
+      "balance_raw": "2,427.14",
+      "percent_raw": "0.0000066%",
+      "usd_raw": "$9.77"
+    },
+    {
+      "name": "GNpQrUhN9bMfdRjJ97mfNrdC7zkZJHzt49Bwe8VoGPNA",
+      "balance_raw": "2,300",
+      "percent_raw": "0.0000062%",
+      "usd_raw": "$9.26"
+    },
+    {
+      "name": "75U671R16ceW4NjBuTVt9oRixuEdyPfaWud6nPE1rmTp",
+      "balance_raw": "2,118.31",
+      "percent_raw": "0.0000057%",
+      "usd_raw": "$8.53"
+    },
+    {
+      "name": "BeFxV5hrJGP53FHK6bN18dwGXxbkbx4f3TUnjYzXNDC4",
+      "balance_raw": "2,071.53",
+      "percent_raw": "0.0000056%",
+      "usd_raw": "$8.34"
+    },
+    {
+      "name": "BHsV1pg9mtK3fuqLvShcxbAuJYosspy9XzzQS7VMGvHe",
+      "balance_raw": "2,051.08",
+      "percent_raw": "0.0000055%",
+      "usd_raw": "$8.26"
+    },
+    {
+      "name": "7EsC4HCv4YAzUks2q5RrFo17trCHTiFMB3G23XUk5fYG",
+      "balance_raw": "2,006.03",
+      "percent_raw": "0.0000054%",
+      "usd_raw": "$8.08"
+    },
+    {
+      "name": "BndcX734bhSvRbcnW6raHpGuNPa9BqhaGcRArq1yLFeQ",
+      "balance_raw": "1,993.02",
+      "percent_raw": "0.0000054%",
+      "usd_raw": "$8.02"
+    },
+    {
+      "name": "2WZZHkidDpZSqf4LesbxGdf145yp5RYkDgNPFBPtM82w",
+      "balance_raw": "1,986.12",
+      "percent_raw": "0.0000054%",
+      "usd_raw": "$8"
+    },
+    {
+      "name": "6Ci4eLwbCaEMiQQekwExHdozqpLg7cvbZRz1k75gWiZK",
+      "balance_raw": "1,912.7",
+      "percent_raw": "0.0000052%",
+      "usd_raw": "$7.7"
+    },
+    {
+      "name": "FZtQSwaekmv9stNsowPpXtSrDEWNqNK8ywiCR5U9y5JG",
+      "balance_raw": "1,867.52",
+      "percent_raw": "0.000005%",
+      "usd_raw": "$7.52"
+    },
+    {
+      "name": "Co8NFygKuFzgwo5AqRBVaLHUm4NBWF2dk7bVK6FQQFhy",
+      "balance_raw": "1,737.69",
+      "percent_raw": "0.0000047%",
+      "usd_raw": "$7"
+    },
+    {
+      "name": "EqvkLCSExPaYzA2ka9j5XjaQpLqPpGF2rXthiofoUtSo",
+      "balance_raw": "1,686.18",
+      "percent_raw": "0.0000046%",
+      "usd_raw": "$6.79"
+    },
+    {
+      "name": "EN4EnC5ABnxrMSP7oPyusPvgF9g3HcQ8ZvnYaTvC9dCo",
+      "balance_raw": "1,626.08",
+      "percent_raw": "0.0000044%",
+      "usd_raw": "$6.55"
+    },
+    {
+      "name": "wBMAPMXcL5UW8erRuseW4tas5kuUTDkyS4XnHcC1LXQ",
+      "balance_raw": "1,500",
+      "percent_raw": "0.0000041%",
+      "usd_raw": "$6.04"
+    },
+    {
+      "name": "6BY36QPwHNrJRUJs2eTwaa4rWoP7U7UsmnyHBkLCBASG",
+      "balance_raw": "1,465.33",
+      "percent_raw": "0.000004%",
+      "usd_raw": "$5.9"
+    },
+    {
+      "name": "8q91eiaHup29gkhfTCN4FcqokHuNBh1ABFnQD7dc3nU6",
+      "balance_raw": "1,365",
+      "percent_raw": "0.0000037%",
+      "usd_raw": "$5.5"
+    },
+    {
+      "name": "47Cjc2WbeB9VnfFya1kA627weco7wsVdhxCn8CvezhB1",
+      "balance_raw": "1,302.21",
+      "percent_raw": "0.0000035%",
+      "usd_raw": "$5.24"
+    },
+    {
+      "name": "FZFydPvUGLhpEVg4zjxPTnynhD5ihw8MU3wetFSN71p",
+      "balance_raw": "1,267",
+      "percent_raw": "0.0000034%",
+      "usd_raw": "$5.1"
+    },
+    {
+      "name": "6LtzLHov9vQrH6A31VZAbSy6PqGb2SikQDXC8Eq71FHs",
+      "balance_raw": "1,167.78",
+      "percent_raw": "0.0000032%",
+      "usd_raw": "$4.7"
+    },
+    {
+      "name": "B11BhuwGXHFyGHLVkpBRZDBWHRhikF7Xh7Y7PwJqDHMH",
+      "balance_raw": "1,165.54",
+      "percent_raw": "0.0000032%",
+      "usd_raw": "$4.69"
+    },
+    {
+      "name": "DAXw2fWLwhwJ9JnZvFgijRbztvQvXecjS2L3D1amSryp",
+      "balance_raw": "1,158.27",
+      "percent_raw": "0.0000031%",
+      "usd_raw": "$4.66"
+    },
+    {
+      "name": "5UdZ28KfwoVABJGUZeTXhDkCRtkAkeV6L2xdLrpBKgcT",
+      "balance_raw": "1,157.92",
+      "percent_raw": "0.0000031%",
+      "usd_raw": "$4.66"
+    },
+    {
+      "name": "E1qKgdxjMJ4HVUu5RTphRzLJBFNs1SoZCDDYcqdw2RV3",
+      "balance_raw": "1,154.97",
+      "percent_raw": "0.0000031%",
+      "usd_raw": "$4.65"
+    },
+    {
+      "name": "vqQhMtyuLPQLYTMSFBQA8o9hPj9eEPrUxnHMUckMNiW",
+      "balance_raw": "1,142.28",
+      "percent_raw": "0.0000031%",
+      "usd_raw": "$4.6"
+    },
+    {
+      "name": "88GHMZ4ku1NQx8uCiTcHek9cVdMJXhrvpFgCaNoaPoYk",
+      "balance_raw": "1,134.57",
+      "percent_raw": "0.0000031%",
+      "usd_raw": "$4.57"
+    },
+    {
+      "name": "EXkhzs3szAj3XjGuhvZ9nHKF5arCFAJRPSHSYirNYziB",
+      "balance_raw": "1,119.66",
+      "percent_raw": "0.000003%",
+      "usd_raw": "$4.51"
+    },
+    {
+      "name": "2xc22KduqEG75BEqDsdNKuRa4Fzhhoe68N6Ggo82zu39",
+      "balance_raw": "1,092.36",
+      "percent_raw": "0.000003%",
+      "usd_raw": "$4.4"
+    },
+    {
+      "name": "EVkPP5aGAavcD8P5gQq6392cfTB2HiYY7wkHrXxXjAkF",
+      "balance_raw": "1,075.02",
+      "percent_raw": "0.0000029%",
+      "usd_raw": "$4.33"
+    }
+  ]
+}

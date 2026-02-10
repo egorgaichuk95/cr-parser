@@ -1,0 +1,606 @@
+{
+  "source": "https://intel.arkm.com/explorer/token/immutable-x",
+  "collected_at": "2026-02-10T11:28:04.889Z",
+  "rows": [
+    {
+      "name": "Immutable X\n: \nFoundry Treasury Unlocked (0x971)",
+      "balance_raw": "772,044,136.97",
+      "percent_raw": "38.6%",
+      "usd_raw": "$118.98M"
+    },
+    {
+      "name": "Immutable X\n: \nDev Treasury (0x146)",
+      "balance_raw": "374,013,236.12",
+      "percent_raw": "18.7%",
+      "usd_raw": "$57.64M"
+    },
+    {
+      "name": "Binance\n: \nCold Wallet (0xF97)",
+      "balance_raw": "69,000,000",
+      "percent_raw": "3.45%",
+      "usd_raw": "$10.63M"
+    },
+    {
+      "name": "Upbit\n: \nIMX (0x2F7)",
+      "balance_raw": "62,593,719.39",
+      "percent_raw": "3.13%",
+      "usd_raw": "$9.65M"
+    },
+    {
+      "name": "Immutable X\n: \nRootERC20BridgeFlowRate (Proxy) (0xBa5)",
+      "balance_raw": "55,969,783.2",
+      "percent_raw": "2.8%",
+      "usd_raw": "$8.63M"
+    },
+    {
+      "name": "Immutable X\n: \nGnosis Safe Proxy (0xE91)",
+      "balance_raw": "45,473,269",
+      "percent_raw": "2.27%",
+      "usd_raw": "$7.01M"
+    },
+    {
+      "name": "WalletSimple (BitGo) (0x9aC)",
+      "balance_raw": "38,975,112",
+      "percent_raw": "1.95%",
+      "usd_raw": "$6.01M"
+    },
+    {
+      "name": "Bybit\n: \nHot Wallet (0xa4B)",
+      "balance_raw": "16,840,665.25",
+      "percent_raw": "0.84%",
+      "usd_raw": "$2.6M"
+    },
+    {
+      "name": "0x7e37D15cBd63e20b183Fd8C6Bf2Ceba262e5C511",
+      "balance_raw": "16,500,000",
+      "percent_raw": "0.83%",
+      "usd_raw": "$2.54M"
+    },
+    {
+      "name": "0xD55C27e3a4cB1a36ea772299a06fAD281ebe8778",
+      "balance_raw": "12,875,000",
+      "percent_raw": "0.64%",
+      "usd_raw": "$1.98M"
+    },
+    {
+      "name": "Immutable X\n: \nBridge (0x5FD)",
+      "balance_raw": "12,133,439.73",
+      "percent_raw": "0.61%",
+      "usd_raw": "$1.87M"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x58b)",
+      "balance_raw": "11,728,388.36",
+      "percent_raw": "0.59%",
+      "usd_raw": "$1.81M"
+    },
+    {
+      "name": "0x645b8D9C037ea71dE38A8C45AE6773E1f6037b79",
+      "balance_raw": "11,678,234.44",
+      "percent_raw": "0.58%",
+      "usd_raw": "$1.8M"
+    },
+    {
+      "name": "Immutable X\n: \nFoundation Treasury (Locked) (0x237)",
+      "balance_raw": "11,027,470.79",
+      "percent_raw": "0.55%",
+      "usd_raw": "$1.7M"
+    },
+    {
+      "name": "Bithumb\n: \nHot Wallet (0x128)",
+      "balance_raw": "8,726,691.21",
+      "percent_raw": "0.44%",
+      "usd_raw": "$1.34M"
+    },
+    {
+      "name": "0xf7a2c678574707E7f625179B124e2256E91e12A6",
+      "balance_raw": "8,649,083.67",
+      "percent_raw": "0.43%",
+      "usd_raw": "$1.33M"
+    },
+    {
+      "name": "Bitpanda?\n0x221f8e99408F730981bFC311EB9372DC353f3aC0",
+      "balance_raw": "8,178,845.64",
+      "percent_raw": "0.41%",
+      "usd_raw": "$1.26M"
+    },
+    {
+      "name": "0x78f8352e0C97e23A12dbf62Ce689Cb0a9c61949d",
+      "balance_raw": "7,458,603.23",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.15M"
+    },
+    {
+      "name": "0x6C6285762B497cF6aFBDF357d4DF84661cD16B4e",
+      "balance_raw": "7,345,984.44",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "0x09E13788392266c1d2f1c57B72184f4f64122044",
+      "balance_raw": "7,337,345.37",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "0x48AE8Cc1F601Ab2C91e820a8E636810ad80d90Fd",
+      "balance_raw": "7,328,200.78",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "0xB6C7E923e0300f9455eEF5Dc9a4569476e1Ef735",
+      "balance_raw": "7,322,395.3",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "0x024095293177db94880ddc5F40c010da226bdc4a",
+      "balance_raw": "7,322,395.3",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "0xDA713B4889fC45618748065aC61D42015299581A",
+      "balance_raw": "7,322,395.3",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "0x15Bd0fC49e18f8BB22D1F1651E7524F6Fdaed112",
+      "balance_raw": "7,322,395.3",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "0x8b94C89a7e623F5fd619703f23F0C106fC999859",
+      "balance_raw": "7,322,395.3",
+      "percent_raw": "0.37%",
+      "usd_raw": "$1.13M"
+    },
+    {
+      "name": "0xa222cff50dFFD4D4fA68010778005e35f05FB569",
+      "balance_raw": "7,225,380",
+      "percent_raw": "0.36%",
+      "usd_raw": "$1.11M"
+    },
+    {
+      "name": "Bitstamp\n: \nHot Wallet (0x7f6)",
+      "balance_raw": "6,873,459.03",
+      "percent_raw": "0.34%",
+      "usd_raw": "$1.06M"
+    },
+    {
+      "name": "eToro?\n0x77FB357f55BEf5a70d30663955F8C9f35794DF0E",
+      "balance_raw": "6,629,407.8",
+      "percent_raw": "0.33%",
+      "usd_raw": "$1.02M"
+    },
+    {
+      "name": "Coinbase Prime Custody (0xAf4)",
+      "balance_raw": "6,485,334.78",
+      "percent_raw": "0.32%",
+      "usd_raw": "$999.44K"
+    },
+    {
+      "name": "OKX\n: \nHot Wallet (0x91D)",
+      "balance_raw": "6,351,978.45",
+      "percent_raw": "0.32%",
+      "usd_raw": "$978.88K"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (0xd2D)",
+      "balance_raw": "5,785,140.64",
+      "percent_raw": "0.29%",
+      "usd_raw": "$891.53K"
+    },
+    {
+      "name": "Kraken\n: \nHot Wallet (0x7f9)",
+      "balance_raw": "5,660,747.39",
+      "percent_raw": "0.28%",
+      "usd_raw": "$872.36K"
+    },
+    {
+      "name": "0xCa6636D95EB1F7cB08E9733813017f6FA353020e",
+      "balance_raw": "5,324,557",
+      "percent_raw": "0.27%",
+      "usd_raw": "$820.55K"
+    },
+    {
+      "name": "0xbB975cB9631Fc4B9c153e1111FC9BC2B475d4cD1",
+      "balance_raw": "5,125,295",
+      "percent_raw": "0.26%",
+      "usd_raw": "$789.84K"
+    },
+    {
+      "name": "Binance\n: \nHot Wallet (0x28C)",
+      "balance_raw": "5,085,554.22",
+      "percent_raw": "0.25%",
+      "usd_raw": "$783.72K"
+    },
+    {
+      "name": "0x0E5DD4B87f21C9A7B1E1f8daA2311389432C8DE4",
+      "balance_raw": "4,957,765",
+      "percent_raw": "0.25%",
+      "usd_raw": "$764.03K"
+    },
+    {
+      "name": "0x362f3E7d2e7f4D0Da14D49F92e0306E6aeCf34BF",
+      "balance_raw": "4,922,301",
+      "percent_raw": "0.25%",
+      "usd_raw": "$758.56K"
+    },
+    {
+      "name": "0xaE93D349Be05A228d375B652A34f4C200c805cd3",
+      "balance_raw": "4,675,443",
+      "percent_raw": "0.23%",
+      "usd_raw": "$720.52K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (0xCFF)",
+      "balance_raw": "4,590,923.51",
+      "percent_raw": "0.23%",
+      "usd_raw": "$707.49K"
+    },
+    {
+      "name": "0xe1f77Bff403471bca8A7B63DF4Ad09C0918Ea3eD",
+      "balance_raw": "4,576,238",
+      "percent_raw": "0.23%",
+      "usd_raw": "$705.23K"
+    },
+    {
+      "name": "Kraken\n: \nCold Wallet (0x7DA)",
+      "balance_raw": "4,423,206.2",
+      "percent_raw": "0.22%",
+      "usd_raw": "$681.65K"
+    },
+    {
+      "name": "Coinbase\n: \nCoinbase Prime Custody (0x85B)",
+      "balance_raw": "4,373,519.21",
+      "percent_raw": "0.22%",
+      "usd_raw": "$673.99K"
+    },
+    {
+      "name": "bitFlyer\n: \nHot Wallet (0x111)",
+      "balance_raw": "4,236,378",
+      "percent_raw": "0.21%",
+      "usd_raw": "$652.86K"
+    },
+    {
+      "name": "0xEDC201F4b6c39e92194aFe26600748C3D82891F0",
+      "balance_raw": "4,196,697.46",
+      "percent_raw": "0.21%",
+      "usd_raw": "$646.74K"
+    },
+    {
+      "name": "0xa7DB489Ac3e25DFC22ab1526bB47aD662ED3AaaF",
+      "balance_raw": "4,107,258",
+      "percent_raw": "0.21%",
+      "usd_raw": "$632.96K"
+    },
+    {
+      "name": "Coinbase\n: \nHot Wallet (0xA9D)",
+      "balance_raw": "3,949,095.69",
+      "percent_raw": "0.2%",
+      "usd_raw": "$608.58K"
+    },
+    {
+      "name": "Bitget\n: \nCold Wallet (0xffa)",
+      "balance_raw": "3,730,912.99",
+      "percent_raw": "0.19%",
+      "usd_raw": "$574.96K"
+    },
+    {
+      "name": "OKX\n: \nCold Wallet (0x611)",
+      "balance_raw": "3,412,267.33",
+      "percent_raw": "0.17%",
+      "usd_raw": "$525.85K"
+    },
+    {
+      "name": "Coinbase Prime\n: \nHot Wallet (0xceB)",
+      "balance_raw": "3,398,149.12",
+      "percent_raw": "0.17%",
+      "usd_raw": "$523.68K"
+    },
+    {
+      "name": "0xb1BB60A11Dce11F8bB436677Bea0ffC123A2D7B2",
+      "balance_raw": "3,380,980",
+      "percent_raw": "0.17%",
+      "usd_raw": "$521.03K"
+    },
+    {
+      "name": "0x46ace62E63a64EA9EB050A85f3e51042d14b66Da",
+      "balance_raw": "3,341,009.8",
+      "percent_raw": "0.17%",
+      "usd_raw": "$514.87K"
+    },
+    {
+      "name": "0xf22f405C0aA6768c8599579A15bb099CC3204655",
+      "balance_raw": "3,318,539.48",
+      "percent_raw": "0.17%",
+      "usd_raw": "$511.41K"
+    },
+    {
+      "name": "0x966e6F4Bfa2FbBa933d6ed064047A98A103Ff994",
+      "balance_raw": "3,267,973.84",
+      "percent_raw": "0.16%",
+      "usd_raw": "$503.62K"
+    },
+    {
+      "name": "Bitbank\n: \nHot Wallet (0x372)",
+      "balance_raw": "3,186,849.44",
+      "percent_raw": "0.16%",
+      "usd_raw": "$491.12K"
+    },
+    {
+      "name": "0x8D96154b1bd20e9Be0279B73a5a1cE28374C5EA5",
+      "balance_raw": "3,181,057.42",
+      "percent_raw": "0.16%",
+      "usd_raw": "$490.22K"
+    },
+    {
+      "name": "Bitvavo?\nCoinbase Prime Custody (0x2E9)",
+      "balance_raw": "3,162,016.43",
+      "percent_raw": "0.16%",
+      "usd_raw": "$487.29K"
+    },
+    {
+      "name": "0x556b6E537E6eA740Db2DAFECa2bd2bECa3ABc627",
+      "balance_raw": "3,116,900.44",
+      "percent_raw": "0.16%",
+      "usd_raw": "$480.34K"
+    },
+    {
+      "name": "Gnosis Safe Proxy (0x884)",
+      "balance_raw": "3,105,050",
+      "percent_raw": "0.16%",
+      "usd_raw": "$478.51K"
+    },
+    {
+      "name": "0x3d81A56099E4F15f2f10CC2896F735829a879f2B",
+      "balance_raw": "3,070,560.28",
+      "percent_raw": "0.15%",
+      "usd_raw": "$473.19K"
+    },
+    {
+      "name": "0x341cec61386CbFf1A526B37c97af8F9fEf77B4b0",
+      "balance_raw": "2,976,798.73",
+      "percent_raw": "0.15%",
+      "usd_raw": "$458.75K"
+    },
+    {
+      "name": "Crypto.com\n: \nHot Wallet (0xA02)",
+      "balance_raw": "2,835,062.88",
+      "percent_raw": "0.14%",
+      "usd_raw": "$436.9K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0xB1B)",
+      "balance_raw": "2,817,036.92",
+      "percent_raw": "0.14%",
+      "usd_raw": "$434.13K"
+    },
+    {
+      "name": "0x576Fc444ec5C111a521Ac9d6550903fd8334FA9e",
+      "balance_raw": "2,681,335",
+      "percent_raw": "0.13%",
+      "usd_raw": "$413.21K"
+    },
+    {
+      "name": "0x2a4F252f10faA59Cf79B885Df2061e51F9EaB424",
+      "balance_raw": "2,660,358.22",
+      "percent_raw": "0.13%",
+      "usd_raw": "$409.98K"
+    },
+    {
+      "name": "Revolut\n \n(0x9b0)",
+      "balance_raw": "2,559,489.6",
+      "percent_raw": "0.13%",
+      "usd_raw": "$394.44K"
+    },
+    {
+      "name": "0x5bA50f3249F6d7BaeBaE019CF04353C804E6d930",
+      "balance_raw": "2,550,505",
+      "percent_raw": "0.13%",
+      "usd_raw": "$393.05K"
+    },
+    {
+      "name": "0x78d80D408A9B580C49646324C435E786bCbd1D47",
+      "balance_raw": "2,462,412.18",
+      "percent_raw": "0.12%",
+      "usd_raw": "$379.47K"
+    },
+    {
+      "name": "0x21fa273D7322b62cE62Aa144685bACb5867E3771",
+      "balance_raw": "2,445,078.94",
+      "percent_raw": "0.12%",
+      "usd_raw": "$376.8K"
+    },
+    {
+      "name": "@BREAKFASTny?\n0xdb58f2545039cC722066f70Ee41159c11601f591",
+      "balance_raw": "2,398,000",
+      "percent_raw": "0.12%",
+      "usd_raw": "$369.55K"
+    },
+    {
+      "name": "CoinSpot\n \n(0xf35)",
+      "balance_raw": "2,350,240",
+      "percent_raw": "0.12%",
+      "usd_raw": "$362.19K"
+    },
+    {
+      "name": "0xE30d07b5f39cd65dCAD5a265A499E9f40C5fDa69",
+      "balance_raw": "2,342,177.5",
+      "percent_raw": "0.12%",
+      "usd_raw": "$360.95K"
+    },
+    {
+      "name": "Bitvavo\n: \nCold Wallet (0xedC)",
+      "balance_raw": "2,326,018.72",
+      "percent_raw": "0.12%",
+      "usd_raw": "$358.46K"
+    },
+    {
+      "name": "0x6B46A55aa0fd88fbcb707B9EFFBE5d80cBFfba98",
+      "balance_raw": "2,324,200",
+      "percent_raw": "0.12%",
+      "usd_raw": "$358.18K"
+    },
+    {
+      "name": "KuCoin\n: \nCold Wallet (0x8da)",
+      "balance_raw": "2,280,106.75",
+      "percent_raw": "0.11%",
+      "usd_raw": "$351.38K"
+    },
+    {
+      "name": "SwissBorg\n: \nHot Wallet (0x28c)",
+      "balance_raw": "2,259,049.59",
+      "percent_raw": "0.11%",
+      "usd_raw": "$348.14K"
+    },
+    {
+      "name": "0xa531bA0dcA0976088DE75622da17DFd822fD418d",
+      "balance_raw": "2,222,333",
+      "percent_raw": "0.11%",
+      "usd_raw": "$342.48K"
+    },
+    {
+      "name": "0x061f41AF2640b4d69d9662850E9d72B7aBA8b6D9",
+      "balance_raw": "2,192,310.21",
+      "percent_raw": "0.11%",
+      "usd_raw": "$337.85K"
+    },
+    {
+      "name": "Gate\n: \nHot Wallet (0x0D0)",
+      "balance_raw": "1,946,411.8",
+      "percent_raw": "0.097%",
+      "usd_raw": "$299.96K"
+    },
+    {
+      "name": "21Shares (21.co)?\n0x496e9feA9FAD7d794C6EEd20cC4Df07F7aE0720e",
+      "balance_raw": "1,908,416",
+      "percent_raw": "0.095%",
+      "usd_raw": "$294.1K"
+    },
+    {
+      "name": "Coinbase Prime Custody (0x260)",
+      "balance_raw": "1,834,829.83",
+      "percent_raw": "0.092%",
+      "usd_raw": "$282.76K"
+    },
+    {
+      "name": "0x43A0cf4739559E4f58bc661deAbad52E79a129E1",
+      "balance_raw": "1,796,330.34",
+      "percent_raw": "0.09%",
+      "usd_raw": "$276.83K"
+    },
+    {
+      "name": "0x458E433Ae998F687D5ec323077521fc2721C5E20",
+      "balance_raw": "1,792,247.36",
+      "percent_raw": "0.09%",
+      "usd_raw": "$276.2K"
+    },
+    {
+      "name": "0x5875654D49B8aECec0ca6af390aB3223d961aBbb",
+      "balance_raw": "1,785,706.48",
+      "percent_raw": "0.089%",
+      "usd_raw": "$275.19K"
+    },
+    {
+      "name": "BtcTurk\n: \nHot Wallet (0x76e)",
+      "balance_raw": "1,734,415.96",
+      "percent_raw": "0.087%",
+      "usd_raw": "$267.29K"
+    },
+    {
+      "name": "Binance\n \n(0x98A)",
+      "balance_raw": "1,707,068.15",
+      "percent_raw": "0.085%",
+      "usd_raw": "$263.07K"
+    },
+    {
+      "name": "Bitkub\n: \nMultiSig (BitGo) (0x326)",
+      "balance_raw": "1,696,060.83",
+      "percent_raw": "0.085%",
+      "usd_raw": "$261.37K"
+    },
+    {
+      "name": "0x22aD11024676b7a63665c6361AE8cb7aF8e29afB",
+      "balance_raw": "1,655,487.13",
+      "percent_raw": "0.083%",
+      "usd_raw": "$255.12K"
+    },
+    {
+      "name": "BTC Markets\n: \nMultiSig (BitGo) (0xaec)",
+      "balance_raw": "1,610,085.29",
+      "percent_raw": "0.081%",
+      "usd_raw": "$248.13K"
+    },
+    {
+      "name": "Beeple?\n0xF7dc5b63dF3bF8D0B58b2742Bccd400aaC6c4bd2",
+      "balance_raw": "1,600,001",
+      "percent_raw": "0.08%",
+      "usd_raw": "$246.57K"
+    },
+    {
+      "name": "0x53CaC1D8418510a44648d13f01B0F5710CB120B0",
+      "balance_raw": "1,560,410",
+      "percent_raw": "0.078%",
+      "usd_raw": "$240.47K"
+    },
+    {
+      "name": "CoinList\n: \nMultiSig (BitGo) (0x187)",
+      "balance_raw": "1,550,997",
+      "percent_raw": "0.078%",
+      "usd_raw": "$239.02K"
+    },
+    {
+      "name": "Anchorage Digital?\n0x0795995170cBa2e5aD265e1b79aF58350998A047",
+      "balance_raw": "1,537,187.5",
+      "percent_raw": "0.077%",
+      "usd_raw": "$236.89K"
+    },
+    {
+      "name": "0xd367E507282Cd1b461891bD86051F4cb6d10069B",
+      "balance_raw": "1,532,692.57",
+      "percent_raw": "0.077%",
+      "usd_raw": "$236.2K"
+    },
+    {
+      "name": "HTX\n: \nRecovery Hot Wallet (0x187)",
+      "balance_raw": "1,521,260.42",
+      "percent_raw": "0.076%",
+      "usd_raw": "$234.44K"
+    },
+    {
+      "name": "Gemini\n: \nCold Wallet (0xAFC)",
+      "balance_raw": "1,500,000",
+      "percent_raw": "0.075%",
+      "usd_raw": "$231.16K"
+    },
+    {
+      "name": "0x8f9666f68372C39D85Cf75D2f1D3CC8e18D8eC27",
+      "balance_raw": "1,439,409.85",
+      "percent_raw": "0.072%",
+      "usd_raw": "$221.82K"
+    },
+    {
+      "name": "0x3CCBd4Ac0b44E273b7458D698Cc44345870d6C9b",
+      "balance_raw": "1,388,127.2",
+      "percent_raw": "0.069%",
+      "usd_raw": "$213.92K"
+    },
+    {
+      "name": "0xe64dfa27165C49BC7E3E84F27eD50E7D4821198b",
+      "balance_raw": "1,368,997.59",
+      "percent_raw": "0.068%",
+      "usd_raw": "$210.97K"
+    },
+    {
+      "name": "0x41A7F817bC60298073BB84af7cbd999C94Cf402A",
+      "balance_raw": "1,329,577.27",
+      "percent_raw": "0.066%",
+      "usd_raw": "$204.9K"
+    }
+  ]
+}

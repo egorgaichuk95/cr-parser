@@ -1,0 +1,49 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+.venv*/
+env/
+.env/
+ENV/
+
+# ===== IDE / Editors =====
+.idea/
+.vscode/
+*.iml
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Build / Dist =====
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===== Tests / Coverage =====
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Temporary files =====
+*.tmp
+*.swp
+*.swo
+*~
+
+# ===== Local configs =====
+*.local
+*.env.local

@@ -1,0 +1,606 @@
+{
+  "source": "https://intel.arkm.com/explorer/token/oobit-2",
+  "collected_at": "2025-11-30T07:53:09.454Z",
+  "rows": [
+    {
+      "name": "HKqW8ozTqSgdqaPaZnVGzewBE92Mr8MkDGECK3PftoaN",
+      "balance_raw": "309,595,185.08",
+      "percent_raw": "30.96%",
+      "usd_raw": "$44.39M"
+    },
+    {
+      "name": "ER2SgbaL95vThnKVQiHzYKJjFfvVf74YrxMpZ8nQgWzm",
+      "balance_raw": "200,000,000",
+      "percent_raw": "20%",
+      "usd_raw": "$28.67M"
+    },
+    {
+      "name": "69sXPULmTjMDDuUM8PnARjvfZ9mZ1KQwrhUQZmd6Q661",
+      "balance_raw": "150,000,000",
+      "percent_raw": "15%",
+      "usd_raw": "$21.51M"
+    },
+    {
+      "name": "9wHnCqEp189eWW8ry5NALbJMa6C224RuADvXC8F6kUfF",
+      "balance_raw": "100,000,000",
+      "percent_raw": "10%",
+      "usd_raw": "$14.34M"
+    },
+    {
+      "name": "B7KnqumbJPkzhMjvC1m2f1qcvivAT8UW8nt4Av23iUWb",
+      "balance_raw": "50,000,000",
+      "percent_raw": "5%",
+      "usd_raw": "$7.17M"
+    },
+    {
+      "name": "HfuMTpi8opgWJkFhTqDNEZKXXthWBpoUgFCkaQiVrLK2",
+      "balance_raw": "23,366,266.31",
+      "percent_raw": "2.34%",
+      "usd_raw": "$3.35M"
+    },
+    {
+      "name": "Kraken\n: \nHot Wallet (6LY1J)",
+      "balance_raw": "18,358,775.35",
+      "percent_raw": "1.84%",
+      "usd_raw": "$2.63M"
+    },
+    {
+      "name": "MEXC\n: \nHot Wallet (ASTyf)",
+      "balance_raw": "10,336,429.94",
+      "percent_raw": "1.03%",
+      "usd_raw": "$1.48M"
+    },
+    {
+      "name": "Fireblocks Custody (6JcL4)",
+      "balance_raw": "10,000,000",
+      "percent_raw": "1%",
+      "usd_raw": "$1.43M"
+    },
+    {
+      "name": "Gate\n: \nHot Wallet (u6PJ8)",
+      "balance_raw": "7,634,585.39",
+      "percent_raw": "0.76%",
+      "usd_raw": "$1.09M"
+    },
+    {
+      "name": "Fireblocks Custody (Gitup)",
+      "balance_raw": "7,369,627.37",
+      "percent_raw": "0.74%",
+      "usd_raw": "$1.06M"
+    },
+    {
+      "name": "Orca\n: \nMarket (DehSV)",
+      "balance_raw": "5,565,976.79",
+      "percent_raw": "0.56%",
+      "usd_raw": "$797.99K"
+    },
+    {
+      "name": "4KtbdJGrRrPPyA4H6Kk2qe4BE9Tyj4VgEx4ZHdD9twBk",
+      "balance_raw": "5,329,921.2",
+      "percent_raw": "0.53%",
+      "usd_raw": "$764.15K"
+    },
+    {
+      "name": "CnBYrX1tPQk49feDobazzGgwJfDp2opULbtrTHTRaTPB",
+      "balance_raw": "5,277,062.72",
+      "percent_raw": "0.53%",
+      "usd_raw": "$756.57K"
+    },
+    {
+      "name": "A1G3XzigZGXusiS8cVAcVcydajWUT9msj2TqiayBd4JD",
+      "balance_raw": "5,000,000",
+      "percent_raw": "0.5%",
+      "usd_raw": "$716.85K"
+    },
+    {
+      "name": "ALGCE4AcxEjqURXbmp4c1rkqy86CQmg1pZZkZ8TNzTvu",
+      "balance_raw": "4,237,258.27",
+      "percent_raw": "0.42%",
+      "usd_raw": "$607.49K"
+    },
+    {
+      "name": "D6vLQQwsPdrfUYL1jnmaA8ftXzjQZnbVgnQHYpn6XAHi",
+      "balance_raw": "4,174,603",
+      "percent_raw": "0.42%",
+      "usd_raw": "$598.51K"
+    },
+    {
+      "name": "Gpx2yNdzFkajJHHBQ7kT9KjRPGFyQ2GgWaZYGPwX7kPM",
+      "balance_raw": "3,999,919",
+      "percent_raw": "0.4%",
+      "usd_raw": "$573.46K"
+    },
+    {
+      "name": "HKDfkynaqzLRE9RLVMEYYoXX9RBxjTG9q8yzkVFPu2BA",
+      "balance_raw": "3,665,554.54",
+      "percent_raw": "0.37%",
+      "usd_raw": "$525.53K"
+    },
+    {
+      "name": "Fireblocks Custody (6tZHb)",
+      "balance_raw": "3,375,784",
+      "percent_raw": "0.34%",
+      "usd_raw": "$483.98K"
+    },
+    {
+      "name": "Q1Kj9dC3gevDhwposzrrvbjv2YKdbDDJJ7SKskqjQ7k",
+      "balance_raw": "3,103,606.25",
+      "percent_raw": "0.31%",
+      "usd_raw": "$444.96K"
+    },
+    {
+      "name": "EyZDcMTQJ8hMSE65bTySRkcrDUXpgXGpz3RYeetrgYFx",
+      "balance_raw": "2,676,184.54",
+      "percent_raw": "0.27%",
+      "usd_raw": "$383.68K"
+    },
+    {
+      "name": "3q1mymsVucRpq4B4m2qNb2oagYTUfBGwQC6HFVoJMCbv",
+      "balance_raw": "2,600,050",
+      "percent_raw": "0.26%",
+      "usd_raw": "$372.77K"
+    },
+    {
+      "name": "CF7dUag8UWXh78r4EW4Skf8d1unURC9pZydQVL49x8bg",
+      "balance_raw": "2,484,459.69",
+      "percent_raw": "0.25%",
+      "usd_raw": "$356.19K"
+    },
+    {
+      "name": "2wVqErr4bnHPSPxd4e5abC41QEWuc53qLK9KtzNHymoA",
+      "balance_raw": "2,015,187.18",
+      "percent_raw": "0.2%",
+      "usd_raw": "$288.92K"
+    },
+    {
+      "name": "2wEsBuR6K5nHyQNF9aDsjiKzL8TbnvuJGTrFYnjAoyCm",
+      "balance_raw": "1,999,910",
+      "percent_raw": "0.2%",
+      "usd_raw": "$286.73K"
+    },
+    {
+      "name": "Dpn4mZLyUQzWjmzsuyUK2N8eWcwwsBPBFTAUEQ4AuWdX",
+      "balance_raw": "1,699,972",
+      "percent_raw": "0.17%",
+      "usd_raw": "$243.72K"
+    },
+    {
+      "name": "3xtHuNcJp6bEqTZokFyA8UtTKWtTQf2gXouAPuQqawb1",
+      "balance_raw": "1,649,569.49",
+      "percent_raw": "0.16%",
+      "usd_raw": "$236.5K"
+    },
+    {
+      "name": "@old\n \n(CA4ke)",
+      "balance_raw": "1,571,342.09",
+      "percent_raw": "0.16%",
+      "usd_raw": "$225.28K"
+    },
+    {
+      "name": "3vHkBFbRY7f4qNRUkvzmex9YB4RP8PeKkLNRS3MvPoch",
+      "balance_raw": "1,519,028.94",
+      "percent_raw": "0.15%",
+      "usd_raw": "$217.78K"
+    },
+    {
+      "name": "DmPKsPbb25ZqdMj77zvRh4GNydEnwmhuvqSqRV5V6o4d",
+      "balance_raw": "1,364,408.84",
+      "percent_raw": "0.14%",
+      "usd_raw": "$195.61K"
+    },
+    {
+      "name": "24RyKtc3UB3AhfmHefN938VwJJRzoHQdgYEobeqWQFqr",
+      "balance_raw": "1,260,026",
+      "percent_raw": "0.13%",
+      "usd_raw": "$180.65K"
+    },
+    {
+      "name": "DwQBgUzSxv2K91w532LocVBvNKN74GLd1nRmrSYFaxtj",
+      "balance_raw": "1,249,972",
+      "percent_raw": "0.12%",
+      "usd_raw": "$179.21K"
+    },
+    {
+      "name": "9MZziH7qNyS1ydja2vkrfXekChXq7MGMsxJMRK7ZYRA1",
+      "balance_raw": "1,248,420.48",
+      "percent_raw": "0.12%",
+      "usd_raw": "$178.98K"
+    },
+    {
+      "name": "Meteora (Prev. Mercurial)\n: \nMarket (6aXJD)",
+      "balance_raw": "1,151,439.47",
+      "percent_raw": "0.12%",
+      "usd_raw": "$165.08K"
+    },
+    {
+      "name": "ER8MMJnKAG6KeaUhqtg7y3zBDhHXLykfXqeqxdetVbJP",
+      "balance_raw": "1,095,607.37",
+      "percent_raw": "0.11%",
+      "usd_raw": "$157.08K"
+    },
+    {
+      "name": "C5tTsPKB9o9Jgqi1SfuwbHY9UHchx5w7VcmCMp5Tmsxu",
+      "balance_raw": "1,093,205.53",
+      "percent_raw": "0.11%",
+      "usd_raw": "$156.73K"
+    },
+    {
+      "name": "3cBB2ZyoNy8YEquSSzR2Rpggp9vcrfz4NcbCKHp7BzvT",
+      "balance_raw": "1,053,641.88",
+      "percent_raw": "0.11%",
+      "usd_raw": "$151.06K"
+    },
+    {
+      "name": "5usfAChTbkEsrPfEvJPZxuYJKgQ3jF1oQyZ5Tj8PvQoh",
+      "balance_raw": "1,000,000",
+      "percent_raw": "0.1%",
+      "usd_raw": "$143.37K"
+    },
+    {
+      "name": "38VsPabEe7HUFXcbrqdKiV94LhGeeaETs6dYvWJshaNY",
+      "balance_raw": "993,674.56",
+      "percent_raw": "0.099%",
+      "usd_raw": "$142.46K"
+    },
+    {
+      "name": "ARdsK1sibLv7hDqzeKWQCSZ9mqXK9nrCoMrSNMPf8i8w",
+      "balance_raw": "940,800.76",
+      "percent_raw": "0.094%",
+      "usd_raw": "$134.88K"
+    },
+    {
+      "name": "FUuN1V79AEFZzWdzcQswz4WhGvXsS2N5xx29JDct5eqA",
+      "balance_raw": "900,100",
+      "percent_raw": "0.09%",
+      "usd_raw": "$129.05K"
+    },
+    {
+      "name": "Hj9CdVfmfAKrRs7YQaC3MutriaBWhg6d5FSRoveebWZd",
+      "balance_raw": "878,144.53",
+      "percent_raw": "0.088%",
+      "usd_raw": "$125.9K"
+    },
+    {
+      "name": "GjC8dFg3gRwYVcbLJnHCaJ6W8Er3QrqYbszF2VWnTZRE",
+      "balance_raw": "847,309.43",
+      "percent_raw": "0.085%",
+      "usd_raw": "$121.48K"
+    },
+    {
+      "name": "DxFxvk9725aYNwgSGakh2p1S5UXFb5ozhbcoHAyEq1TF",
+      "balance_raw": "819,825.45",
+      "percent_raw": "0.082%",
+      "usd_raw": "$117.54K"
+    },
+    {
+      "name": "CpKuhcFHogvrq7Fx3enu57xTRkh1WyzER1TVVBimC5mo",
+      "balance_raw": "750,210.86",
+      "percent_raw": "0.075%",
+      "usd_raw": "$107.56K"
+    },
+    {
+      "name": "CrMGpr7W5Zw4NmRqqtrHSNjDtLRzR1dSnaRyoaoMDDoH",
+      "balance_raw": "735,151.01",
+      "percent_raw": "0.074%",
+      "usd_raw": "$105.4K"
+    },
+    {
+      "name": "GFRjGNXY8JrGSPC46inqrH4XPdUFMDLkE1oNm1nXiPsJ",
+      "balance_raw": "705,841.84",
+      "percent_raw": "0.071%",
+      "usd_raw": "$101.2K"
+    },
+    {
+      "name": "JAW3rczW8hAXAhKVVModTWnYPVtCTJ28N1K9EQmtySkp",
+      "balance_raw": "695,185.04",
+      "percent_raw": "0.07%",
+      "usd_raw": "$99.67K"
+    },
+    {
+      "name": "9vnC1p3AvvYPwGV5RhgW9REBMNcMqwjrQNW7KeagD5zp",
+      "balance_raw": "651,188.83",
+      "percent_raw": "0.065%",
+      "usd_raw": "$93.36K"
+    },
+    {
+      "name": "BZUQWwn5frY6u5sG8qWiTC5BDmfN6CieStj68HPmQwwf",
+      "balance_raw": "638,369.44",
+      "percent_raw": "0.064%",
+      "usd_raw": "$91.52K"
+    },
+    {
+      "name": "7iPPqPyrqcmfenRs4xZ72ab4pyuUofXB5YaQB83WJmT9",
+      "balance_raw": "621,018.85",
+      "percent_raw": "0.062%",
+      "usd_raw": "$89.03K"
+    },
+    {
+      "name": "Hj2oLJH3yKWGfXUMd2P5pkBhkVL4bTwafbqYk1GwteFz",
+      "balance_raw": "598,093.97",
+      "percent_raw": "0.06%",
+      "usd_raw": "$85.75K"
+    },
+    {
+      "name": "HiCoUYBUm8kGP9aegqyRrYg56xuHAzLZrSobdgNEk85Z",
+      "balance_raw": "587,172.35",
+      "percent_raw": "0.059%",
+      "usd_raw": "$84.18K"
+    },
+    {
+      "name": "4zgmw51EtCDg7APHcC8LwFzBY4exM6rzbUcwV7Zxc5aA",
+      "balance_raw": "573,265.8",
+      "percent_raw": "0.057%",
+      "usd_raw": "$82.19K"
+    },
+    {
+      "name": "DVBQwpcm6GTJ1huWmLinG5PYv6VmekshdrA5nHH3DrAw",
+      "balance_raw": "569,282",
+      "percent_raw": "0.057%",
+      "usd_raw": "$81.62K"
+    },
+    {
+      "name": "BszjjdjqazN2C9BtrsbfTWhrGv2iKAs93M53maCkQoyA",
+      "balance_raw": "533,525.72",
+      "percent_raw": "0.053%",
+      "usd_raw": "$76.49K"
+    },
+    {
+      "name": "8AF14MVrJSgDmUV4KvT6gfn2vzCXrY2zzcP8xSNPC7sc",
+      "balance_raw": "531,267.69",
+      "percent_raw": "0.053%",
+      "usd_raw": "$76.17K"
+    },
+    {
+      "name": "FixC8pSYs18sdjE8QtxoGAxL1nxFTcLJan6JPvetxQ11",
+      "balance_raw": "475,000.32",
+      "percent_raw": "0.048%",
+      "usd_raw": "$68.1K"
+    },
+    {
+      "name": "CnCqNXkutUmsuaJBwz2yuU42sYZtTytg39eKo7s9Sjay",
+      "balance_raw": "456,054",
+      "percent_raw": "0.046%",
+      "usd_raw": "$65.38K"
+    },
+    {
+      "name": "H7Uu6hFBzc52HsFQk6vtq9npmGSxoxM6DoQCJ1fdMYSw",
+      "balance_raw": "454,046.69",
+      "percent_raw": "0.045%",
+      "usd_raw": "$65.1K"
+    },
+    {
+      "name": "E7xNqFwPUWQiVG4Y4ycS5ga66FCJNBMTjwFeBnDgHP4g",
+      "balance_raw": "446,931.74",
+      "percent_raw": "0.045%",
+      "usd_raw": "$64.08K"
+    },
+    {
+      "name": "JayoBkN6wyughqFW3GiauU76JqrDkANVo1bxF9Zx66t",
+      "balance_raw": "428,066.08",
+      "percent_raw": "0.043%",
+      "usd_raw": "$61.37K"
+    },
+    {
+      "name": "Exkt4pV9XyVrUW7JcQCbRGNGfgLLSy2RCCtxQrUKtDzF",
+      "balance_raw": "409,652.8",
+      "percent_raw": "0.041%",
+      "usd_raw": "$58.73K"
+    },
+    {
+      "name": "HWpYC48q5wYyngVs1QBhzzWozBpRQ812nr4xzo7q3jyt",
+      "balance_raw": "402,159.35",
+      "percent_raw": "0.04%",
+      "usd_raw": "$57.66K"
+    },
+    {
+      "name": "7Jgh3eaZgDgLJT9BM9ViS3by7uQQf75EkGqLgMWt5fo9",
+      "balance_raw": "399,999",
+      "percent_raw": "0.04%",
+      "usd_raw": "$57.35K"
+    },
+    {
+      "name": "3oKw6GZtHEkjGz5kHp828NX9LUdRUabm9roH2mcpXkX5",
+      "balance_raw": "385,471.6",
+      "percent_raw": "0.039%",
+      "usd_raw": "$55.26K"
+    },
+    {
+      "name": "\"comedian\" on Pump.fun (91Y3D)",
+      "balance_raw": "362,663",
+      "percent_raw": "0.036%",
+      "usd_raw": "$51.99K"
+    },
+    {
+      "name": "Gvqz9SwuchrYwoRxEFx1rnKZmmRpa2iCPJNjbqkwhFc",
+      "balance_raw": "349,506.63",
+      "percent_raw": "0.035%",
+      "usd_raw": "$50.11K"
+    },
+    {
+      "name": "Meteora (Prev. Mercurial)\n: \nMarket (FDd7m)",
+      "balance_raw": "347,446.85",
+      "percent_raw": "0.035%",
+      "usd_raw": "$49.81K"
+    },
+    {
+      "name": "DneXhy1ctG9vckv9Q5UQsgMS1fgvXTHkApTLQ9gbAkJp",
+      "balance_raw": "346,889.62",
+      "percent_raw": "0.035%",
+      "usd_raw": "$49.73K"
+    },
+    {
+      "name": "6GZsH8FTJF5CXXWCJErao8FKPR169aHxXtnv772PzCbV",
+      "balance_raw": "346,405.31",
+      "percent_raw": "0.035%",
+      "usd_raw": "$49.66K"
+    },
+    {
+      "name": "FqQWPeth5Bh4ufGSVAiR28aRnk4d6Xxkges4YuG8kQJy",
+      "balance_raw": "343,639.33",
+      "percent_raw": "0.034%",
+      "usd_raw": "$49.27K"
+    },
+    {
+      "name": "DoBpUojJeZdmriDPCgMh7MGo5iapRFZGBavBaRt2L1xh",
+      "balance_raw": "317,078",
+      "percent_raw": "0.032%",
+      "usd_raw": "$45.46K"
+    },
+    {
+      "name": "EhkkkELWULyV2eaNAL1vPxRUhq1WXnZ6p9JoyBp6fZWA",
+      "balance_raw": "304,546.29",
+      "percent_raw": "0.03%",
+      "usd_raw": "$43.66K"
+    },
+    {
+      "name": "GeADVwY36vmMJeJKtYtkWRRvxAXWzasrtRSdKWf4TLMR",
+      "balance_raw": "300,000",
+      "percent_raw": "0.03%",
+      "usd_raw": "$43.01K"
+    },
+    {
+      "name": "CesR1ReWU94N1zXmChrmoxy7nmojCUWVLZnikvZKbf4Z",
+      "balance_raw": "298,792.31",
+      "percent_raw": "0.03%",
+      "usd_raw": "$42.84K"
+    },
+    {
+      "name": "6K9E31XZunGdkxGfkqA5mC83Emi3Hp8SRDdb4RWnSyiH",
+      "balance_raw": "298,777.07",
+      "percent_raw": "0.03%",
+      "usd_raw": "$42.84K"
+    },
+    {
+      "name": "E5qiPkj5zdN66wdxAbx1qsmP5oYqzgRjkQBH2XMCa5u2",
+      "balance_raw": "298,458.06",
+      "percent_raw": "0.03%",
+      "usd_raw": "$42.79K"
+    },
+    {
+      "name": "Gf4DDFRPQD7TpcUDYpDhWxpCd8rx3sCp1krewbzWnSzG",
+      "balance_raw": "297,890.73",
+      "percent_raw": "0.03%",
+      "usd_raw": "$42.71K"
+    },
+    {
+      "name": "6ZtAPzHGCzPALaYNE39imybbr1x9VrMYA556RDSt3wBc",
+      "balance_raw": "293,479.44",
+      "percent_raw": "0.029%",
+      "usd_raw": "$42.08K"
+    },
+    {
+      "name": "BW4oXEu4syZsS4U5HeUXjeG2uQJEA49zp5ByYTR7hywp",
+      "balance_raw": "281,577.66",
+      "percent_raw": "0.028%",
+      "usd_raw": "$40.37K"
+    },
+    {
+      "name": "4653zACRFWxdP8Bu5yMp3ztucdVGM9LSgqFLxdCHN9MU",
+      "balance_raw": "279,186.35",
+      "percent_raw": "0.028%",
+      "usd_raw": "$40.03K"
+    },
+    {
+      "name": "FpMXd9BmGAyBYLgQNfjmSBxL9QmCCBsa9V3KtuDM3LVK",
+      "balance_raw": "274,487.73",
+      "percent_raw": "0.027%",
+      "usd_raw": "$39.35K"
+    },
+    {
+      "name": "FW8eqzF3C71KLiLvQkrhV3oPacYFJHYjfLA8CLUbub6D",
+      "balance_raw": "270,174.12",
+      "percent_raw": "0.027%",
+      "usd_raw": "$38.73K"
+    },
+    {
+      "name": "2o1odPv3HBNwCeQo1rUnAwPLLYc4MrLmexiWcYE7ei6N",
+      "balance_raw": "269,670.52",
+      "percent_raw": "0.027%",
+      "usd_raw": "$38.66K"
+    },
+    {
+      "name": "i3mpGBG5dvAXoEHKuoMoQgiLJ5izjpsRG8ic2TCRPja",
+      "balance_raw": "268,118.56",
+      "percent_raw": "0.027%",
+      "usd_raw": "$38.44K"
+    },
+    {
+      "name": "3Qe7vGm2BcKCCGtXHbuiDeBsJFJ8t7F9JaygT6ez8B74",
+      "balance_raw": "265,396.63",
+      "percent_raw": "0.027%",
+      "usd_raw": "$38.05K"
+    },
+    {
+      "name": "6q8G4U7oYukdotC99LN4DzrmsUhinFkxTQSuH84rWQJb",
+      "balance_raw": "255,229.65",
+      "percent_raw": "0.026%",
+      "usd_raw": "$36.59K"
+    },
+    {
+      "name": "3FdFgZZVkumewJq5YxJ8oNT2MVPF5e4DVcc8VyAzb1P7",
+      "balance_raw": "252,275.18",
+      "percent_raw": "0.025%",
+      "usd_raw": "$36.17K"
+    },
+    {
+      "name": "DZThhZf5FfKjhTk1GH2W5sZtHKrPFoaoRPv88UpJd88b",
+      "balance_raw": "250,000.35",
+      "percent_raw": "0.025%",
+      "usd_raw": "$35.84K"
+    },
+    {
+      "name": "AVuC8AWn9to3d29Gqku4DCN82AvmN3wnd4DzWmAobwvb",
+      "balance_raw": "248,072.86",
+      "percent_raw": "0.025%",
+      "usd_raw": "$35.57K"
+    },
+    {
+      "name": "H1Uhs6qXkjmTsFJ96KE817Wc2D4LpmU7ZQtVEUCY5WPK",
+      "balance_raw": "240,619.8",
+      "percent_raw": "0.024%",
+      "usd_raw": "$34.5K"
+    },
+    {
+      "name": "AkY2xiJNzQaStLAfPD8JUv9mk5YJVggeiJDT8tnHhKPX",
+      "balance_raw": "234,951.44",
+      "percent_raw": "0.023%",
+      "usd_raw": "$33.68K"
+    },
+    {
+      "name": "FzA3LT9hnpSNX5e5QGff25BRtXJXb3CEiToYukVsLNpx",
+      "balance_raw": "234,179.11",
+      "percent_raw": "0.023%",
+      "usd_raw": "$33.57K"
+    },
+    {
+      "name": "Fireblocks Custody (BrTJ4)",
+      "balance_raw": "227,075.05",
+      "percent_raw": "0.023%",
+      "usd_raw": "$32.56K"
+    },
+    {
+      "name": "DAeWNYBGMJy6XVucbLUFPmYiNkhXr8HSuqyepZG2wrkB",
+      "balance_raw": "224,649.87",
+      "percent_raw": "0.022%",
+      "usd_raw": "$32.21K"
+    },
+    {
+      "name": "87DEsgeDJ6TMQ5NbPN3ETe7KUwPUmmvKnT67xHCF8B9s",
+      "balance_raw": "223,201.4",
+      "percent_raw": "0.022%",
+      "usd_raw": "$32K"
+    },
+    {
+      "name": "DTxWNSCoUKvdRNtgXmJipEEC5AQWEB1TMnWtosRH4w75",
+      "balance_raw": "221,357",
+      "percent_raw": "0.022%",
+      "usd_raw": "$31.74K"
+    },
+    {
+      "name": "FNZUfZ9cgeAYKRhs7cGohYdJurezLohy9QbtCARLJbCk",
+      "balance_raw": "209,191",
+      "percent_raw": "0.021%",
+      "usd_raw": "$29.99K"
+    }
+  ]
+}
