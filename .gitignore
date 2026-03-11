@@ -47,3 +47,5 @@ htmlcov/
 # ===== Local configs =====
 *.local
 *.env.local
+.env
+data/
